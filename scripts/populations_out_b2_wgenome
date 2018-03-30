@@ -1,0 +1,187 @@
+Fst kernel smoothing: off
+Bootstrap resampling: off
+Percent samples limit per population: 0.8
+Locus Population limit: 3
+Minimum stack depth: 10
+Log liklihood filtering: off; threshold: 0
+Minor allele frequency cutoff: 0
+Maximum observed heterozygosity cutoff: 1
+Applying Fst correction: none.
+Parsing population map...
+The population map contained 50 samples, 9 population(s), 1 group(s).
+Reading the catalog...
+  Parsing stacks_b2_wgenome/batch_2.catalog.tags.tsv
+  Parsing stacks_b2_wgenome/batch_2.catalog.snps.tsv
+  Parsing stacks_b2_wgenome/batch_2.catalog.alleles.tsv
+Reading matches to the catalog...
+  Parsing stacks_b2_wgenome/PO010715_07_rep_subset.matches.tsv
+  Parsing stacks_b2_wgenome/PO010715_26_subset.matches.tsv
+  Parsing stacks_b2_wgenome/PO010715_27.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/PO020515_10.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/PO031715_04_subset.matches.tsv
+  Parsing stacks_b2_wgenome/PO031715_23_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GE011215_08.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GE011215_11_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GE011215_30.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GE012315_05.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GE012315_10.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GE012315_11_2_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO012315_02_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO012315_12_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO012315_18_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO012315_21_subset.matches.tsv
+  Parsing stacks_b2_wgenome/NA021015_02.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/NA021015_10.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/NA021015_25_subset.matches.tsv
+  Parsing stacks_b2_wgenome/YS_121316_18_subset.matches.tsv
+  Parsing stacks_b2_wgenome/YS_121316_21_2_subset.matches.tsv
+  Parsing stacks_b2_wgenome/YS_121316_28_subset.matches.tsv
+  Parsing stacks_b2_wgenome/YS_121316_29_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JUK07_12_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JUK07_13_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JUK07_14_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JUK07_15_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JUK07_29.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JUK07_32_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_01_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_05_2_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_05_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_12.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_19.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_23_2_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_25_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_33.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB121807_41.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB021108_25.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB021108_45_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB021108_46_rep.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/JB021108_48.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/BOR07_07.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/BOR07_10.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/BOR07_12.1_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO020414_11_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO020414_16_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO020414_27_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO020414_2_subset.matches.tsv
+  Parsing stacks_b2_wgenome/GEO020414_4_subset.matches.tsv
+Working on 50 samples.
+Working on 9 population(s):
+    Pohang15: PO010715_07_rep_subset, PO010715_26_subset, PO010715_27.1_subset, PO020515_10.1_subset, PO031715_04_subset, PO031715_23_subset
+    Geoje15: GE011215_08.1_subset, GE011215_11_subset, GE011215_30.1_subset, GE012315_05.1_subset, GE012315_10.1_subset, GE012315_11_2_subset, GEO012315_02_subset, GEO012315_12_subset, GEO012315_18_subset, GEO012315_21_subset
+    Namhae15: NA021015_02.1_subset, NA021015_10.1_subset, NA021015_25_subset
+    YellowSea16: YS_121316_18_subset, YS_121316_21_2_subset, YS_121316_28_subset, YS_121316_29_subset
+    Jukbyeon07: JUK07_12_subset, JUK07_13_subset, JUK07_14_subset, JUK07_15_subset, JUK07_29.1_subset, JUK07_32_subset
+    JinhaeBay07: JB121807_01_subset, JB121807_05_2_subset, JB121807_05_subset, JB121807_12.1_subset, JB121807_19.1_subset, JB121807_23_2_subset, JB121807_25_subset, JB121807_33.1_subset, JB121807_41.1_subset
+    JinhaeBay08: JB021108_25.1_subset, JB021108_45_subset, JB021108_46_rep.1_subset, JB021108_48.1_subset
+    Boryeong07: BOR07_07.1_subset, BOR07_10.1_subset, BOR07_12.1_subset
+    Geoje14: GEO020414_11_subset, GEO020414_16_subset, GEO020414_27_subset, GEO020414_2_subset, GEO020414_4_subset
+Working on 1 group(s) of populations:
+    defaultgrp: Pohang15, Geoje15, Namhae15, YellowSea16, Jukbyeon07, JinhaeBay07, JinhaeBay08, Boryeong07, Geoje14
+Populating observed haplotypes for 50 samples, 25252 loci.
+Removed 99938 samples from loci that are below the minimum stack depth of 10x
+Removing 1945 loci that did not pass sample/population constraints... retained 23307 loci.
+Loading model outputs for 50 samples, 23307 loci.
+  Parsing stacks_b2_wgenome/PO010715_07_rep_subset.models.tsv
+  Parsing stacks_b2_wgenome/PO010715_26_subset.models.tsv
+  Parsing stacks_b2_wgenome/PO010715_27.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/PO020515_10.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/PO031715_04_subset.models.tsv
+  Parsing stacks_b2_wgenome/PO031715_23_subset.models.tsv
+  Parsing stacks_b2_wgenome/GE011215_08.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/GE011215_11_subset.models.tsv
+  Parsing stacks_b2_wgenome/GE011215_30.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/GE012315_05.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/GE012315_10.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/GE012315_11_2_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO012315_02_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO012315_12_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO012315_18_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO012315_21_subset.models.tsv
+  Parsing stacks_b2_wgenome/NA021015_02.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/NA021015_10.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/NA021015_25_subset.models.tsv
+  Parsing stacks_b2_wgenome/YS_121316_18_subset.models.tsv
+  Parsing stacks_b2_wgenome/YS_121316_21_2_subset.models.tsv
+  Parsing stacks_b2_wgenome/YS_121316_28_subset.models.tsv
+  Parsing stacks_b2_wgenome/YS_121316_29_subset.models.tsv
+  Parsing stacks_b2_wgenome/JUK07_12_subset.models.tsv
+  Parsing stacks_b2_wgenome/JUK07_13_subset.models.tsv
+  Parsing stacks_b2_wgenome/JUK07_14_subset.models.tsv
+  Parsing stacks_b2_wgenome/JUK07_15_subset.models.tsv
+  Parsing stacks_b2_wgenome/JUK07_29.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/JUK07_32_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_01_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_05_2_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_05_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_12.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_19.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_23_2_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_25_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_33.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB121807_41.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB021108_25.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB021108_45_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB021108_46_rep.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/JB021108_48.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/BOR07_07.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/BOR07_10.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/BOR07_12.1_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO020414_11_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO020414_16_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO020414_27_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO020414_2_subset.models.tsv
+  Parsing stacks_b2_wgenome/GEO020414_4_subset.models.tsv
+Generating nucleotide-level summary statistics for population 'Pohang15'
+Population 'Pohang15' contained 26 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'Geoje15'
+Population 'Geoje15' contained 43 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'Namhae15'
+Population 'Namhae15' contained 15 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'YellowSea16'
+Population 'YellowSea16' contained 11 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'Jukbyeon07'
+Population 'Jukbyeon07' contained 24 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'JinhaeBay07'
+Population 'JinhaeBay07' contained 13 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'JinhaeBay08'
+Population 'JinhaeBay08' contained 17 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'Boryeong07'
+Population 'Boryeong07' contained 10 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'Geoje14'
+Population 'Geoje14' contained 16 incompatible loci -- more than two alleles present.
+Tallying loci across populations...done.
+Pruned 350 variant sites due to filter constraints (more with --verbose).
+Removing 7744 additional loci for which all variant sites were filtered... retained 15563 loci.
+Regenerating nucleotide-level summary statistics for population 'Pohang15'
+Population 'Pohang15' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'Geoje15'
+Population 'Geoje15' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'Namhae15'
+Population 'Namhae15' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'YellowSea16'
+Population 'YellowSea16' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'Jukbyeon07'
+Population 'Jukbyeon07' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'JinhaeBay07'
+Population 'JinhaeBay07' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'JinhaeBay08'
+Population 'JinhaeBay08' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'Boryeong07'
+Population 'Boryeong07' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'Geoje14'
+Population 'Geoje14' contained 0 incompatible loci -- more than two alleles present.
+Re-tallying loci across populations...done.
+Generating haplotype-level summary statistics for population 'Pohang15'
+Generating haplotype-level summary statistics for population 'Geoje15'
+Generating haplotype-level summary statistics for population 'Namhae15'
+Generating haplotype-level summary statistics for population 'YellowSea16'
+Generating haplotype-level summary statistics for population 'Jukbyeon07'
+Generating haplotype-level summary statistics for population 'JinhaeBay07'
+Generating haplotype-level summary statistics for population 'JinhaeBay08'
+Generating haplotype-level summary statistics for population 'Boryeong07'
+Generating haplotype-level summary statistics for population 'Geoje14'
+Writing 15563 loci to summary statistics file, 'stacks_b2_wgenome/batch_2.sumstats.tsv'
+Writing 15563 loci to observed haplotype file, 'stacks_b2_wgenome/batch_2.haplotypes.tsv'
+Writing population alleles to FASTA file 'stacks_b2_wgenome/batch_2.fa'
+Writing population data to GenePop file 'stacks_b2_wgenome/batch_2.genepop'
+Populations is done.

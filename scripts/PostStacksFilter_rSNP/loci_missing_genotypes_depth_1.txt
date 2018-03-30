@@ -1,0 +1,58 @@
+## For each locus, determine if the locus if genotyped in that individual ##
+## then find the stack depth of each allele at the genotyped snp
+mapfile = open("scripts/PopMap_AK_edit.txt", "r")
+individs = []
+for line in mapfile:
+    individs.append(line.strip().split()[0])
+
+locus_ids = loci_snp_IDs.keys()
+
+all_stack_depths = []
+
+for individual in individs:
+    ## get a list of the loci that are not genotyped in the individual
+    genfile = open("stacks_b1_wgenome/batch_1.filteredLoci", "r")
+    header_list = genfile.readline().strip().split()
+    col_index = 0
+    for sample in header_list:
+        if sample != individual:
+            col_index += 1
+        elif sample == individual:
+            break
+    genos_missing_locus = []
+    for line in genfile:
+        linelist = line.strip().split()
+        locus_snp = linelist[0]
+        locus_id = locus_snp.split("_")[0]
+        snp_id = locus_snp.split("_")[1]
+        genotype = linelist[col_index]
+        if genotype == "0000":
+            genos_missing_locus.append(locus_id)
+    genfile.close()
+    ## of the loci that are NOT genotyped, get the sample locus id using the matches file
+    mfile = open("stacks_b1_wgenome/" + individual + ".matches.tsv", "r")
+    sample_loci_ids = []
+    for line in mfile:
+        if not line.startswith("#"):
+            cat_locus = line.strip().split()[2]
+            if cat_locus in genos_missing_locus:
+                sample_locus = line.strip().split()[4]
+                if sample_locus not in sample_loci_ids:
+                    sample_loci_ids.append(sample_locus)  
+    mfile.close()
+    ## use the sample locus id to look up stack depth for alleles at that snp
+    afile = open("stacks_b1_wgenome/" + individual + ".alleles.tsv", "r")
+    stack_depths_dict = {}
+    for line in afile:
+        if not line.startswith("#"):
+            linelist = line.strip().split()
+            if linelist[2] in sample_loci_ids:
+                if linelist[2] not in stack_depths_dict.keys():
+                    stack_depths_dict[linelist[2]] = int(linelist[5])
+                elif linelist[2] in stack_depths_dict.keys():
+                    old_count = stack_depths_dict[linelist[2]]
+                    old_count += int(linelist[5])
+                    stack_depths_dict[linelist[2]] = old_count
+    afile.close()
+    for locus in stack_depths_dict.keys():
+        all_stack_depths.append(stack_depths_dict[locus])

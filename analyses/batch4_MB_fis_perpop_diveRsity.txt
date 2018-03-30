@@ -1,0 +1,19 @@
+# Fis values by population, corrected genotypes. Calculated by diveRsity 10/27/2017
+Population	Fis
+PO010715	-0.051
+GE011215	-0.094
+NA021015	-0.12
+YS121315	-0.032
+JUK07	0.03
+JB121807	-0.007
+JB021108	0.011
+BOR07	-0.036
+GEO020414	-0.006
+KOD03	-0.117
+AD06	-0.136
+WC05	-0.08
+HS04	-0.094
+GS13	-0.12
+PS12	-0.076
+PWS12	-0.089
+UP03	-0.095

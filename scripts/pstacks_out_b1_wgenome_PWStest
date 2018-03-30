@@ -1,0 +1,384 @@
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_001.sam
+Loading aligned sequences...1M...2M...3M...done
+Loaded 3499398 sequence reads; identified 225824 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  225824 unique stacks were aligned to 228426 genomic locations.
+  Merged 228426 unique Stacks into 24048 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 3499398
+  Mean coverage depth is 149.56; Std Dev: 237.406; Max: 12337
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 23382 loci, excluded 666 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_004.sam
+Loading aligned sequences...1M...done
+Loaded 1466671 sequence reads; identified 120270 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  120270 unique stacks were aligned to 121950 genomic locations.
+  Merged 121950 unique Stacks into 23719 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1466671
+  Mean coverage depth is 65.9219; Std Dev: 103.122; Max: 5069
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 22124 loci, excluded 1595 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_007.sam
+Loading aligned sequences...done
+Loaded 573064 sequence reads; identified 61753 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  61753 unique stacks were aligned to 62739 genomic locations.
+  Merged 62739 unique Stacks into 23261 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 573064
+  Mean coverage depth is 30.5296; Std Dev: 47.8142; Max: 1883
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 17827 loci, excluded 5434 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_008.sam
+Loading aligned sequences...1M...2M...3M...done
+Loaded 3044407 sequence reads; identified 200244 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  200244 unique stacks were aligned to 202595 genomic locations.
+  Merged 202595 unique Stacks into 23786 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 3044407
+  Mean coverage depth is 130.631; Std Dev: 210.251; Max: 11542
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 23292 loci, excluded 494 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_012.sam
+Loading aligned sequences...done
+Loaded 513777 sequence reads; identified 54487 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  54487 unique stacks were aligned to 55403 genomic locations.
+  Merged 55403 unique Stacks into 23202 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 513777
+  Mean coverage depth is 28.4866; Std Dev: 40.1093; Max: 1494
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 16849 loci, excluded 6353 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_013.sam
+Loading aligned sequences...1M...done
+Loaded 1271434 sequence reads; identified 100593 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  100593 unique stacks were aligned to 102080 genomic locations.
+  Merged 102080 unique Stacks into 23726 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1271434
+  Mean coverage depth is 56.4143; Std Dev: 90.3487; Max: 4209
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 22421 loci, excluded 1305 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_019.sam
+Loading aligned sequences...done
+Loaded 805733 sequence reads; identified 70792 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  70792 unique stacks were aligned to 71954 genomic locations.
+  Merged 71954 unique Stacks into 23528 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 805733
+  Mean coverage depth is 37.976; Std Dev: 59.1224; Max: 2709
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 20814 loci, excluded 2714 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_020.sam
+Loading aligned sequences...1M...2M...done
+Loaded 2083691 sequence reads; identified 144034 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  144034 unique stacks were aligned to 145970 genomic locations.
+  Merged 145970 unique Stacks into 23748 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 2083691
+  Mean coverage depth is 90.2641; Std Dev: 142.262; Max: 5854
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 23052 loci, excluded 696 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_025.sam
+Loading aligned sequences...1M...done
+Loaded 1081695 sequence reads; identified 94660 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  94660 unique stacks were aligned to 96013 genomic locations.
+  Merged 96013 unique Stacks into 23693 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1081695
+  Mean coverage depth is 48.4514; Std Dev: 73.317; Max: 3438
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 22163 loci, excluded 1530 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_031.sam
+Loading aligned sequences...1M...done
+Loaded 1701278 sequence reads; identified 126735 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  126735 unique stacks were aligned to 128449 genomic locations.
+  Merged 128449 unique Stacks into 23714 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1701278
+  Mean coverage depth is 74.4163; Std Dev: 118.635; Max: 5371
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 22803 loci, excluded 911 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_033.sam
+Loading aligned sequences...1M...done
+Loaded 1526621 sequence reads; identified 111925 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  111925 unique stacks were aligned to 113585 genomic locations.
+  Merged 113585 unique Stacks into 23655 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1526621
+  Mean coverage depth is 69.6867; Std Dev: 113.451; Max: 4751
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 21765 loci, excluded 1890 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_041.sam
+Loading aligned sequences...1M...done
+Loaded 1288233 sequence reads; identified 88534 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  88534 unique stacks were aligned to 89889 genomic locations.
+  Merged 89889 unique Stacks into 23696 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1288233
+  Mean coverage depth is 57.1928; Std Dev: 94.2636; Max: 4644
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 22408 loci, excluded 1288 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_054.sam
+Loading aligned sequences...1M...2M...3M...4M...done
+Loaded 4789104 sequence reads; identified 310376 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  310376 unique stacks were aligned to 313733 genomic locations.
+  Merged 313733 unique Stacks into 24046 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 4789104
+  Mean coverage depth is 204.466; Std Dev: 322.166; Max: 17680
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 23413 loci, excluded 633 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_055.sam
+Loading aligned sequences...done
+Loaded 672992 sequence reads; identified 65765 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  65765 unique stacks were aligned to 66875 genomic locations.
+  Merged 66875 unique Stacks into 23072 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 672992
+  Mean coverage depth is 38.4996; Std Dev: 58.4141; Max: 2194
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 16665 loci, excluded 6407 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_056.sam
+Loading aligned sequences...done
+Loaded 338947 sequence reads; identified 42978 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  42978 unique stacks were aligned to 43752 genomic locations.
+  Merged 43752 unique Stacks into 22287 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 338947
+  Mean coverage depth is 24.0703; Std Dev: 33.5276; Max: 1334
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 12075 loci, excluded 10212 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_057.sam
+Loading aligned sequences...done
+Loaded 964020 sequence reads; identified 86033 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  86033 unique stacks were aligned to 87343 genomic locations.
+  Merged 87343 unique Stacks into 23526 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 964020
+  Mean coverage depth is 44.1585; Std Dev: 68.2334; Max: 3360
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 21592 loci, excluded 1934 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_064.sam
+Loading aligned sequences...done
+Loaded 491929 sequence reads; identified 58376 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  58376 unique stacks were aligned to 59336 genomic locations.
+  Merged 59336 unique Stacks into 23234 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 491929
+  Mean coverage depth is 26.9691; Std Dev: 40.2198; Max: 1820
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 17014 loci, excluded 6220 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_066.sam
+Loading aligned sequences...1M...2M...done
+Loaded 2783438 sequence reads; identified 199406 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  199406 unique stacks were aligned to 201863 genomic locations.
+  Merged 201863 unique Stacks into 23774 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 2783438
+  Mean coverage depth is 119.705; Std Dev: 194.392; Max: 10561
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 23235 loci, excluded 539 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_069.sam
+Loading aligned sequences...1M...done
+Loaded 1066377 sequence reads; identified 89378 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  89378 unique stacks were aligned to 90730 genomic locations.
+  Merged 90730 unique Stacks into 23563 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1066377
+  Mean coverage depth is 48.6287; Std Dev: 74.5928; Max: 3618
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 21722 loci, excluded 1841 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_076.sam
+Loading aligned sequences...done
+Loaded 597353 sequence reads; identified 55996 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  55996 unique stacks were aligned to 56944 genomic locations.
+  Merged 56944 unique Stacks into 23070 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 597353
+  Mean coverage depth is 33.4971; Std Dev: 52.3872; Max: 1911
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 16898 loci, excluded 6172 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_077.sam
+Loading aligned sequences...1M...done
+Loaded 1055410 sequence reads; identified 92814 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  92814 unique stacks were aligned to 94279 genomic locations.
+  Merged 94279 unique Stacks into 23488 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 1055410
+  Mean coverage depth is 50.5851; Std Dev: 81.6757; Max: 3626
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 20564 loci, excluded 2924 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_078.sam
+Loading aligned sequences...done
+Loaded 160538 sequence reads; identified 32557 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  32557 unique stacks were aligned to 33094 genomic locations.
+  Merged 33094 unique Stacks into 21378 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 160538
+  Mean coverage depth is 16.579; Std Dev: 21.4976; Max: 583
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 5285 loci, excluded 16093 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_132.sam
+Loading aligned sequences...done
+Loaded 767747 sequence reads; identified 72819 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  72819 unique stacks were aligned to 73992 genomic locations.
+  Merged 73992 unique Stacks into 23277 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 767747
+  Mean coverage depth is 39.5534; Std Dev: 63.3432; Max: 3181
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 18819 loci, excluded 4458 loci due to insuffient depth of coverage; blacklisted 0 loci.
+Min depth of coverage to report a stack: 10
+Model type: Bounded; lower epsilon bound: 0; upper bound: 1
+Alpha significance level for model: 0.05
+Parsing ../stacks_b1_wgenome/PWS12_134.sam
+Loading aligned sequences...done
+Loaded 898138 sequence reads; identified 78604 unique stacks from those reads.
+  Discarded 0 reads where the aligned percentage of the read was too low.
+  Discarded 0 secondarily aligned reads (primary alignments were retained).
+  Discarded 0 supplementary aligned (chimeric) reads.
+  78604 unique stacks were aligned to 79780 genomic locations.
+  Merged 79780 unique Stacks into 23505 loci.
+Identifying polymorphic sites and calling consensus sequences...done.
+  Number of utilized reads 898138
+  Mean coverage depth is 41.9548; Std Dev: 70.7698; Max: 3832
+Writing loci, SNPs, alleles to '../stacks_b1_wgenome/...'
+  Wrote 21101 loci, excluded 2404 loci due to insuffient depth of coverage; blacklisted 0 loci.

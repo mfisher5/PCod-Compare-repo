@@ -1,0 +1,18 @@
+### Input file for generating the bash shell script for final filtering ###
+PostStacksFiltering_b8_wgenome.sh	# Name for your BASH script, including the `.sh` file extension. 
+/mnt/hgfs/PCod-Compare-repo/stacks_b8_wgenome_r05	# Absolute path to the stacks files
+8	# batch
+no	# Is the .catalog.snps.tsv file zipped? [yes / no]
+1	# Minimum coverage required for Marine's script, preparing_file_for_correcting_genotypes.py (default = 1)
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to prep_for_extraFilters.py 
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to preparing_file_for_correcting_genotypes.py
+.	# Absolute path to gunzip_string.txt
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to genotypes_verif_v2_no_ref_takeARGS (Marine's script, edited to take command line args) 
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to genepop_conversion_corrected.py
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to add_sample_to_genepop.py
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to transpose.py 
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to convert_genepop_to_csv.py
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to genMAFfiltering.py
+/mnt/hgfs/PCod-Compare-repo/scripts/PostStacksFiltering	# Absolute path to genMisingValues.py
+/mnt/hgfs/PCod-Compare-repo/scripts/PopMap_combo_b4.txt	# Population Map used in `populations`, including Absolute path. must have all individuals that are included in the genepop file output from `populations`.
+/mnt/hgfs/PCod-Compare-repo/scripts/PopMap_combo_mdFilter_b8.txt	# Population Map that will be generated AFTER individuals with too much missing data are filtered out. You have to provide the name now, and you will then make the actual file once you are prompted to in the shell script. You only have to fill this in if you are using the _filterIndivids version of the script; otherwise, you can leave this as "null" and the filtering script will use the same population map indicated on line 17

@@ -1,0 +1,1305 @@
+# reads processed: 6817653
+# reads with at least one reported alignment: 3985105 (58.45%)
+# reads that failed to align: 2832548 (41.55%)
+Reported 3985105 alignments to 1 output stream(s)
+# reads processed: 7823165
+# reads with at least one reported alignment: 4694720 (60.01%)
+# reads that failed to align: 3128445 (39.99%)
+Reported 4694720 alignments to 1 output stream(s)
+# reads processed: 3432097
+# reads with at least one reported alignment: 2108443 (61.43%)
+# reads that failed to align: 1323654 (38.57%)
+Reported 2108443 alignments to 1 output stream(s)
+# reads processed: 2473192
+# reads with at least one reported alignment: 1448173 (58.55%)
+# reads that failed to align: 1025019 (41.45%)
+Reported 1448173 alignments to 1 output stream(s)
+# reads processed: 2503625
+# reads with at least one reported alignment: 1515429 (60.53%)
+# reads that failed to align: 988196 (39.47%)
+Reported 1515429 alignments to 1 output stream(s)
+# reads processed: 3106846
+# reads with at least one reported alignment: 1854409 (59.69%)
+# reads that failed to align: 1252437 (40.31%)
+Reported 1854409 alignments to 1 output stream(s)
+# reads processed: 3372281
+# reads with at least one reported alignment: 2089699 (61.97%)
+# reads that failed to align: 1282582 (38.03%)
+Reported 2089699 alignments to 1 output stream(s)
+# reads processed: 3295834
+# reads with at least one reported alignment: 1961337 (59.51%)
+# reads that failed to align: 1334497 (40.49%)
+Reported 1961337 alignments to 1 output stream(s)
+# reads processed: 2645508
+# reads with at least one reported alignment: 1590391 (60.12%)
+# reads that failed to align: 1055117 (39.88%)
+Reported 1590391 alignments to 1 output stream(s)
+# reads processed: 2927703
+# reads with at least one reported alignment: 1763792 (60.24%)
+# reads that failed to align: 1163911 (39.76%)
+Reported 1763792 alignments to 1 output stream(s)
+# reads processed: 5617638
+# reads with at least one reported alignment: 3240411 (57.68%)
+# reads that failed to align: 2377227 (42.32%)
+Reported 3240411 alignments to 1 output stream(s)
+# reads processed: 2937015
+# reads with at least one reported alignment: 1786068 (60.81%)
+# reads that failed to align: 1150947 (39.19%)
+Reported 1786068 alignments to 1 output stream(s)
+# reads processed: 3255176
+# reads with at least one reported alignment: 1967460 (60.44%)
+# reads that failed to align: 1287716 (39.56%)
+Reported 1967460 alignments to 1 output stream(s)
+# reads processed: 3110048
+# reads with at least one reported alignment: 1896038 (60.96%)
+# reads that failed to align: 1214010 (39.04%)
+Reported 1896038 alignments to 1 output stream(s)
+# reads processed: 2640637
+# reads with at least one reported alignment: 1610119 (60.97%)
+# reads that failed to align: 1030518 (39.03%)
+Reported 1610119 alignments to 1 output stream(s)
+# reads processed: 3142354
+# reads with at least one reported alignment: 1940170 (61.74%)
+# reads that failed to align: 1202184 (38.26%)
+Reported 1940170 alignments to 1 output stream(s)
+# reads processed: 3691453
+# reads with at least one reported alignment: 2258586 (61.18%)
+# reads that failed to align: 1432867 (38.82%)
+Reported 2258586 alignments to 1 output stream(s)
+# reads processed: 8336214
+# reads with at least one reported alignment: 5027206 (60.31%)
+# reads that failed to align: 3309008 (39.69%)
+Reported 5027206 alignments to 1 output stream(s)
+# reads processed: 2808032
+# reads with at least one reported alignment: 1691488 (60.24%)
+# reads that failed to align: 1116544 (39.76%)
+Reported 1691488 alignments to 1 output stream(s)
+# reads processed: 3016815
+# reads with at least one reported alignment: 1829671 (60.65%)
+# reads that failed to align: 1187144 (39.35%)
+Reported 1829671 alignments to 1 output stream(s)
+# reads processed: 4812537
+# reads with at least one reported alignment: 2946886 (61.23%)
+# reads that failed to align: 1865651 (38.77%)
+Reported 2946886 alignments to 1 output stream(s)
+# reads processed: 3306735
+# reads with at least one reported alignment: 2019305 (61.07%)
+# reads that failed to align: 1287430 (38.93%)
+Reported 2019305 alignments to 1 output stream(s)
+# reads processed: 4916525
+# reads with at least one reported alignment: 2974601 (60.50%)
+# reads that failed to align: 1941924 (39.50%)
+Reported 2974601 alignments to 1 output stream(s)
+# reads processed: 3504202
+# reads with at least one reported alignment: 2164770 (61.78%)
+# reads that failed to align: 1339432 (38.22%)
+Reported 2164770 alignments to 1 output stream(s)
+# reads processed: 4137911
+# reads with at least one reported alignment: 2494179 (60.28%)
+# reads that failed to align: 1643732 (39.72%)
+Reported 2494179 alignments to 1 output stream(s)
+# reads processed: 2722559
+# reads with at least one reported alignment: 1640235 (60.25%)
+# reads that failed to align: 1082324 (39.75%)
+Reported 1640235 alignments to 1 output stream(s)
+# reads processed: 3094421
+# reads with at least one reported alignment: 1817342 (58.73%)
+# reads that failed to align: 1277079 (41.27%)
+Reported 1817342 alignments to 1 output stream(s)
+# reads processed: 3495400
+# reads with at least one reported alignment: 2129205 (60.91%)
+# reads that failed to align: 1366195 (39.09%)
+Reported 2129205 alignments to 1 output stream(s)
+# reads processed: 1961294
+# reads with at least one reported alignment: 1171273 (59.72%)
+# reads that failed to align: 790021 (40.28%)
+Reported 1171273 alignments to 1 output stream(s)
+# reads processed: 4707310
+# reads with at least one reported alignment: 2837698 (60.28%)
+# reads that failed to align: 1869612 (39.72%)
+Reported 2837698 alignments to 1 output stream(s)
+# reads processed: 2820366
+# reads with at least one reported alignment: 1721224 (61.03%)
+# reads that failed to align: 1099142 (38.97%)
+Reported 1721224 alignments to 1 output stream(s)
+# reads processed: 4097320
+# reads with at least one reported alignment: 2328647 (56.83%)
+# reads that failed to align: 1768673 (43.17%)
+Reported 2328647 alignments to 1 output stream(s)
+# reads processed: 4070626
+# reads with at least one reported alignment: 2066790 (50.77%)
+# reads that failed to align: 2003836 (49.23%)
+Reported 2066790 alignments to 1 output stream(s)
+# reads processed: 4135965
+# reads with at least one reported alignment: 2160926 (52.25%)
+# reads that failed to align: 1975039 (47.75%)
+Reported 2160926 alignments to 1 output stream(s)
+# reads processed: 3807454
+# reads with at least one reported alignment: 2335723 (61.35%)
+# reads that failed to align: 1471731 (38.65%)
+Reported 2335723 alignments to 1 output stream(s)
+# reads processed: 3631183
+# reads with at least one reported alignment: 2242176 (61.75%)
+# reads that failed to align: 1389007 (38.25%)
+Reported 2242176 alignments to 1 output stream(s)
+# reads processed: 2076442
+# reads with at least one reported alignment: 1225068 (59.00%)
+# reads that failed to align: 851374 (41.00%)
+Reported 1225068 alignments to 1 output stream(s)
+# reads processed: 3758901
+# reads with at least one reported alignment: 2282462 (60.72%)
+# reads that failed to align: 1476439 (39.28%)
+Reported 2282462 alignments to 1 output stream(s)
+# reads processed: 3440184
+# reads with at least one reported alignment: 2067266 (60.09%)
+# reads that failed to align: 1372918 (39.91%)
+Reported 2067266 alignments to 1 output stream(s)
+# reads processed: 6549008
+# reads with at least one reported alignment: 4055546 (61.93%)
+# reads that failed to align: 2493462 (38.07%)
+Reported 4055546 alignments to 1 output stream(s)
+# reads processed: 5694239
+# reads with at least one reported alignment: 3382411 (59.40%)
+# reads that failed to align: 2311828 (40.60%)
+Reported 3382411 alignments to 1 output stream(s)
+# reads processed: 3791389
+# reads with at least one reported alignment: 2302723 (60.74%)
+# reads that failed to align: 1488666 (39.26%)
+Reported 2302723 alignments to 1 output stream(s)
+# reads processed: 6852956
+# reads with at least one reported alignment: 4223741 (61.63%)
+# reads that failed to align: 2629215 (38.37%)
+Reported 4223741 alignments to 1 output stream(s)
+# reads processed: 4019476
+# reads with at least one reported alignment: 2443605 (60.79%)
+# reads that failed to align: 1575871 (39.21%)
+Reported 2443605 alignments to 1 output stream(s)
+# reads processed: 4147822
+# reads with at least one reported alignment: 2528807 (60.97%)
+# reads that failed to align: 1619015 (39.03%)
+Reported 2528807 alignments to 1 output stream(s)
+# reads processed: 3384807
+# reads with at least one reported alignment: 2077729 (61.38%)
+# reads that failed to align: 1307078 (38.62%)
+Reported 2077729 alignments to 1 output stream(s)
+# reads processed: 6470888
+# reads with at least one reported alignment: 3977173 (61.46%)
+# reads that failed to align: 2493715 (38.54%)
+Reported 3977173 alignments to 1 output stream(s)
+# reads processed: 3134738
+# reads with at least one reported alignment: 1918592 (61.20%)
+# reads that failed to align: 1216146 (38.80%)
+Reported 1918592 alignments to 1 output stream(s)
+# reads processed: 3861430
+# reads with at least one reported alignment: 2369798 (61.37%)
+# reads that failed to align: 1491632 (38.63%)
+Reported 2369798 alignments to 1 output stream(s)
+# reads processed: 2245206
+# reads with at least one reported alignment: 1371429 (61.08%)
+# reads that failed to align: 873777 (38.92%)
+Reported 1371429 alignments to 1 output stream(s)
+# reads processed: 4661699
+# reads with at least one reported alignment: 2835123 (60.82%)
+# reads that failed to align: 1826576 (39.18%)
+Reported 2835123 alignments to 1 output stream(s)
+# reads processed: 2199367
+# reads with at least one reported alignment: 1321957 (60.11%)
+# reads that failed to align: 877410 (39.89%)
+Reported 1321957 alignments to 1 output stream(s)
+# reads processed: 3747521
+# reads with at least one reported alignment: 2275876 (60.73%)
+# reads that failed to align: 1471645 (39.27%)
+Reported 2275876 alignments to 1 output stream(s)
+# reads processed: 2523135
+# reads with at least one reported alignment: 1534651 (60.82%)
+# reads that failed to align: 988484 (39.18%)
+Reported 1534651 alignments to 1 output stream(s)
+# reads processed: 3029457
+# reads with at least one reported alignment: 1835555 (60.59%)
+# reads that failed to align: 1193902 (39.41%)
+Reported 1835555 alignments to 1 output stream(s)
+# reads processed: 3646562
+# reads with at least one reported alignment: 2248134 (61.65%)
+# reads that failed to align: 1398428 (38.35%)
+Reported 2248134 alignments to 1 output stream(s)
+# reads processed: 2649848
+# reads with at least one reported alignment: 1625328 (61.34%)
+# reads that failed to align: 1024520 (38.66%)
+Reported 1625328 alignments to 1 output stream(s)
+# reads processed: 3036050
+# reads with at least one reported alignment: 1846770 (60.83%)
+# reads that failed to align: 1189280 (39.17%)
+Reported 1846770 alignments to 1 output stream(s)
+# reads processed: 2333584
+# reads with at least one reported alignment: 1430333 (61.29%)
+# reads that failed to align: 903251 (38.71%)
+Reported 1430333 alignments to 1 output stream(s)
+# reads processed: 3742895
+# reads with at least one reported alignment: 2272952 (60.73%)
+# reads that failed to align: 1469943 (39.27%)
+Reported 2272952 alignments to 1 output stream(s)
+# reads processed: 3009275
+# reads with at least one reported alignment: 1860805 (61.84%)
+# reads that failed to align: 1148470 (38.16%)
+Reported 1860805 alignments to 1 output stream(s)
+# reads processed: 3109124
+# reads with at least one reported alignment: 1911177 (61.47%)
+# reads that failed to align: 1197947 (38.53%)
+Reported 1911177 alignments to 1 output stream(s)
+# reads processed: 3048700
+# reads with at least one reported alignment: 1843475 (60.47%)
+# reads that failed to align: 1205225 (39.53%)
+Reported 1843475 alignments to 1 output stream(s)
+# reads processed: 5152585
+# reads with at least one reported alignment: 3162083 (61.37%)
+# reads that failed to align: 1990502 (38.63%)
+Reported 3162083 alignments to 1 output stream(s)
+# reads processed: 6131307
+# reads with at least one reported alignment: 3736026 (60.93%)
+# reads that failed to align: 2395281 (39.07%)
+Reported 3736026 alignments to 1 output stream(s)
+# reads processed: 4614041
+# reads with at least one reported alignment: 2799961 (60.68%)
+# reads that failed to align: 1814080 (39.32%)
+Reported 2799961 alignments to 1 output stream(s)
+# reads processed: 4819847
+# reads with at least one reported alignment: 2967717 (61.57%)
+# reads that failed to align: 1852130 (38.43%)
+Reported 2967717 alignments to 1 output stream(s)
+# reads processed: 11780055
+# reads with at least one reported alignment: 7042009 (59.78%)
+# reads that failed to align: 4738046 (40.22%)
+Reported 7042009 alignments to 1 output stream(s)
+# reads processed: 5169137
+# reads with at least one reported alignment: 3108216 (60.13%)
+# reads that failed to align: 2060921 (39.87%)
+Reported 3108216 alignments to 1 output stream(s)
+# reads processed: 8550021
+# reads with at least one reported alignment: 5304711 (62.04%)
+# reads that failed to align: 3245310 (37.96%)
+Reported 5304711 alignments to 1 output stream(s)
+# reads processed: 7558364
+# reads with at least one reported alignment: 4678939 (61.90%)
+# reads that failed to align: 2879425 (38.10%)
+Reported 4678939 alignments to 1 output stream(s)
+# reads processed: 4039779
+# reads with at least one reported alignment: 2481475 (61.43%)
+# reads that failed to align: 1558304 (38.57%)
+Reported 2481475 alignments to 1 output stream(s)
+# reads processed: 3086869
+# reads with at least one reported alignment: 1873625 (60.70%)
+# reads that failed to align: 1213244 (39.30%)
+Reported 1873625 alignments to 1 output stream(s)
+# reads processed: 4864411
+# reads with at least one reported alignment: 3001244 (61.70%)
+# reads that failed to align: 1863167 (38.30%)
+Reported 3001244 alignments to 1 output stream(s)
+# reads processed: 2468650
+# reads with at least one reported alignment: 1509269 (61.14%)
+# reads that failed to align: 959381 (38.86%)
+Reported 1509269 alignments to 1 output stream(s)
+# reads processed: 4076545
+# reads with at least one reported alignment: 2520869 (61.84%)
+# reads that failed to align: 1555676 (38.16%)
+Reported 2520869 alignments to 1 output stream(s)
+# reads processed: 3737101
+# reads with at least one reported alignment: 2303892 (61.65%)
+# reads that failed to align: 1433209 (38.35%)
+Reported 2303892 alignments to 1 output stream(s)
+# reads processed: 5022277
+# reads with at least one reported alignment: 3092830 (61.58%)
+# reads that failed to align: 1929447 (38.42%)
+Reported 3092830 alignments to 1 output stream(s)
+# reads processed: 4332781
+# reads with at least one reported alignment: 2718691 (62.75%)
+# reads that failed to align: 1614090 (37.25%)
+Reported 2718691 alignments to 1 output stream(s)
+# reads processed: 5291624
+# reads with at least one reported alignment: 3255521 (61.52%)
+# reads that failed to align: 2036103 (38.48%)
+Reported 3255521 alignments to 1 output stream(s)
+# reads processed: 4162902
+# reads with at least one reported alignment: 2579627 (61.97%)
+# reads that failed to align: 1583275 (38.03%)
+Reported 2579627 alignments to 1 output stream(s)
+# reads processed: 3800139
+# reads with at least one reported alignment: 2333260 (61.40%)
+# reads that failed to align: 1466879 (38.60%)
+Reported 2333260 alignments to 1 output stream(s)
+# reads processed: 3309272
+# reads with at least one reported alignment: 2046129 (61.83%)
+# reads that failed to align: 1263143 (38.17%)
+Reported 2046129 alignments to 1 output stream(s)
+# reads processed: 2712287
+# reads with at least one reported alignment: 1647806 (60.75%)
+# reads that failed to align: 1064481 (39.25%)
+Reported 1647806 alignments to 1 output stream(s)
+# reads processed: 5191269
+# reads with at least one reported alignment: 3198296 (61.61%)
+# reads that failed to align: 1992973 (38.39%)
+Reported 3198296 alignments to 1 output stream(s)
+# reads processed: 3817109
+# reads with at least one reported alignment: 2354457 (61.68%)
+# reads that failed to align: 1462652 (38.32%)
+Reported 2354457 alignments to 1 output stream(s)
+# reads processed: 3712357
+# reads with at least one reported alignment: 2268319 (61.10%)
+# reads that failed to align: 1444038 (38.90%)
+Reported 2268319 alignments to 1 output stream(s)
+# reads processed: 13390849
+# reads with at least one reported alignment: 8062269 (60.21%)
+# reads that failed to align: 5328580 (39.79%)
+Reported 8062269 alignments to 1 output stream(s)
+# reads processed: 12844951
+# reads with at least one reported alignment: 7794594 (60.68%)
+# reads that failed to align: 5050357 (39.32%)
+Reported 7794594 alignments to 1 output stream(s)
+# reads processed: 3404635
+# reads with at least one reported alignment: 2051360 (60.25%)
+# reads that failed to align: 1353275 (39.75%)
+Reported 2051360 alignments to 1 output stream(s)
+# reads processed: 6316229
+# reads with at least one reported alignment: 3620203 (57.32%)
+# reads that failed to align: 2696026 (42.68%)
+Reported 3620203 alignments to 1 output stream(s)
+# reads processed: 2808906
+# reads with at least one reported alignment: 1511176 (53.80%)
+# reads that failed to align: 1297730 (46.20%)
+Reported 1511176 alignments to 1 output stream(s)
+# reads processed: 6635649
+# reads with at least one reported alignment: 3396876 (51.19%)
+# reads that failed to align: 3238773 (48.81%)
+Reported 3396876 alignments to 1 output stream(s)
+# reads processed: 4409814
+# reads with at least one reported alignment: 2318985 (52.59%)
+# reads that failed to align: 2090829 (47.41%)
+Reported 2318985 alignments to 1 output stream(s)
+# reads processed: 3900580
+# reads with at least one reported alignment: 2167145 (55.56%)
+# reads that failed to align: 1733435 (44.44%)
+Reported 2167145 alignments to 1 output stream(s)
+# reads processed: 5165500
+# reads with at least one reported alignment: 2638085 (51.07%)
+# reads that failed to align: 2527415 (48.93%)
+Reported 2638085 alignments to 1 output stream(s)
+# reads processed: 5211971
+# reads with at least one reported alignment: 2998333 (57.53%)
+# reads that failed to align: 2213638 (42.47%)
+Reported 2998333 alignments to 1 output stream(s)
+# reads processed: 5653775
+# reads with at least one reported alignment: 3269756 (57.83%)
+# reads that failed to align: 2384019 (42.17%)
+Reported 3269756 alignments to 1 output stream(s)
+# reads processed: 5677131
+# reads with at least one reported alignment: 3308297 (58.27%)
+# reads that failed to align: 2368834 (41.73%)
+Reported 3308297 alignments to 1 output stream(s)
+# reads processed: 3985378
+# reads with at least one reported alignment: 2385668 (59.86%)
+# reads that failed to align: 1599710 (40.14%)
+Reported 2385668 alignments to 1 output stream(s)
+# reads processed: 6058065
+# reads with at least one reported alignment: 3404942 (56.21%)
+# reads that failed to align: 2653123 (43.79%)
+Reported 3404942 alignments to 1 output stream(s)
+# reads processed: 3211547
+# reads with at least one reported alignment: 1889925 (58.85%)
+# reads that failed to align: 1321622 (41.15%)
+Reported 1889925 alignments to 1 output stream(s)
+# reads processed: 2863848
+# reads with at least one reported alignment: 1567540 (54.74%)
+# reads that failed to align: 1296308 (45.26%)
+Reported 1567540 alignments to 1 output stream(s)
+# reads processed: 4262963
+# reads with at least one reported alignment: 1938460 (45.47%)
+# reads that failed to align: 2324503 (54.53%)
+Reported 1938460 alignments to 1 output stream(s)
+# reads processed: 3981699
+# reads with at least one reported alignment: 1891045 (47.49%)
+# reads that failed to align: 2090654 (52.51%)
+Reported 1891045 alignments to 1 output stream(s)
+# reads processed: 2857842
+# reads with at least one reported alignment: 1356379 (47.46%)
+# reads that failed to align: 1501463 (52.54%)
+Reported 1356379 alignments to 1 output stream(s)
+# reads processed: 2252448
+# reads with at least one reported alignment: 1271363 (56.44%)
+# reads that failed to align: 981085 (43.56%)
+Reported 1271363 alignments to 1 output stream(s)
+# reads processed: 1311987
+# reads with at least one reported alignment: 720356 (54.91%)
+# reads that failed to align: 591631 (45.09%)
+Reported 720356 alignments to 1 output stream(s)
+# reads processed: 5791989
+# reads with at least one reported alignment: 3370433 (58.19%)
+# reads that failed to align: 2421556 (41.81%)
+Reported 3370433 alignments to 1 output stream(s)
+# reads processed: 4038365
+# reads with at least one reported alignment: 2232962 (55.29%)
+# reads that failed to align: 1805403 (44.71%)
+Reported 2232962 alignments to 1 output stream(s)
+# reads processed: 2885627
+# reads with at least one reported alignment: 1645088 (57.01%)
+# reads that failed to align: 1240539 (42.99%)
+Reported 1645088 alignments to 1 output stream(s)
+# reads processed: 4324878
+# reads with at least one reported alignment: 2585701 (59.79%)
+# reads that failed to align: 1739177 (40.21%)
+Reported 2585701 alignments to 1 output stream(s)
+# reads processed: 6716657
+# reads with at least one reported alignment: 4027897 (59.97%)
+# reads that failed to align: 2688760 (40.03%)
+Reported 4027897 alignments to 1 output stream(s)
+# reads processed: 4335330
+# reads with at least one reported alignment: 2049241 (47.27%)
+# reads that failed to align: 2286089 (52.73%)
+Reported 2049241 alignments to 1 output stream(s)
+# reads processed: 1444967
+# reads with at least one reported alignment: 695182 (48.11%)
+# reads that failed to align: 749785 (51.89%)
+Reported 695182 alignments to 1 output stream(s)
+# reads processed: 980562
+# reads with at least one reported alignment: 521616 (53.20%)
+# reads that failed to align: 458946 (46.80%)
+Reported 521616 alignments to 1 output stream(s)
+# reads processed: 10601998
+# reads with at least one reported alignment: 6370529 (60.09%)
+# reads that failed to align: 4231469 (39.91%)
+Reported 6370529 alignments to 1 output stream(s)
+# reads processed: 7233818
+# reads with at least one reported alignment: 4322017 (59.75%)
+# reads that failed to align: 2911801 (40.25%)
+Reported 4322017 alignments to 1 output stream(s)
+# reads processed: 3238656
+# reads with at least one reported alignment: 1874439 (57.88%)
+# reads that failed to align: 1364217 (42.12%)
+Reported 1874439 alignments to 1 output stream(s)
+# reads processed: 2921349
+# reads with at least one reported alignment: 1494556 (51.16%)
+# reads that failed to align: 1426793 (48.84%)
+Reported 1494556 alignments to 1 output stream(s)
+# reads processed: 3616220
+# reads with at least one reported alignment: 2150123 (59.46%)
+# reads that failed to align: 1466097 (40.54%)
+Reported 2150123 alignments to 1 output stream(s)
+# reads processed: 8561987
+# reads with at least one reported alignment: 5102072 (59.59%)
+# reads that failed to align: 3459915 (40.41%)
+Reported 5102072 alignments to 1 output stream(s)
+# reads processed: 3929100
+# reads with at least one reported alignment: 2369396 (60.30%)
+# reads that failed to align: 1559704 (39.70%)
+Reported 2369396 alignments to 1 output stream(s)
+# reads processed: 3800860
+# reads with at least one reported alignment: 2293611 (60.34%)
+# reads that failed to align: 1507249 (39.66%)
+Reported 2293611 alignments to 1 output stream(s)
+# reads processed: 17189641
+# reads with at least one reported alignment: 10309111 (59.97%)
+# reads that failed to align: 6880530 (40.03%)
+Reported 10309111 alignments to 1 output stream(s)
+# reads processed: 7283224
+# reads with at least one reported alignment: 4305512 (59.12%)
+# reads that failed to align: 2977712 (40.88%)
+Reported 4305512 alignments to 1 output stream(s)
+# reads processed: 7959380
+# reads with at least one reported alignment: 4703693 (59.10%)
+# reads that failed to align: 3255687 (40.90%)
+Reported 4703693 alignments to 1 output stream(s)
+# reads processed: 3822809
+# reads with at least one reported alignment: 2268987 (59.35%)
+# reads that failed to align: 1553822 (40.65%)
+Reported 2268987 alignments to 1 output stream(s)
+# reads processed: 6618897
+# reads with at least one reported alignment: 3940443 (59.53%)
+# reads that failed to align: 2678454 (40.47%)
+Reported 3940443 alignments to 1 output stream(s)
+# reads processed: 6629190
+# reads with at least one reported alignment: 4026621 (60.74%)
+# reads that failed to align: 2602569 (39.26%)
+Reported 4026621 alignments to 1 output stream(s)
+# reads processed: 5945979
+# reads with at least one reported alignment: 3602738 (60.59%)
+# reads that failed to align: 2343241 (39.41%)
+Reported 3602738 alignments to 1 output stream(s)
+# reads processed: 2540837
+# reads with at least one reported alignment: 1533415 (60.35%)
+# reads that failed to align: 1007422 (39.65%)
+Reported 1533415 alignments to 1 output stream(s)
+# reads processed: 3931160
+# reads with at least one reported alignment: 2363188 (60.11%)
+# reads that failed to align: 1567972 (39.89%)
+Reported 2363188 alignments to 1 output stream(s)
+# reads processed: 4498926
+# reads with at least one reported alignment: 2714786 (60.34%)
+# reads that failed to align: 1784140 (39.66%)
+Reported 2714786 alignments to 1 output stream(s)
+# reads processed: 3519086
+# reads with at least one reported alignment: 2157557 (61.31%)
+# reads that failed to align: 1361529 (38.69%)
+Reported 2157557 alignments to 1 output stream(s)
+# reads processed: 2968381
+# reads with at least one reported alignment: 1786446 (60.18%)
+# reads that failed to align: 1181935 (39.82%)
+Reported 1786446 alignments to 1 output stream(s)
+# reads processed: 2183098
+# reads with at least one reported alignment: 1312928 (60.14%)
+# reads that failed to align: 870170 (39.86%)
+Reported 1312928 alignments to 1 output stream(s)
+# reads processed: 4618372
+# reads with at least one reported alignment: 2787506 (60.36%)
+# reads that failed to align: 1830866 (39.64%)
+Reported 2787506 alignments to 1 output stream(s)
+# reads processed: 5317563
+# reads with at least one reported alignment: 3185905 (59.91%)
+# reads that failed to align: 2131658 (40.09%)
+Reported 3185905 alignments to 1 output stream(s)
+# reads processed: 2441945
+# reads with at least one reported alignment: 1485726 (60.84%)
+# reads that failed to align: 956219 (39.16%)
+Reported 1485726 alignments to 1 output stream(s)
+# reads processed: 9984096
+# reads with at least one reported alignment: 5933381 (59.43%)
+# reads that failed to align: 4050715 (40.57%)
+Reported 5933381 alignments to 1 output stream(s)
+# reads processed: 9952413
+# reads with at least one reported alignment: 5893094 (59.21%)
+# reads that failed to align: 4059319 (40.79%)
+Reported 5893094 alignments to 1 output stream(s)
+# reads processed: 10988844
+# reads with at least one reported alignment: 6590370 (59.97%)
+# reads that failed to align: 4398474 (40.03%)
+Reported 6590370 alignments to 1 output stream(s)
+# reads processed: 4837063
+# reads with at least one reported alignment: 2881662 (59.57%)
+# reads that failed to align: 1955401 (40.43%)
+Reported 2881662 alignments to 1 output stream(s)
+# reads processed: 5751544
+# reads with at least one reported alignment: 3463142 (60.21%)
+# reads that failed to align: 2288402 (39.79%)
+Reported 3463142 alignments to 1 output stream(s)
+# reads processed: 966730
+# reads with at least one reported alignment: 511171 (52.88%)
+# reads that failed to align: 455559 (47.12%)
+Reported 511171 alignments to 1 output stream(s)
+# reads processed: 2331019
+# reads with at least one reported alignment: 1172570 (50.30%)
+# reads that failed to align: 1158449 (49.70%)
+Reported 1172570 alignments to 1 output stream(s)
+# reads processed: 1992512
+# reads with at least one reported alignment: 1121858 (56.30%)
+# reads that failed to align: 870654 (43.70%)
+Reported 1121858 alignments to 1 output stream(s)
+# reads processed: 6616902
+# reads with at least one reported alignment: 2994592 (45.26%)
+# reads that failed to align: 3622310 (54.74%)
+Reported 2994592 alignments to 1 output stream(s)
+# reads processed: 3598520
+# reads with at least one reported alignment: 1722043 (47.85%)
+# reads that failed to align: 1876477 (52.15%)
+Reported 1722043 alignments to 1 output stream(s)
+# reads processed: 2122471
+# reads with at least one reported alignment: 1223968 (57.67%)
+# reads that failed to align: 898503 (42.33%)
+Reported 1223968 alignments to 1 output stream(s)
+# reads processed: 843226
+# reads with at least one reported alignment: 463938 (55.02%)
+# reads that failed to align: 379288 (44.98%)
+Reported 463938 alignments to 1 output stream(s)
+# reads processed: 5458205
+# reads with at least one reported alignment: 3118948 (57.14%)
+# reads that failed to align: 2339257 (42.86%)
+Reported 3118948 alignments to 1 output stream(s)
+# reads processed: 2625620
+# reads with at least one reported alignment: 1506308 (57.37%)
+# reads that failed to align: 1119312 (42.63%)
+Reported 1506308 alignments to 1 output stream(s)
+# reads processed: 10884840
+# reads with at least one reported alignment: 6523465 (59.93%)
+# reads that failed to align: 4361375 (40.07%)
+Reported 6523465 alignments to 1 output stream(s)
+# reads processed: 6164980
+# reads with at least one reported alignment: 3765123 (61.07%)
+# reads that failed to align: 2399857 (38.93%)
+Reported 3765123 alignments to 1 output stream(s)
+# reads processed: 4761034
+# reads with at least one reported alignment: 2914807 (61.22%)
+# reads that failed to align: 1846227 (38.78%)
+Reported 2914807 alignments to 1 output stream(s)
+# reads processed: 2672936
+# reads with at least one reported alignment: 1601744 (59.92%)
+# reads that failed to align: 1071192 (40.08%)
+Reported 1601744 alignments to 1 output stream(s)
+# reads processed: 2695033
+# reads with at least one reported alignment: 1631849 (60.55%)
+# reads that failed to align: 1063184 (39.45%)
+Reported 1631849 alignments to 1 output stream(s)
+# reads processed: 626185
+# reads with at least one reported alignment: 362940 (57.96%)
+# reads that failed to align: 263245 (42.04%)
+Reported 362940 alignments to 1 output stream(s)
+# reads processed: 1990280
+# reads with at least one reported alignment: 969257 (48.70%)
+# reads that failed to align: 1021023 (51.30%)
+Reported 969257 alignments to 1 output stream(s)
+# reads processed: 2942523
+# reads with at least one reported alignment: 1780126 (60.50%)
+# reads that failed to align: 1162397 (39.50%)
+Reported 1780126 alignments to 1 output stream(s)
+# reads processed: 19953
+# reads with at least one reported alignment: 1063 (5.33%)
+# reads that failed to align: 18890 (94.67%)
+Reported 1063 alignments to 1 output stream(s)
+# reads processed: 2592970
+# reads with at least one reported alignment: 1572599 (60.65%)
+# reads that failed to align: 1020371 (39.35%)
+Reported 1572599 alignments to 1 output stream(s)
+# reads processed: 2268661
+# reads with at least one reported alignment: 1359345 (59.92%)
+# reads that failed to align: 909316 (40.08%)
+Reported 1359345 alignments to 1 output stream(s)
+# reads processed: 612073
+# reads with at least one reported alignment: 331753 (54.20%)
+# reads that failed to align: 280320 (45.80%)
+Reported 331753 alignments to 1 output stream(s)
+# reads processed: 4079581
+# reads with at least one reported alignment: 2474252 (60.65%)
+# reads that failed to align: 1605329 (39.35%)
+Reported 2474252 alignments to 1 output stream(s)
+# reads processed: 1220369
+# reads with at least one reported alignment: 701593 (57.49%)
+# reads that failed to align: 518776 (42.51%)
+Reported 701593 alignments to 1 output stream(s)
+# reads processed: 3532063
+# reads with at least one reported alignment: 1938148 (54.87%)
+# reads that failed to align: 1593915 (45.13%)
+Reported 1938148 alignments to 1 output stream(s)
+# reads processed: 1814325
+# reads with at least one reported alignment: 1038584 (57.24%)
+# reads that failed to align: 775741 (42.76%)
+Reported 1038584 alignments to 1 output stream(s)
+# reads processed: 2325569
+# reads with at least one reported alignment: 1384802 (59.55%)
+# reads that failed to align: 940767 (40.45%)
+Reported 1384802 alignments to 1 output stream(s)
+# reads processed: 1789463
+# reads with at least one reported alignment: 1077804 (60.23%)
+# reads that failed to align: 711659 (39.77%)
+Reported 1077804 alignments to 1 output stream(s)
+# reads processed: 3461393
+# reads with at least one reported alignment: 2004771 (57.92%)
+# reads that failed to align: 1456622 (42.08%)
+Reported 2004771 alignments to 1 output stream(s)
+# reads processed: 996469
+# reads with at least one reported alignment: 601840 (60.40%)
+# reads that failed to align: 394629 (39.60%)
+Reported 601840 alignments to 1 output stream(s)
+# reads processed: 2080584
+# reads with at least one reported alignment: 1274092 (61.24%)
+# reads that failed to align: 806492 (38.76%)
+Reported 1274092 alignments to 1 output stream(s)
+# reads processed: 1119322
+# reads with at least one reported alignment: 662567 (59.19%)
+# reads that failed to align: 456755 (40.81%)
+Reported 662567 alignments to 1 output stream(s)
+# reads processed: 1521654
+# reads with at least one reported alignment: 909998 (59.80%)
+# reads that failed to align: 611656 (40.20%)
+Reported 909998 alignments to 1 output stream(s)
+# reads processed: 1348383
+# reads with at least one reported alignment: 811191 (60.16%)
+# reads that failed to align: 537192 (39.84%)
+Reported 811191 alignments to 1 output stream(s)
+# reads processed: 1799365
+# reads with at least one reported alignment: 1024653 (56.95%)
+# reads that failed to align: 774712 (43.05%)
+Reported 1024653 alignments to 1 output stream(s)
+# reads processed: 4858641
+# reads with at least one reported alignment: 2713919 (55.86%)
+# reads that failed to align: 2144722 (44.14%)
+Reported 2713919 alignments to 1 output stream(s)
+# reads processed: 3692041
+# reads with at least one reported alignment: 2199917 (59.59%)
+# reads that failed to align: 1492124 (40.41%)
+Reported 2199917 alignments to 1 output stream(s)
+# reads processed: 4011732
+# reads with at least one reported alignment: 2326215 (57.99%)
+# reads that failed to align: 1685517 (42.01%)
+Reported 2326215 alignments to 1 output stream(s)
+# reads processed: 3964034
+# reads with at least one reported alignment: 2386566 (60.21%)
+# reads that failed to align: 1577468 (39.79%)
+Reported 2386566 alignments to 1 output stream(s)
+# reads processed: 433572
+# reads with at least one reported alignment: 239839 (55.32%)
+# reads that failed to align: 193733 (44.68%)
+Reported 239839 alignments to 1 output stream(s)
+# reads processed: 3947023
+# reads with at least one reported alignment: 2340558 (59.30%)
+# reads that failed to align: 1606465 (40.70%)
+Reported 2340558 alignments to 1 output stream(s)
+# reads processed: 3410899
+# reads with at least one reported alignment: 1945725 (57.04%)
+# reads that failed to align: 1465174 (42.96%)
+Reported 1945725 alignments to 1 output stream(s)
+# reads processed: 2021500
+# reads with at least one reported alignment: 1154023 (57.09%)
+# reads that failed to align: 867477 (42.91%)
+Reported 1154023 alignments to 1 output stream(s)
+# reads processed: 2624412
+# reads with at least one reported alignment: 1562275 (59.53%)
+# reads that failed to align: 1062137 (40.47%)
+Reported 1562275 alignments to 1 output stream(s)
+# reads processed: 5447707
+# reads with at least one reported alignment: 3253948 (59.73%)
+# reads that failed to align: 2193759 (40.27%)
+Reported 3253948 alignments to 1 output stream(s)
+# reads processed: 1246515
+# reads with at least one reported alignment: 693914 (55.67%)
+# reads that failed to align: 552601 (44.33%)
+Reported 693914 alignments to 1 output stream(s)
+# reads processed: 3609690
+# reads with at least one reported alignment: 2125608 (58.89%)
+# reads that failed to align: 1484082 (41.11%)
+Reported 2125608 alignments to 1 output stream(s)
+# reads processed: 285263
+# reads with at least one reported alignment: 123084 (43.15%)
+# reads that failed to align: 162179 (56.85%)
+Reported 123084 alignments to 1 output stream(s)
+# reads processed: 1626523
+# reads with at least one reported alignment: 914767 (56.24%)
+# reads that failed to align: 711756 (43.76%)
+Reported 914767 alignments to 1 output stream(s)
+# reads processed: 152441
+# reads with at least one reported alignment: 74964 (49.18%)
+# reads that failed to align: 77477 (50.82%)
+Reported 74964 alignments to 1 output stream(s)
+# reads processed: 1929000
+# reads with at least one reported alignment: 1091423 (56.58%)
+# reads that failed to align: 837577 (43.42%)
+Reported 1091423 alignments to 1 output stream(s)
+# reads processed: 3313335
+# reads with at least one reported alignment: 1927935 (58.19%)
+# reads that failed to align: 1385400 (41.81%)
+Reported 1927935 alignments to 1 output stream(s)
+# reads processed: 3862006
+# reads with at least one reported alignment: 2306899 (59.73%)
+# reads that failed to align: 1555107 (40.27%)
+Reported 2306899 alignments to 1 output stream(s)
+# reads processed: 823531
+# reads with at least one reported alignment: 454555 (55.20%)
+# reads that failed to align: 368976 (44.80%)
+Reported 454555 alignments to 1 output stream(s)
+# reads processed: 8133702
+# reads with at least one reported alignment: 4763039 (58.56%)
+# reads that failed to align: 3370663 (41.44%)
+Reported 4763039 alignments to 1 output stream(s)
+# reads processed: 7297187
+# reads with at least one reported alignment: 4516750 (61.90%)
+# reads that failed to align: 2780437 (38.10%)
+Reported 4516750 alignments to 1 output stream(s)
+# reads processed: 2716081
+# reads with at least one reported alignment: 1657839 (61.04%)
+# reads that failed to align: 1058242 (38.96%)
+Reported 1657839 alignments to 1 output stream(s)
+# reads processed: 1045274
+# reads with at least one reported alignment: 618869 (59.21%)
+# reads that failed to align: 426405 (40.79%)
+Reported 618869 alignments to 1 output stream(s)
+# reads processed: 601315
+# reads with at least one reported alignment: 360335 (59.92%)
+# reads that failed to align: 240980 (40.08%)
+Reported 360335 alignments to 1 output stream(s)
+# reads processed: 1844035
+# reads with at least one reported alignment: 1134641 (61.53%)
+# reads that failed to align: 709394 (38.47%)
+Reported 1134641 alignments to 1 output stream(s)
+# reads processed: 2720735
+# reads with at least one reported alignment: 1668729 (61.33%)
+# reads that failed to align: 1052006 (38.67%)
+Reported 1668729 alignments to 1 output stream(s)
+# reads processed: 3019204
+# reads with at least one reported alignment: 1779441 (58.94%)
+# reads that failed to align: 1239763 (41.06%)
+Reported 1779441 alignments to 1 output stream(s)
+# reads processed: 5692288
+# reads with at least one reported alignment: 3464557 (60.86%)
+# reads that failed to align: 2227731 (39.14%)
+Reported 3464557 alignments to 1 output stream(s)
+# reads processed: 2622235
+# reads with at least one reported alignment: 1583488 (60.39%)
+# reads that failed to align: 1038747 (39.61%)
+Reported 1583488 alignments to 1 output stream(s)
+# reads processed: 3599829
+# reads with at least one reported alignment: 2175207 (60.43%)
+# reads that failed to align: 1424622 (39.57%)
+Reported 2175207 alignments to 1 output stream(s)
+# reads processed: 1504511
+# reads with at least one reported alignment: 907874 (60.34%)
+# reads that failed to align: 596637 (39.66%)
+Reported 907874 alignments to 1 output stream(s)
+# reads processed: 826535
+# reads with at least one reported alignment: 447354 (54.12%)
+# reads that failed to align: 379181 (45.88%)
+Reported 447354 alignments to 1 output stream(s)
+# reads processed: 4311669
+# reads with at least one reported alignment: 2554386 (59.24%)
+# reads that failed to align: 1757283 (40.76%)
+Reported 2554386 alignments to 1 output stream(s)
+# reads processed: 1816458
+# reads with at least one reported alignment: 1058975 (58.30%)
+# reads that failed to align: 757483 (41.70%)
+Reported 1058975 alignments to 1 output stream(s)
+# reads processed: 10651977
+# reads with at least one reported alignment: 6519599 (61.21%)
+# reads that failed to align: 4132378 (38.79%)
+Reported 6519599 alignments to 1 output stream(s)
+# reads processed: 12697218
+# reads with at least one reported alignment: 7797393 (61.41%)
+# reads that failed to align: 4899825 (38.59%)
+Reported 7797393 alignments to 1 output stream(s)
+# reads processed: 2104987
+# reads with at least one reported alignment: 1262156 (59.96%)
+# reads that failed to align: 842831 (40.04%)
+Reported 1262156 alignments to 1 output stream(s)
+# reads processed: 2503842
+# reads with at least one reported alignment: 1513879 (60.46%)
+# reads that failed to align: 989963 (39.54%)
+Reported 1513879 alignments to 1 output stream(s)
+# reads processed: 1721654
+# reads with at least one reported alignment: 1006134 (58.44%)
+# reads that failed to align: 715520 (41.56%)
+Reported 1006134 alignments to 1 output stream(s)
+# reads processed: 4329770
+# reads with at least one reported alignment: 2624957 (60.63%)
+# reads that failed to align: 1704813 (39.37%)
+Reported 2624957 alignments to 1 output stream(s)
+# reads processed: 1196957
+# reads with at least one reported alignment: 665344 (55.59%)
+# reads that failed to align: 531613 (44.41%)
+Reported 665344 alignments to 1 output stream(s)
+# reads processed: 173168
+# reads with at least one reported alignment: 99474 (57.44%)
+# reads that failed to align: 73694 (42.56%)
+Reported 99474 alignments to 1 output stream(s)
+# reads processed: 4944510
+# reads with at least one reported alignment: 2986057 (60.39%)
+# reads that failed to align: 1958453 (39.61%)
+Reported 2986057 alignments to 1 output stream(s)
+# reads processed: 2579086
+# reads with at least one reported alignment: 1564860 (60.67%)
+# reads that failed to align: 1014226 (39.33%)
+Reported 1564860 alignments to 1 output stream(s)
+# reads processed: 873350
+# reads with at least one reported alignment: 528458 (60.51%)
+# reads that failed to align: 344892 (39.49%)
+Reported 528458 alignments to 1 output stream(s)
+# reads processed: 3108991
+# reads with at least one reported alignment: 1875394 (60.32%)
+# reads that failed to align: 1233597 (39.68%)
+Reported 1875394 alignments to 1 output stream(s)
+# reads processed: 2425901
+# reads with at least one reported alignment: 1463149 (60.31%)
+# reads that failed to align: 962752 (39.69%)
+Reported 1463149 alignments to 1 output stream(s)
+# reads processed: 6267465
+# reads with at least one reported alignment: 3700057 (59.04%)
+# reads that failed to align: 2567408 (40.96%)
+Reported 3700057 alignments to 1 output stream(s)
+# reads processed: 1053046
+# reads with at least one reported alignment: 622645 (59.13%)
+# reads that failed to align: 430401 (40.87%)
+Reported 622645 alignments to 1 output stream(s)
+# reads processed: 3244823
+# reads with at least one reported alignment: 1912284 (58.93%)
+# reads that failed to align: 1332539 (41.07%)
+Reported 1912284 alignments to 1 output stream(s)
+# reads processed: 1081054
+# reads with at least one reported alignment: 638453 (59.06%)
+# reads that failed to align: 442601 (40.94%)
+Reported 638453 alignments to 1 output stream(s)
+# reads processed: 2900671
+# reads with at least one reported alignment: 1730796 (59.67%)
+# reads that failed to align: 1169875 (40.33%)
+Reported 1730796 alignments to 1 output stream(s)
+# reads processed: 789949
+# reads with at least one reported alignment: 430082 (54.44%)
+# reads that failed to align: 359867 (45.56%)
+Reported 430082 alignments to 1 output stream(s)
+# reads processed: 1814690
+# reads with at least one reported alignment: 1071922 (59.07%)
+# reads that failed to align: 742768 (40.93%)
+Reported 1071922 alignments to 1 output stream(s)
+# reads processed: 5002275
+# reads with at least one reported alignment: 3022574 (60.42%)
+# reads that failed to align: 1979701 (39.58%)
+Reported 3022574 alignments to 1 output stream(s)
+# reads processed: 949374
+# reads with at least one reported alignment: 533920 (56.24%)
+# reads that failed to align: 415454 (43.76%)
+Reported 533920 alignments to 1 output stream(s)
+# reads processed: 7666082
+# reads with at least one reported alignment: 4652749 (60.69%)
+# reads that failed to align: 3013333 (39.31%)
+Reported 4652749 alignments to 1 output stream(s)
+# reads processed: 525803
+# reads with at least one reported alignment: 316326 (60.16%)
+# reads that failed to align: 209477 (39.84%)
+Reported 316326 alignments to 1 output stream(s)
+# reads processed: 2553725
+# reads with at least one reported alignment: 1515576 (59.35%)
+# reads that failed to align: 1038149 (40.65%)
+Reported 1515576 alignments to 1 output stream(s)
+# reads processed: 910556
+# reads with at least one reported alignment: 535974 (58.86%)
+# reads that failed to align: 374582 (41.14%)
+Reported 535974 alignments to 1 output stream(s)
+# reads processed: 986962
+# reads with at least one reported alignment: 590342 (59.81%)
+# reads that failed to align: 396620 (40.19%)
+Reported 590342 alignments to 1 output stream(s)
+# reads processed: 3564362
+# reads with at least one reported alignment: 2172993 (60.96%)
+# reads that failed to align: 1391369 (39.04%)
+Reported 2172993 alignments to 1 output stream(s)
+# reads processed: 3473439
+# reads with at least one reported alignment: 2120324 (61.04%)
+# reads that failed to align: 1353115 (38.96%)
+Reported 2120324 alignments to 1 output stream(s)
+# reads processed: 3874496
+# reads with at least one reported alignment: 2336930 (60.32%)
+# reads that failed to align: 1537566 (39.68%)
+Reported 2336930 alignments to 1 output stream(s)
+# reads processed: 3852296
+# reads with at least one reported alignment: 2319060 (60.20%)
+# reads that failed to align: 1533236 (39.80%)
+Reported 2319060 alignments to 1 output stream(s)
+# reads processed: 1459670
+# reads with at least one reported alignment: 835669 (57.25%)
+# reads that failed to align: 624001 (42.75%)
+Reported 835669 alignments to 1 output stream(s)
+# reads processed: 2476612
+# reads with at least one reported alignment: 1484727 (59.95%)
+# reads that failed to align: 991885 (40.05%)
+Reported 1484727 alignments to 1 output stream(s)
+# reads processed: 427207
+# reads with at least one reported alignment: 246012 (57.59%)
+# reads that failed to align: 181195 (42.41%)
+Reported 246012 alignments to 1 output stream(s)
+# reads processed: 2899441
+# reads with at least one reported alignment: 1725503 (59.51%)
+# reads that failed to align: 1173938 (40.49%)
+Reported 1725503 alignments to 1 output stream(s)
+# reads processed: 3562001
+# reads with at least one reported alignment: 2162550 (60.71%)
+# reads that failed to align: 1399451 (39.29%)
+Reported 2162550 alignments to 1 output stream(s)
+# reads processed: 7512937
+# reads with at least one reported alignment: 4501918 (59.92%)
+# reads that failed to align: 3011019 (40.08%)
+Reported 4501918 alignments to 1 output stream(s)
+# reads processed: 5675208
+# reads with at least one reported alignment: 3452925 (60.84%)
+# reads that failed to align: 2222283 (39.16%)
+Reported 3452925 alignments to 1 output stream(s)
+# reads processed: 3527876
+# reads with at least one reported alignment: 2143158 (60.75%)
+# reads that failed to align: 1384718 (39.25%)
+Reported 2143158 alignments to 1 output stream(s)
+# reads processed: 3923619
+# reads with at least one reported alignment: 2394487 (61.03%)
+# reads that failed to align: 1529132 (38.97%)
+Reported 2394487 alignments to 1 output stream(s)
+# reads processed: 7101400
+# reads with at least one reported alignment: 4235325 (59.64%)
+# reads that failed to align: 2866075 (40.36%)
+Reported 4235325 alignments to 1 output stream(s)
+# reads processed: 933670
+# reads with at least one reported alignment: 544413 (58.31%)
+# reads that failed to align: 389257 (41.69%)
+Reported 544413 alignments to 1 output stream(s)
+# reads processed: 116893
+# reads with at least one reported alignment: 61701 (52.78%)
+# reads that failed to align: 55192 (47.22%)
+Reported 61701 alignments to 1 output stream(s)
+# reads processed: 2981537
+# reads with at least one reported alignment: 1783998 (59.83%)
+# reads that failed to align: 1197539 (40.17%)
+Reported 1783998 alignments to 1 output stream(s)
+# reads processed: 7652833
+# reads with at least one reported alignment: 4690778 (61.29%)
+# reads that failed to align: 2962055 (38.71%)
+Reported 4690778 alignments to 1 output stream(s)
+# reads processed: 1922970
+# reads with at least one reported alignment: 1143509 (59.47%)
+# reads that failed to align: 779461 (40.53%)
+Reported 1143509 alignments to 1 output stream(s)
+# reads processed: 746368
+# reads with at least one reported alignment: 443755 (59.46%)
+# reads that failed to align: 302613 (40.54%)
+Reported 443755 alignments to 1 output stream(s)
+# reads processed: 1167827
+# reads with at least one reported alignment: 706632 (60.51%)
+# reads that failed to align: 461195 (39.49%)
+Reported 706632 alignments to 1 output stream(s)
+# reads processed: 2035030
+# reads with at least one reported alignment: 1259394 (61.89%)
+# reads that failed to align: 775636 (38.11%)
+Reported 1259394 alignments to 1 output stream(s)
+# reads processed: 1555987
+# reads with at least one reported alignment: 944447 (60.70%)
+# reads that failed to align: 611540 (39.30%)
+Reported 944447 alignments to 1 output stream(s)
+# reads processed: 2674493
+# reads with at least one reported alignment: 1626702 (60.82%)
+# reads that failed to align: 1047791 (39.18%)
+Reported 1626702 alignments to 1 output stream(s)
+# reads processed: 1216964
+# reads with at least one reported alignment: 750955 (61.71%)
+# reads that failed to align: 466009 (38.29%)
+Reported 750955 alignments to 1 output stream(s)
+# reads processed: 642350
+# reads with at least one reported alignment: 394767 (61.46%)
+# reads that failed to align: 247583 (38.54%)
+Reported 394767 alignments to 1 output stream(s)
+# reads processed: 1717981
+# reads with at least one reported alignment: 831246 (48.39%)
+# reads that failed to align: 886735 (51.61%)
+Reported 831246 alignments to 1 output stream(s)
+# reads processed: 4096017
+# reads with at least one reported alignment: 2198550 (53.68%)
+# reads that failed to align: 1897467 (46.32%)
+Reported 2198550 alignments to 1 output stream(s)
+# reads processed: 2968140
+# reads with at least one reported alignment: 1816286 (61.19%)
+# reads that failed to align: 1151854 (38.81%)
+Reported 1816286 alignments to 1 output stream(s)
+# reads processed: 5993580
+# reads with at least one reported alignment: 3333378 (55.62%)
+# reads that failed to align: 2660202 (44.38%)
+Reported 3333378 alignments to 1 output stream(s)
+# reads processed: 8659570
+# reads with at least one reported alignment: 4853375 (56.05%)
+# reads that failed to align: 3806195 (43.95%)
+Reported 4853375 alignments to 1 output stream(s)
+# reads processed: 4078253
+# reads with at least one reported alignment: 1628724 (39.94%)
+# reads that failed to align: 2449529 (60.06%)
+Reported 1628724 alignments to 1 output stream(s)
+# reads processed: 6259115
+# reads with at least one reported alignment: 3425562 (54.73%)
+# reads that failed to align: 2833553 (45.27%)
+Reported 3425562 alignments to 1 output stream(s)
+# reads processed: 9296113
+# reads with at least one reported alignment: 5507335 (59.24%)
+# reads that failed to align: 3788778 (40.76%)
+Reported 5507335 alignments to 1 output stream(s)
+# reads processed: 5769259
+# reads with at least one reported alignment: 3485745 (60.42%)
+# reads that failed to align: 2283514 (39.58%)
+Reported 3485745 alignments to 1 output stream(s)
+# reads processed: 4774298
+# reads with at least one reported alignment: 2320182 (48.60%)
+# reads that failed to align: 2454116 (51.40%)
+Reported 2320182 alignments to 1 output stream(s)
+# reads processed: 6057266
+# reads with at least one reported alignment: 3186178 (52.60%)
+# reads that failed to align: 2871088 (47.40%)
+Reported 3186178 alignments to 1 output stream(s)
+# reads processed: 3962949
+# reads with at least one reported alignment: 2188308 (55.22%)
+# reads that failed to align: 1774641 (44.78%)
+Reported 2188308 alignments to 1 output stream(s)
+# reads processed: 4475682
+# reads with at least one reported alignment: 2608403 (58.28%)
+# reads that failed to align: 1867279 (41.72%)
+Reported 2608403 alignments to 1 output stream(s)
+# reads processed: 10735145
+# reads with at least one reported alignment: 6052735 (56.38%)
+# reads that failed to align: 4682410 (43.62%)
+Reported 6052735 alignments to 1 output stream(s)
+# reads processed: 7761056
+# reads with at least one reported alignment: 3843361 (49.52%)
+# reads that failed to align: 3917695 (50.48%)
+Reported 3843361 alignments to 1 output stream(s)
+# reads processed: 3692985
+# reads with at least one reported alignment: 2030904 (54.99%)
+# reads that failed to align: 1662081 (45.01%)
+Reported 2030904 alignments to 1 output stream(s)
+# reads processed: 3287279
+# reads with at least one reported alignment: 1705459 (51.88%)
+# reads that failed to align: 1581820 (48.12%)
+Reported 1705459 alignments to 1 output stream(s)
+# reads processed: 7110518
+# reads with at least one reported alignment: 4103340 (57.71%)
+# reads that failed to align: 3007178 (42.29%)
+Reported 4103340 alignments to 1 output stream(s)
+# reads processed: 5149426
+# reads with at least one reported alignment: 1965076 (38.16%)
+# reads that failed to align: 3184350 (61.84%)
+Reported 1965076 alignments to 1 output stream(s)
+# reads processed: 7747504
+# reads with at least one reported alignment: 4530127 (58.47%)
+# reads that failed to align: 3217377 (41.53%)
+Reported 4530127 alignments to 1 output stream(s)
+# reads processed: 3280358
+# reads with at least one reported alignment: 1263640 (38.52%)
+# reads that failed to align: 2016718 (61.48%)
+Reported 1263640 alignments to 1 output stream(s)
+# reads processed: 6685657
+# reads with at least one reported alignment: 3683537 (55.10%)
+# reads that failed to align: 3002120 (44.90%)
+Reported 3683537 alignments to 1 output stream(s)
+# reads processed: 3986942
+# reads with at least one reported alignment: 1953369 (48.99%)
+# reads that failed to align: 2033573 (51.01%)
+Reported 1953369 alignments to 1 output stream(s)
+# reads processed: 4331290
+# reads with at least one reported alignment: 2308664 (53.30%)
+# reads that failed to align: 2022626 (46.70%)
+Reported 2308664 alignments to 1 output stream(s)
+# reads processed: 1962002
+# reads with at least one reported alignment: 1168551 (59.56%)
+# reads that failed to align: 793451 (40.44%)
+Reported 1168551 alignments to 1 output stream(s)
+# reads processed: 5803141
+# reads with at least one reported alignment: 3538755 (60.98%)
+# reads that failed to align: 2264386 (39.02%)
+Reported 3538755 alignments to 1 output stream(s)
+# reads processed: 4659273
+# reads with at least one reported alignment: 2797235 (60.04%)
+# reads that failed to align: 1862038 (39.96%)
+Reported 2797235 alignments to 1 output stream(s)
+# reads processed: 1114
+# reads with at least one reported alignment: 231 (20.74%)
+# reads that failed to align: 883 (79.26%)
+Reported 231 alignments to 1 output stream(s)
+# reads processed: 3172787
+# reads with at least one reported alignment: 1887598 (59.49%)
+# reads that failed to align: 1285189 (40.51%)
+Reported 1887598 alignments to 1 output stream(s)
+# reads processed: 4039842
+# reads with at least one reported alignment: 2469363 (61.13%)
+# reads that failed to align: 1570479 (38.87%)
+Reported 2469363 alignments to 1 output stream(s)
+# reads processed: 3494966
+# reads with at least one reported alignment: 2133331 (61.04%)
+# reads that failed to align: 1361635 (38.96%)
+Reported 2133331 alignments to 1 output stream(s)
+# reads processed: 2336383
+# reads with at least one reported alignment: 1378241 (58.99%)
+# reads that failed to align: 958142 (41.01%)
+Reported 1378241 alignments to 1 output stream(s)
+# reads processed: 2039080
+# reads with at least one reported alignment: 1190723 (58.40%)
+# reads that failed to align: 848357 (41.60%)
+Reported 1190723 alignments to 1 output stream(s)
+# reads processed: 4033436
+# reads with at least one reported alignment: 2435839 (60.39%)
+# reads that failed to align: 1597597 (39.61%)
+Reported 2435839 alignments to 1 output stream(s)
+# reads processed: 3618428
+# reads with at least one reported alignment: 2165011 (59.83%)
+# reads that failed to align: 1453417 (40.17%)
+Reported 2165011 alignments to 1 output stream(s)
+# reads processed: 3864586
+# reads with at least one reported alignment: 2325362 (60.17%)
+# reads that failed to align: 1539224 (39.83%)
+Reported 2325362 alignments to 1 output stream(s)
+# reads processed: 3057343
+# reads with at least one reported alignment: 1827185 (59.76%)
+# reads that failed to align: 1230158 (40.24%)
+Reported 1827185 alignments to 1 output stream(s)
+# reads processed: 4056569
+# reads with at least one reported alignment: 2462165 (60.70%)
+# reads that failed to align: 1594404 (39.30%)
+Reported 2462165 alignments to 1 output stream(s)
+# reads processed: 7069859
+# reads with at least one reported alignment: 4329761 (61.24%)
+# reads that failed to align: 2740098 (38.76%)
+Reported 4329761 alignments to 1 output stream(s)
+# reads processed: 6158191
+# reads with at least one reported alignment: 3718553 (60.38%)
+# reads that failed to align: 2439638 (39.62%)
+Reported 3718553 alignments to 1 output stream(s)
+# reads processed: 4525205
+# reads with at least one reported alignment: 2728447 (60.29%)
+# reads that failed to align: 1796758 (39.71%)
+Reported 2728447 alignments to 1 output stream(s)
+# reads processed: 3842521
+# reads with at least one reported alignment: 2298017 (59.80%)
+# reads that failed to align: 1544504 (40.20%)
+Reported 2298017 alignments to 1 output stream(s)
+# reads processed: 3666663
+# reads with at least one reported alignment: 2223688 (60.65%)
+# reads that failed to align: 1442975 (39.35%)
+Reported 2223688 alignments to 1 output stream(s)
+# reads processed: 2587646
+# reads with at least one reported alignment: 1562331 (60.38%)
+# reads that failed to align: 1025315 (39.62%)
+Reported 1562331 alignments to 1 output stream(s)
+# reads processed: 3752341
+# reads with at least one reported alignment: 2277689 (60.70%)
+# reads that failed to align: 1474652 (39.30%)
+Reported 2277689 alignments to 1 output stream(s)
+# reads processed: 4659426
+# reads with at least one reported alignment: 2866013 (61.51%)
+# reads that failed to align: 1793413 (38.49%)
+Reported 2866013 alignments to 1 output stream(s)
+# reads processed: 3083761
+# reads with at least one reported alignment: 1880906 (60.99%)
+# reads that failed to align: 1202855 (39.01%)
+Reported 1880906 alignments to 1 output stream(s)
+# reads processed: 4784237
+# reads with at least one reported alignment: 2905110 (60.72%)
+# reads that failed to align: 1879127 (39.28%)
+Reported 2905110 alignments to 1 output stream(s)
+# reads processed: 1585848
+# reads with at least one reported alignment: 943869 (59.52%)
+# reads that failed to align: 641979 (40.48%)
+Reported 943869 alignments to 1 output stream(s)
+# reads processed: 5641450
+# reads with at least one reported alignment: 3450502 (61.16%)
+# reads that failed to align: 2190948 (38.84%)
+Reported 3450502 alignments to 1 output stream(s)
+# reads processed: 4831675
+# reads with at least one reported alignment: 2929061 (60.62%)
+# reads that failed to align: 1902614 (39.38%)
+Reported 2929061 alignments to 1 output stream(s)
+# reads processed: 3555024
+# reads with at least one reported alignment: 2140350 (60.21%)
+# reads that failed to align: 1414674 (39.79%)
+Reported 2140350 alignments to 1 output stream(s)
+# reads processed: 4631204
+# reads with at least one reported alignment: 2781678 (60.06%)
+# reads that failed to align: 1849526 (39.94%)
+Reported 2781678 alignments to 1 output stream(s)
+# reads processed: 5825946
+# reads with at least one reported alignment: 3538791 (60.74%)
+# reads that failed to align: 2287155 (39.26%)
+Reported 3538791 alignments to 1 output stream(s)
+# reads processed: 5328677
+# reads with at least one reported alignment: 3220559 (60.44%)
+# reads that failed to align: 2108118 (39.56%)
+Reported 3220559 alignments to 1 output stream(s)
+# reads processed: 3815390
+# reads with at least one reported alignment: 2312819 (60.62%)
+# reads that failed to align: 1502571 (39.38%)
+Reported 2312819 alignments to 1 output stream(s)
+# reads processed: 3311770
+# reads with at least one reported alignment: 1976060 (59.67%)
+# reads that failed to align: 1335710 (40.33%)
+Reported 1976060 alignments to 1 output stream(s)
+# reads processed: 2970744
+# reads with at least one reported alignment: 1734089 (58.37%)
+# reads that failed to align: 1236655 (41.63%)
+Reported 1734089 alignments to 1 output stream(s)
+# reads processed: 1798634
+# reads with at least one reported alignment: 1043432 (58.01%)
+# reads that failed to align: 755202 (41.99%)
+Reported 1043432 alignments to 1 output stream(s)
+# reads processed: 2092010
+# reads with at least one reported alignment: 1217373 (58.19%)
+# reads that failed to align: 874637 (41.81%)
+Reported 1217373 alignments to 1 output stream(s)
+

@@ -1,0 +1,19 @@
+### Input file for generating the bash shell script for final filtering ###
+	# Name for your BASH script, including the `.sh` file extension. 
+	# Absolute path to where the shell script will be located. *If there is a space in the file path, include a \*
+	# Absolute path to the stacks files *If there is a space in the file path, include a \* 
+	# batch
+	# Is the .catalog.snps.tsv file zipped? [yes / no]
+1	# Minimum coverage required for Marine's script, preparing_file_for_correcting_genotypes.py (default = 1)
+	# Absolute path to prep_for_extraFilters.py *If there is a space in the file path, include a \* 
+	# Absolute path to preparing_file_for_correcting_genotypes.py *If there is a space in the file path, include a \* 
+	# Absolute path to gunzip_string.txt *If there is a space in the file path, DO NOT include a \* 
+	# Absolute path to genotypes_verif_v2_no_ref_takeARGS (Marine's script, edited to take command line args) *If there is a space in the file path, include a \*
+	# Absolute path to genepop_conversion_corrected.py *If there is a space in the file path, include a \*
+	# Absolute path to add_sample_to_genepop.py *If there is a space in the file path, include a \*
+	# Absolute path to transpose.py *If there is a space in the file path, include a \*
+	# Absolute path to convert_genepop_to_csv.py *If there is a space in the file path, include a \*
+	# Absolute path to genMAFfiltering.py *If there is a space in the file path, include a \*
+	# Absolute path to genMisingValues.py *If there is a space in the file path, include a \*
+	# Population Map used in `populations`, including Absolute path. must have all individuals that are included in the genepop file output from `populations`.
+NULL	# Population Map that will be generated AFTER individuals with too much missing data are filtered out. You have to provide the name now, and you will then make the actual file once you are prompted to in the shell script. You only have to fill this in if you are using the _filterIndivids version of the script; otherwise, you can leave this as "null" and the filtering script will use the same population map indicated on line 17. *If there is a space in the file path, include a \*

@@ -1,0 +1,45 @@
+Searching for matches by sequence identity...
+  Parsing ../batch1_bowtie2/batch_1.catalog.tags.tsv
+  Parsing ../batch1_bowtie2/batch_1.catalog.snps.tsv
+  Parsing ../batch1_bowtie2/batch_1.catalog.alleles.tsv
+Processing sample '../batch1_bowtie2/PS12_018' [1 of 1]
+  Parsing ../batch1_bowtie2/PS12_018.tags.tsv
+  Parsing ../batch1_bowtie2/PS12_018.snps.tsv
+  Parsing ../batch1_bowtie2/PS12_018.alleles.tsv
+Searching for sequence matches...
+24861 stacks compared against the catalog containing 25252 loci.
+  23467 matching loci, 14132 contained no verified haplotypes.
+  280 loci matched more than one catalog locus and were excluded.
+  1077 loci contained SNPs unaccounted for in the catalog and were excluded.
+  25489 total haplotypes examined from matching loci, 10075 verified.
+Outputing to file ../batch1_bowtie2/PS12_018.matches.tsv
+Searching for matches by sequence identity...
+  Parsing ../batch1_bowtie2/batch_1.catalog.tags.tsv
+  Parsing ../batch1_bowtie2/batch_1.catalog.snps.tsv
+  Parsing ../batch1_bowtie2/batch_1.catalog.alleles.tsv
+Processing sample '../batch1_bowtie2/UP03_001' [1 of 1]
+  Parsing ../batch1_bowtie2/UP03_001.tags.tsv
+  Parsing ../batch1_bowtie2/UP03_001.snps.tsv
+  Parsing ../batch1_bowtie2/UP03_001.alleles.tsv
+Searching for sequence matches...
+25108 stacks compared against the catalog containing 25252 loci.
+  23742 matching loci, 14347 contained no verified haplotypes.
+  276 loci matched more than one catalog locus and were excluded.
+  1360 loci contained SNPs unaccounted for in the catalog and were excluded.
+  26497 total haplotypes examined from matching loci, 10540 verified.
+Outputing to file ../batch1_bowtie2/UP03_001.matches.tsv
+Searching for matches by sequence identity...
+  Parsing ../batch1_bowtie2/batch_1.catalog.tags.tsv
+  Parsing ../batch1_bowtie2/batch_1.catalog.snps.tsv
+  Parsing ../batch1_bowtie2/batch_1.catalog.alleles.tsv
+Processing sample '../batch1_bowtie2/PWS12_133' [1 of 1]
+  Parsing ../batch1_bowtie2/PWS12_133.tags.tsv
+  Parsing ../batch1_bowtie2/PWS12_133.snps.tsv
+  Parsing ../batch1_bowtie2/PWS12_133.alleles.tsv
+Searching for sequence matches...
+17480 stacks compared against the catalog containing 25252 loci.
+  16483 matching loci, 9811 contained no verified haplotypes.
+  224 loci matched more than one catalog locus and were excluded.
+  850 loci contained SNPs unaccounted for in the catalog and were excluded.
+  17918 total haplotypes examined from matching loci, 7170 verified.
+Outputing to file ../batch1_bowtie2/PWS12_133.matches.tsv

@@ -1,0 +1,479 @@
+PO010715_02_92bp	Pohang
+PO010715_04_92bp	Pohang
+PO010715_06.1_92bp	Pohang
+PO010715_07_92bp	Pohang
+PO010715_08.1_92bp	Pohang
+PO010715_10.1_92bp	Pohang
+PO010715_11.1_92bp	Pohang
+PO010715_12_92bp	Pohang
+PO010715_17.1_92bp	Pohang
+PO010715_19.1_92bp	Pohang
+PO010715_26_2_92bp	Pohang
+PO010715_27.1_92bp	Pohang
+PO010715_28.1_92bp	Pohang
+PO010715_29.1_92bp	Pohang
+PO020515_01_92bp	Pohang
+PO020515_03.1_92bp	Pohang
+PO020515_05.1_92bp	Pohang
+PO020515_06_92bp	Pohang
+PO020515_08.1_92bp	Pohang
+PO020515_09.1_92bp	Pohang
+PO020515_10.1_92bp	Pohang
+PO020515_14.1_92bp	Pohang
+PO020515_15.1_92bp	Pohang
+PO020515_16.1_92bp	Pohang
+PO020515_17.1_92bp	Pohang
+PO031715_03_92bp	Pohang
+PO031715_04_92bp	Pohang
+PO031715_13.1_92bp	Pohang
+PO031715_20.1_92bp	Pohang
+PO031715_23_92bp	Pohang
+PO031715_24_92bp	Pohang
+GE011215_01.1_92bp	Geoje
+GE011215_07.1_92bp	Geoje
+GE011215_08.1_92bp	Geoje
+GE011215_09.1_92bp	Geoje
+GE011215_10.1_92bp	Geoje
+GE011215_11_92bp	Geoje
+GE011215_14.1_92bp	Geoje
+GE011215_15.1_92bp	Geoje
+GE011215_16.1_92bp	Geoje
+GE011215_18_92bp	Geoje
+GE011215_19_92bp	Geoje
+GE011215_20.1_92bp	Geoje
+GE011215_21.1_92bp	Geoje
+GE011215_22_92bp	Geoje
+GE011215_24.1_92bp	Geoje
+GE011215_28_92bp	Geoje
+GE011215_29.1_92bp	Geoje
+GE012315_01.1_92bp	Geoje
+GE012315_03.1_92bp	Geoje
+GE012315_06.1_92bp	Geoje
+GE012315_08.1_92bp	Geoje
+GE012315_17.1_92bp	Geoje
+GE012315_20.1_92bp	Geoje
+GE012315_22.1_92bp	Geoje
+GEO012315_02_92bp	Geoje
+GEO012315_12_92bp	Geoje
+GEO012315_18_92bp	Geoje
+GEO012315_21_92bp	Geoje
+GEO020414_10_2_92bp	Geoje
+GEO020414_11_300_92bp	Geoje
+GEO020414_13_2_92bp	Geoje
+GEO020414_14_300_92bp	Geoje
+GEO020414_15_300_92bp	Geoje
+GEO020414_16_300_92bp	Geoje
+GEO020414_17_300_92bp	Geoje
+GEO020414_23_300_92bp	Geoje
+GEO020414_24_300_92bp	Geoje
+GEO020414_25_300_92bp	Geoje
+GEO020414_26_92bp	Geoje
+GEO020414_27_92bp	Geoje
+GEO020414_29_92bp	Geoje
+GEO020414_2_92bp	Geoje
+GEO020414_30_2_92bp	Geoje
+GEO020414_3_92bp	Geoje
+GEO020414_4_92bp	Geoje
+GEO020414_5_92bp	Geoje
+GEO020414_6_92bp	Geoje
+GEO020414_7_92bp	Geoje
+GEO020414_8_300_92bp	Geoje
+GEO020414_9_300_92bp	Geoje
+NA021015_02.1_92bp	Namhae
+NA021015_08.1_92bp	Namhae
+NA021015_14.1_92bp	Namhae
+NA021015_16.1_92bp	Namhae
+NA021015_17.1_92bp	Namhae
+NA021015_21.1_92bp	Namhae
+NA021015_22.1_92bp	Namhae
+NA021015_23_92bp	Namhae
+NA021015_25_92bp	Namhae
+NA021015_26_92bp	Namhae
+NA021015_30_92bp	Namhae
+JB121807_01_92bp	Jinhae Bay
+JB121807_03.1_92bp	Jinhae Bay
+JB121807_04.1_92bp	Jinhae Bay
+JB121807_05_2_92bp	Jinhae Bay
+JB121807_06.1_92bp	Jinhae Bay
+JB121807_08_92bp	Jinhae Bay
+JB121807_09.1_92bp	Jinhae Bay
+JB121807_11.1_92bp	Jinhae Bay
+JB121807_12.1_92bp	Jinhae Bay
+JB121807_14.1_92bp	Jinhae Bay
+JB121807_16_2_92bp	Jinhae Bay
+JB121807_18_92bp	Jinhae Bay
+JB121807_19.1_92bp	Jinhae Bay
+JB121807_20.1_92bp	Jinhae Bay
+JB121807_21.1_92bp	Jinhae Bay
+JB121807_22_c_92bp	Jinhae Bay
+JB121807_23_2_92bp	Jinhae Bay
+JB121807_24.1_92bp	Jinhae Bay
+JB121807_25_92bp	Jinhae Bay
+JB121807_26_c_92bp	Jinhae Bay
+JB121807_27_2_92bp	Jinhae Bay
+JB121807_28.1_92bp	Jinhae Bay
+JB121807_29_92bp	Jinhae Bay
+JB121807_30_2_92bp	Jinhae Bay
+JB121807_31.1_92bp	Jinhae Bay
+JB121807_32.1_92bp	Jinhae Bay
+JB121807_33.1_92bp	Jinhae Bay
+JB121807_34.1_92bp	Jinhae Bay
+JB121807_35_2_92bp	Jinhae Bay
+JB121807_37_92bp	Jinhae Bay
+JB121807_38.1_92bp	Jinhae Bay
+JB121807_39_92bp	Jinhae Bay
+JB121807_41.1_92bp	Jinhae Bay
+JB121807_42_92bp	Jinhae Bay
+JB121807_43_92bp	Jinhae Bay
+JB121807_44_92bp	Jinhae Bay
+JB121807_46_92bp	Jinhae Bay
+JB121807_47_2_92bp	Jinhae Bay
+JB121807_48.1_92bp	Jinhae Bay
+JB021108_01.1_92bp	Jinhae Bay
+JB021108_02.1_92bp	Jinhae Bay
+JB021108_04.1_92bp	Jinhae Bay
+JB021108_05_rep_92bp	Jinhae Bay
+JB021108_06_92bp	Jinhae Bay
+JB021108_07.1_92bp	Jinhae Bay
+JB021108_08.1_92bp	Jinhae Bay
+JB021108_09.1_92bp	Jinhae Bay
+JB021108_11_2_92bp	Jinhae Bay
+JB021108_11_rep_92bp	Jinhae Bay
+JB021108_12.1_92bp	Jinhae Bay
+JB021108_13.1_92bp	Jinhae Bay
+JB021108_14_2_92bp	Jinhae Bay
+JB021108_16_92bp	Jinhae Bay
+JB021108_17.1_92bp	Jinhae Bay
+JB021108_19.1_92bp	Jinhae Bay
+JB021108_20_92bp	Jinhae Bay
+JB021108_22.1_92bp	Jinhae Bay
+JB021108_23_92bp	Jinhae Bay
+JB021108_24_c_92bp	Jinhae Bay
+JB021108_25.1_92bp	Jinhae Bay
+JB021108_25_2_92bp	Jinhae Bay
+JB021108_26.1_92bp	Jinhae Bay
+JB021108_28_2_92bp	Jinhae Bay
+JB021108_29_92bp	Jinhae Bay
+JB021108_30_92bp	Jinhae Bay
+JB021108_31_2_92bp	Jinhae Bay
+JB021108_32_92bp	Jinhae Bay
+JB021108_33_rep_92bp	Jinhae Bay
+JB021108_34_92bp	Jinhae Bay
+JB021108_35_rep_92bp	Jinhae Bay
+JB021108_36.1_92bp	Jinhae Bay
+JB021108_37.1_92bp	Jinhae Bay
+JB021108_38.1_92bp	Jinhae Bay
+JB021108_39_92bp	Jinhae Bay
+JB021108_40_2_92bp	Jinhae Bay
+JB021108_41.1_92bp	Jinhae Bay
+JB021108_44.1_92bp	Jinhae Bay
+JB021108_45_92bp	Jinhae Bay
+JB021108_46.1_92bp	Jinhae Bay
+JB021108_47.1_92bp	Jinhae Bay
+JB021108_48.1_92bp	Jinhae Bay
+YS121315_08.1_92bp	YSBlock
+YS121315_10.1_92bp	YSBlock
+YS121315_12_92bp	YSBlock
+YS121315_15_92bp	YSBlock
+YS121315_16_92bp	YSBlock
+YS121316_30_92bp	YSBlock
+YS_121316_01_92bp	YSBlock
+YS_121316_03_92bp	YSBlock
+YS_121316_04_92bp	YSBlock
+YS_121316_05_92bp	YSBlock
+YS_121316_07_92bp	YSBlock
+YS_121316_13_92bp	YSBlock
+YS_121316_17_92bp	YSBlock
+YS_121316_18_92bp	YSBlock
+YS_121316_19_92bp	YSBlock
+YS_121316_20_2_92bp	YSBlock
+YS_121316_21_92bp	YSBlock
+YS_121316_22_92bp	YSBlock
+YS_121316_23_92bp	YSBlock
+YS_121316_24_92bp	YSBlock
+YS_121316_25_92bp	YSBlock
+YS_121316_26_92bp	YSBlock
+YS_121316_27_92bp	YSBlock
+YS_121316_28_92bp	YSBlock
+YS_121316_29_92bp	YSBlock
+BOR07_01_2_92bp	Boryeong
+BOR07_02.1_92bp	Boryeong
+BOR07_03_92bp	Boryeong
+BOR07_04_92bp	Boryeong
+BOR07_05.1_92bp	Boryeong
+BOR07_06.1_92bp	Boryeong
+BOR07_07.1_92bp	Boryeong
+BOR07_08.1_92bp	Boryeong
+BOR07_09_92bp	Boryeong
+BOR07_11.1_92bp	Boryeong
+BOR07_12.1_92bp	Boryeong
+BOR07_13.1_92bp	Boryeong
+BOR07_14_92bp	Boryeong
+BOR07_15_92bp	Boryeong
+BOR07_16_92bp	Boryeong
+BOR07_17.1_92bp	Boryeong
+BOR07_18_92bp	Boryeong
+BOR07_19.1_92bp	Boryeong
+BOR07_20.1_92bp	Boryeong
+BOR07_21_2_92bp	Boryeong
+BOR07_22_92bp	Boryeong
+KOD03_035	Kodiak
+KOD03_051	Kodiak
+KOD03_052	Kodiak
+KOD03_053	Kodiak
+KOD03_054	Kodiak
+KOD03_055	Kodiak
+KOD03_056	Kodiak
+KOD03_057	Kodiak
+KOD03_058	Kodiak
+KOD03_059	Kodiak
+KOD03_060	Kodiak
+KOD03_061	Kodiak
+KOD03_062	Kodiak
+KOD03_065	Kodiak
+KOD03_067	Kodiak
+KOD03_068	Kodiak
+KOD03_069	Kodiak
+KOD03_070	Kodiak
+KOD03_071	Kodiak
+KOD03_072	Kodiak
+KOD03_073	Kodiak
+KOD03_074	Kodiak
+KOD03_075	Kodiak
+KOD03_076	Kodiak
+KOD03_077	Kodiak
+KOD03_078	Kodiak
+KOD03_079	Kodiak
+KOD03_080	Kodiak
+KOD03_081	Kodiak
+KOD03_082	Kodiak
+KOD03_083	Kodiak
+KOD03_084	Kodiak
+KOD03_085	Kodiak
+KOD03_086	Kodiak
+KOD03_088	Kodiak
+KOD03_089	Kodiak
+KOD03_090	Kodiak
+KOD03_091	Kodiak
+KOD03_093	Kodiak
+KOD03_094	Kodiak
+KOD03_095	Kodiak
+KOD03_096	Kodiak
+KOD03_097	Kodiak
+AD06_001	Adak
+AD06_003	Adak
+AD06_004	Adak
+AD06_005	Adak
+AD06_006	Adak
+AD06_007	Adak
+AD06_008	Adak
+AD06_009	Adak
+AD06_010	Adak
+AD06_012	Adak
+AD06_013	Adak
+AD06_014	Adak
+AD06_015	Adak
+AD06_016	Adak
+AD06_017	Adak
+AD06_018	Adak
+AD06_019	Adak
+AD06_020	Adak
+AD06_021	Adak
+AD06_023	Adak
+AD06_024	Adak
+AD06_025	Adak
+AD06_026	Adak
+AD06_027	Adak
+AD06_029	Adak
+AD06_030	Adak
+AD06_032	Adak
+AD06_033	Adak
+AD06_035	Adak
+AD06_036	Adak
+AD06_037	Adak
+AD06_038	Adak
+AD06_039	Adak
+AD06_040	Adak
+AD06_041	Adak
+AD06_042	Adak
+AD06_043	Adak
+AD06_045	Adak
+AD06_046	Adak
+AD06_047	Adak
+AD06_048	Adak
+WC05_001	WashCoast
+WC05_002	WashCoast
+WC05_003	WashCoast
+WC05_004	WashCoast
+WC05_005	WashCoast
+WC05_006	WashCoast
+WC05_007	WashCoast
+WC05_008	WashCoast
+WC05_009	WashCoast
+WC05_010	WashCoast
+WC05_011	WashCoast
+WC05_013	WashCoast
+WC05_014	WashCoast
+WC05_016	WashCoast
+WC05_018	WashCoast
+WC05_019	WashCoast
+WC05_020	WashCoast
+WC05_021	WashCoast
+WC05_022	WashCoast
+WC05_023	WashCoast
+WC05_024	WashCoast
+WC05_025	WashCoast
+WC05_026	WashCoast
+WC05_027	WashCoast
+WC05_028	WashCoast
+WC05_029	WashCoast
+WC05_030	WashCoast
+WC05_031	WashCoast
+WC05_032	WashCoast
+WC05_033	WashCoast
+WC05_034	WashCoast
+WC05_035	WashCoast
+WC05_036	WashCoast
+WC05_037	WashCoast
+WC05_040	WashCoast
+WC05_041	WashCoast
+WC05_044	WashCoast
+WC05_045	WashCoast
+WC05_046	WashCoast
+WC05_047	WashCoast
+WC05_048	WashCoast
+HS04_001	HecateStrait
+HS04_002	HecateStrait
+HS04_003	HecateStrait
+HS04_004	HecateStrait
+HS04_005	HecateStrait
+HS04_006	HecateStrait
+HS04_007	HecateStrait
+HS04_008	HecateStrait
+HS04_009	HecateStrait
+HS04_010	HecateStrait
+HS04_011	HecateStrait
+HS04_012	HecateStrait
+HS04_013	HecateStrait
+HS04_014	HecateStrait
+HS04_016	HecateStrait
+HS04_017	HecateStrait
+HS04_018	HecateStrait
+HS04_019	HecateStrait
+HS04_020	HecateStrait
+HS04_021	HecateStrait
+HS04_022	HecateStrait
+HS04_023	HecateStrait
+HS04_024	HecateStrait
+HS04_025	HecateStrait
+HS04_026	HecateStrait
+HS04_027	HecateStrait
+HS04_028	HecateStrait
+HS04_029	HecateStrait
+HS04_030	HecateStrait
+HS04_031	HecateStrait
+HS04_032	HecateStrait
+HS04_033	HecateStrait
+HS04_034	HecateStrait
+HS04_035	HecateStrait
+HS04_036	HecateStrait
+HS04_037	HecateStrait
+HS04_038	HecateStrait
+HS04_040	HecateStrait
+HS04_041	HecateStrait
+HS04_042	HecateStrait
+HS04_043	HecateStrait
+HS04_044	HecateStrait
+HS04_045	HecateStrait
+HS04_046	HecateStrait
+HS04_047	HecateStrait
+HS04_048	HecateStrait
+PWS12_001	PWSound
+PWS12_002	PWSound
+PWS12_003	PWSound
+PWS12_004	PWSound
+PWS12_005	PWSound
+PWS12_006	PWSound
+PWS12_007	PWSound
+PWS12_008	PWSound
+PWS12_009	PWSound
+PWS12_010	PWSound
+PWS12_011	PWSound
+PWS12_012	PWSound
+PWS12_013	PWSound
+PWS12_014	PWSound
+PWS12_015	PWSound
+PWS12_016	PWSound
+PWS12_017	PWSound
+PWS12_018	PWSound
+PWS12_019	PWSound
+PWS12_020	PWSound
+PWS12_021	PWSound
+PWS12_022	PWSound
+PWS12_023	PWSound
+PWS12_025	PWSound
+PWS12_031	PWSound
+PWS12_033	PWSound
+PWS12_041	PWSound
+PWS12_054	PWSound
+PWS12_055	PWSound
+PWS12_056	PWSound
+PWS12_057	PWSound
+PWS12_063	PWSound
+PWS12_064	PWSound
+PWS12_066	PWSound
+PWS12_069	PWSound
+PWS12_075	PWSound
+PWS12_076	PWSound
+PWS12_077	PWSound
+PWS12_079	PWSound
+PWS12_094	PWSound
+PWS12_095	PWSound
+PWS12_096	PWSound
+PWS12_097	PWSound
+PWS12_131	PWSound
+PWS12_132	PWSound
+PWS12_133	PWSound
+PWS12_134	PWSound
+UP03_002	UnimakPass
+UP03_003	UnimakPass
+UP03_004	UnimakPass
+UP03_005	UnimakPass
+UP03_007	UnimakPass
+UP03_008	UnimakPass
+UP03_009	UnimakPass
+UP03_010	UnimakPass
+UP03_011	UnimakPass
+UP03_012	UnimakPass
+UP03_013	UnimakPass
+UP03_015	UnimakPass
+UP03_016	UnimakPass
+UP03_017	UnimakPass
+UP03_018	UnimakPass
+UP03_019	UnimakPass
+UP03_020	UnimakPass
+UP03_021	UnimakPass
+UP03_022	UnimakPass
+UP03_023	UnimakPass
+UP03_024	UnimakPass
+UP03_025	UnimakPass
+UP03_027	UnimakPass
+UP03_028	UnimakPass
+UP03_029	UnimakPass
+UP03_030	UnimakPass
+UP03_032	UnimakPass
+UP03_033	UnimakPass
+UP03_034	UnimakPass
+UP03_035	UnimakPass
+UP03_036	UnimakPass
+UP03_037	UnimakPass
+UP03_038	UnimakPass
+UP03_040	UnimakPass
+UP03_041	UnimakPass
+UP03_042	UnimakPass
+UP03_043	UnimakPass
+UP03_044	UnimakPass
+UP03_045	UnimakPass
+UP03_046	UnimakPass
+UP03_047	UnimakPass
+UP03_048	UnimakPass

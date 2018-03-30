@@ -1,0 +1,17 @@
+### Input file for generating the bash shell script for final filtering ###
+PostStacksFiltering_b4_wgenome.sh	# Name for your BASH script, including the `.sh` file extension. 
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/batch_4_wgenome	# Absolute path to the stacks files
+4	# batch
+no	# Is the .catalog.snps.tsv file zipped? [yes / no]
+1	# Minimum coverage required for Marine's script, preparing_file_for_correcting_genotypes.py (default = 1)
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to prep_for_extraFilters.py 
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to preparing_file_for_correcting_genotypes.py
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to gunzip_string.txt
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to genotypes_verif_v2_no_ref_takeARGS (Marine's script, edited to take command line args) 
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to genepop_conversion_corrected.py
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to add_sample_to_genepop.py
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to transpose.py 
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to convert_genepop_to_csv.py
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to genMAFfiltering.py
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PostStacksFiltering	# Absolute path to genMisingValues.py
+/mnt/hgfs/Pacific cod/DataAnalysis/PCod-Korea-repo/scripts/PopMap_L1-4.txt	# Population Map used in `populations`, including Absolute path. must have all individuals that are included in the genepop file output from `populations`.

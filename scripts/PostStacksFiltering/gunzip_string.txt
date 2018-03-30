@@ -1,0 +1,26 @@
+echo "finding all gzipped tags files"
+
+tags_file_array="$(find . -name '*.tags.tsv.gz')"
+
+echo '--'
+echo 'unzipping tags files...'
+
+for file in $tags_file_array
+do
+	echo $file
+	gzip -d $file
+	echo 'file unzipped'
+done
+
+echo '--'
+
+matches_file_array="$(find . -name '*.matches.tsv.gz')"
+
+echo 'unzipping matches files...'
+
+for file in $matches_file_array
+do
+	echo $file
+	gzip -d $file
+	echo 'file unzipped'
+done

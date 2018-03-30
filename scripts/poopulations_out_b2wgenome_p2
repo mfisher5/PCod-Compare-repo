@@ -1,0 +1,11 @@
+Fst kernel smoothing: off
+Bootstrap resampling: off
+Percent samples limit per population: 0
+Locus Population limit: 0
+Minimum stack depth: 10
+Log liklihood filtering: off; threshold: 0
+Minor allele frequency cutoff: 0
+Maximum observed heterozygosity cutoff: 1
+Applying Fst correction: none.
+Parsing population map...
+Error: Failed to open or parse population map file 'scripts/PopMap_KOR_subset_populations.txt'.

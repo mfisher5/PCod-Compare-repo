@@ -1,0 +1,3 @@
+populations -b 2 -P stacks_b2_wgenome -M scripts/PopMap_KOR_subset_populations.txt -t 36 -r 0 -p 0 -m 10 --genepop --fasta
+populations version 1.44 executed 2017-09-21 11:54:54
+

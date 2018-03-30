@@ -1,0 +1,51 @@
+## Problem to check, 2/28/2017
+
+running FilterLoci_by_MissingValues_takeARGS.py
+You have 7 populations.
+These are your populations, with the number of samples in each:
+OrderedDict([('Pohang15', 28), ('Geoje15', 33), ('Namhae15', 16), ('YellowSea16', 7), ('Boryeong07', 3), ('Geoje14', 33), ('SokMuk', 12)])
+processed 8870 loci
+Number of loci removed: 7110
+Congratulations! You have successfully filtered your final genepop file. To view your final file, go to: batch_X.filteredMAF_filteredLoci
+
+
+Looking at the output, the first Pohang sample is missing from batch_2.filteredMAF. so at some point I lost this sample. Where? 
+
+Still present in batch_2.CorrectedGenotypes_biallelic.genepop
+Gone in batdch_2.CorrectedGenotypes_biallelic_TRANSPOSED.csv AND .genepop
+Gone in batch_2.CorrectedGenotypes_biallelic_edit.genepop
+
+which means that something in my `add_sample.py` script is deleting the first sample line...
+
+
+In the script: 
+________________________
+else: 
+	print "adding 'sample' as the first column header"
+	new_first_line = "sample\t" + first_line
+	new_genepop.write(new_first_line)
+	rest_list = genepop.readlines()[1:]
+	rest_str = ''.join(rest_list)
+	new_genepop.write(rest_str)
+
+genepop.close()
+new_genepop.close()
+_____________________________
+
+May need to remove [1:] after genepop.readlines()? 
+
+Corrected Script: 
+
+________________________
+else: 
+	print "adding 'sample' as the first column header"
+	new_first_line = "sample" + first_line
+	new_genepop.write(new_first_line)
+	rest_list = genepop.readlines()
+	rest_str = ''.join(rest_list)
+	new_genepop.write(rest_str)
+
+genepop.close()
+new_genepop.close()
+_____________________________
+
