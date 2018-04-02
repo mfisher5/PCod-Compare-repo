@@ -28,25 +28,25 @@ library(dplyr)
 bscan_direct <- "D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/R" 
 
 #directory with bayescan output (both)
-workingdirect <- "D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/outliers"
+workingdirect <- "D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/outliers/Bayescan"
 
 #fst file (Bayescan script)
-fst_file <- "batch_8_all_byreg_Bayescan_p100_rerun_output_fst.txt"
+fst_file <- "batch_8_east_coastal_Bayescan_p100_output_fst.txt"
 
 #.sel file (Bayescan script)
-sel_file <- "batch_8_all_byreg_Bayescan_p100_rerun_output.sel"
+sel_file <- "batch_8_east_coastal_Bayescan_p100_output.sel"
 
 # output file (both)
-outfile <- "batch_8_all_byreg_Bayescan_p100_rerun_outliers.csv"
+outfile <- "batch_8_east_coastal_Bayescan_p100_outliers.csv"
 
 #set false discovery rate cutoff (both)
 fdr <- 0.05
 
 #fst file edited to include stacks locus IDs (alt. function)
-fst_edit <- "batch_8_all_byreg_Bayescan_p100_rerun_fst_stacksIDs.txt"
+fst_edit <- "batch_8_east_coastal_Bayescan_p100_fst_stacksIDs.txt"
 
 #plot title (alt. function)
-plt.title = "Bayescan Outliers - East v. West (Prior100)"
+plt.title = "Bayescan Outliers - East (Prior100)"
 
 
 
@@ -101,7 +101,7 @@ write.csv(outlier_sub, file=outfile, quote=FALSE,  row.names=FALSE)
 outliers <- as.factor(mydata$outlier)
 base_plot <- ggplot(mydata, aes(x=log10q, y=fst, col=outliers)) +
   geom_point(size=2) +
-  scale_x_reverse(lim=c(0.05,-10)) +
+  scale_x_reverse(lim=c(0.05,-6)) +
   geom_vline(xintercept=po) +
   labs(title=plt.title,y="Fst",x="Log10q") +
   guides(color="none")
