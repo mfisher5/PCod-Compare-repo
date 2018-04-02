@@ -465,7 +465,7 @@ plot_het_overlay = function(data1 = swa_het_output_east, data2 = swa_het_output_
     mtext(paste(ijk),outer=TRUE,line=-2,cex=2,at=0.515)
     mtext("Map Position (bp)",outer=TRUE,side=1,line=-2,cex=2,at=0.525)
     mtext(expression(paste("H"[observed])),outer=TRUE,side=2,line=-2,cex=2,at=0.525)
-    legend("topright", legend=c(legend.text.data1, legend.text.data2), col = c("red", "blue"))
+    legend("topright", legend=c(legend.text.data1, legend.text.data2), fill = c("red", "blue"))
     # write out the plot 
     if( export == TRUE ){
       dev.off()
