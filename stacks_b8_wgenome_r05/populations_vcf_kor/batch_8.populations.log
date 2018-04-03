@@ -1,0 +1,168 @@
+populations -b 8 -P stacks_b8_wgenome_r05 -M scripts/PopMap_West_bypop.txt -W scripts/batch_8_final_filtered_aligned_loci_snps.txt -t 36 -r 0.5 -p 3 -m 3 --genepop --fasta --vcf
+populations version 1.44 executed 2018-04-03 13:48:56
+
+# Distribution of population loci.
+# Distribution of valid loci matched to catalog locus.
+# Valid samples at locus	Count
+134	1
+147	1
+155	1
+156	1
+161	1
+163	1
+166	3
+167	1
+169	5
+170	4
+171	7
+172	4
+173	7
+175	3
+176	3
+177	2
+178	3
+179	3
+180	4
+181	6
+182	2
+183	2
+184	2
+185	3
+186	8
+187	6
+188	4
+189	11
+190	3
+191	7
+192	12
+193	18
+194	18
+195	15
+196	21
+197	14
+198	24
+199	24
+200	26
+201	36
+202	26
+203	45
+204	41
+205	35
+206	52
+207	60
+208	59
+209	75
+210	78
+211	109
+212	119
+213	156
+214	200
+215	289
+216	416
+217	684
+218	839
+219	686
+# Distribution of confounded loci at catalog locus.
+# Confounded samples at locus	Count
+0	4285
+1	1
+# Distribution of missing loci at catalog loci.
+# Absent samples at locus	Count
+0	4285
+1	1
+# Distribution of population loci after applying locus constraints.
+# Distribution of valid loci matched to catalog locus.
+# Valid samples at locus	Count
+116	1
+138	1
+141	1
+147	1
+151	2
+153	1
+154	3
+155	3
+156	5
+157	1
+161	1
+163	1
+166	3
+167	1
+169	2
+170	3
+171	4
+172	4
+173	4
+175	2
+176	3
+177	1
+178	4
+179	2
+180	3
+181	4
+182	2
+183	2
+184	2
+185	4
+186	7
+187	6
+188	4
+189	11
+190	3
+191	7
+192	12
+193	18
+194	18
+195	15
+196	21
+197	15
+198	23
+199	27
+200	24
+201	36
+202	27
+203	44
+204	40
+205	35
+206	52
+207	61
+208	60
+209	74
+210	77
+211	110
+212	118
+213	156
+214	200
+215	290
+216	415
+217	685
+218	839
+219	685
+# Distribution of confounded loci at catalog locus.
+# Confounded samples at locus	Count
+0	4285
+1	1
+# Distribution of missing loci at catalog loci.
+# Absent samples at locus	Count
+0	4244
+1	18
+2	2
+4	1
+11	1
+13	1
+15	11
+16	2
+17	3
+18	2
+20	1
+Population Pohang contained 12 incompatible loci -- more than two alleles present.
+Population Geoje contained 13 incompatible loci -- more than two alleles present.
+Population Namhae contained 7 incompatible loci -- more than two alleles present.
+Population Jinhae Bay contained 17 incompatible loci -- more than two alleles present.
+Population YSBlock contained 8 incompatible loci -- more than two alleles present.
+Population Boryeong contained 10 incompatible loci -- more than two alleles present.
+Population Pohang contained 0 incompatible loci -- more than two alleles present.
+Population Geoje contained 0 incompatible loci -- more than two alleles present.
+Population Namhae contained 0 incompatible loci -- more than two alleles present.
+Population Jinhae Bay contained 0 incompatible loci -- more than two alleles present.
+Population YSBlock contained 0 incompatible loci -- more than two alleles present.
+Population Boryeong contained 0 incompatible loci -- more than two alleles present.

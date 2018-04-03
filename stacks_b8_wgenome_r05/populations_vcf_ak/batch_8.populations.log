@@ -1,0 +1,251 @@
+populations -b 8 -P stacks_b8_wgenome_r05 -M scripts/PopMap_EastCoastal.txt -W scripts/batch_8_final_filtered_aligned_loci_snps.txt -t 36 -r 0.5 -p 3 -m 3 --genepop --fasta --vcf
+populations version 1.44 executed 2018-04-03 13:41:00
+
+# Distribution of population loci.
+# Distribution of valid loci matched to catalog locus.
+# Valid samples at locus	Count
+128	1
+146	2
+150	1
+153	1
+160	1
+161	1
+162	1
+164	1
+165	1
+166	1
+167	1
+168	1
+169	1
+170	1
+171	1
+172	1
+173	3
+175	1
+176	1
+177	1
+178	2
+179	5
+181	1
+182	2
+183	2
+184	3
+185	2
+186	5
+187	2
+188	3
+189	2
+190	4
+191	4
+192	4
+193	3
+194	5
+195	1
+196	3
+197	3
+198	5
+199	3
+200	3
+201	7
+202	2
+203	5
+204	3
+205	5
+206	7
+207	6
+208	6
+209	7
+210	5
+211	9
+212	4
+213	9
+214	8
+215	4
+216	18
+217	9
+218	12
+219	8
+220	10
+221	10
+222	18
+223	10
+224	16
+225	14
+226	13
+227	9
+228	16
+229	22
+230	15
+231	24
+232	21
+233	16
+234	21
+235	20
+236	25
+237	32
+238	28
+239	29
+240	35
+241	43
+242	47
+243	44
+244	45
+245	55
+246	63
+247	75
+248	81
+249	73
+250	110
+251	105
+252	128
+253	134
+254	176
+255	229
+256	245
+257	341
+258	430
+259	616
+260	618
+# Distribution of confounded loci at catalog locus.
+# Confounded samples at locus	Count
+0	4286
+# Distribution of missing loci at catalog loci.
+# Absent samples at locus	Count
+0	4286
+# Distribution of population loci after applying locus constraints.
+# Distribution of valid loci matched to catalog locus.
+# Valid samples at locus	Count
+98	1
+122	1
+125	1
+129	1
+131	1
+132	1
+133	1
+151	1
+160	1
+161	2
+164	2
+165	1
+167	2
+168	1
+169	1
+171	2
+172	1
+173	3
+175	3
+178	2
+179	4
+181	1
+182	2
+183	2
+184	4
+185	1
+186	4
+187	2
+188	3
+189	1
+190	5
+191	3
+192	4
+193	3
+194	5
+195	1
+196	3
+197	5
+198	4
+199	2
+200	4
+201	5
+202	2
+203	6
+204	4
+205	3
+206	9
+207	7
+208	7
+209	7
+210	5
+211	6
+212	6
+213	10
+214	6
+215	6
+216	16
+217	9
+218	10
+219	8
+220	13
+221	10
+222	16
+223	13
+224	19
+225	11
+226	11
+227	9
+228	14
+229	24
+230	17
+231	21
+232	24
+233	13
+234	22
+235	21
+236	24
+237	32
+238	28
+239	28
+240	35
+241	43
+242	48
+243	44
+244	46
+245	52
+246	65
+247	78
+248	80
+249	74
+250	107
+251	107
+252	126
+253	136
+254	176
+255	230
+256	241
+257	344
+258	426
+259	617
+260	617
+# Distribution of confounded loci at catalog locus.
+# Confounded samples at locus	Count
+0	4286
+# Distribution of missing loci at catalog loci.
+# Absent samples at locus	Count
+0	4157
+1	84
+2	25
+3	6
+4	1
+5	1
+13	1
+17	1
+18	2
+19	2
+21	1
+22	1
+23	1
+30	1
+39	1
+41	1
+Population Kodiak contained 21 incompatible loci -- more than two alleles present.
+Population Adak contained 23 incompatible loci -- more than two alleles present.
+Population WashCoast contained 18 incompatible loci -- more than two alleles present.
+Population HecateStrait contained 20 incompatible loci -- more than two alleles present.
+Population PWSound contained 23 incompatible loci -- more than two alleles present.
+Population UnimakPass contained 24 incompatible loci -- more than two alleles present.
+Population Kodiak contained 0 incompatible loci -- more than two alleles present.
+Population Adak contained 0 incompatible loci -- more than two alleles present.
+Population WashCoast contained 0 incompatible loci -- more than two alleles present.
+Population HecateStrait contained 0 incompatible loci -- more than two alleles present.
+Population PWSound contained 0 incompatible loci -- more than two alleles present.
+Population UnimakPass contained 0 incompatible loci -- more than two alleles present.
