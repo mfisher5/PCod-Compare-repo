@@ -369,6 +369,79 @@ just_plot_overlay = function(data1 = swa1_selection, data2 = swa2_selection, Nb_
 
 
 
+# Plot Two Analyses Stacked, Only ID Outlier Regions of Positive Selection --------------------------------------------------
+## THIS PLOTTING FUNCTION MUST BE RUN WITHIN SCRIPT `ID_DIVERGENCE_REGIONS`
+just_plot_overlay_diverge = function(data1 = swa1_selection, data2 = swa2_selection, Nb_divisions = 150, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="SWA_overlay_plot"){
+  if(ncol(data1) < 8){
+    print("There is no column 'selection'. Please run ID_Outlier_Regions script.")
+  }
+  if(which.chromosome.plot != "all"){
+    data1 = subset(data1, subset=chromosome %in% which.chromosome.plot)
+    data2 = subset(data2, subset=chromosome %in% which.chromosome.plot)
+  }
+  # set number of chromosomes to the unique values of column chromosome in data (be sure to match column header!!)
+  Nb_chromosome = unique(data1$chromosome)
+  # set count; used for subsetted the vector "marker density"
+  count = 0
+  # for each chromosome:
+  for (ijk in Nb_chromosome)
+  {
+    # subset full data frame to only include that chromosome and save as separate data frame
+    Data1.part = subset(data1, subset=chromosome %in% ijk)
+    Data2.part = subset(data2, subset=chromosome %in% ijk)
+    print(head(Data1.part))
+    print("Length of moving average data set 1:")
+    print(length(Data1.part$position))
+    print("Length of moving average data set 2:")
+    print(length(Data2.part$position))
+    # set max x axis for plot by finding the last marker position
+    max_x_lim = max(max(Data1.part$position, na.rm=TRUE), max(Data2.part$position, na.rm=TRUE))
+    max_y_lim = max(max(Data1.part$upper_95, na.rm=TRUE), max(Data2.part$upper_95, na.rm=TRUE)) + 0.1
+    # save locations of NAs in 3rd column of data frame ("Fst.Fct")
+    where.NA.data1 = which(is.na(Data1.part$`Fst/Fct`))
+    where.NA.data2 = which(is.na(Data2.part$`Fst/Fct`))
+    # save locations potentially under selection in both
+    selection1 <- c(Data1.part$position[Data1.part$positive == 1])
+    print(length(selection1))
+    selection2 <- c(Data2.part$position[Data2.part$positive == 1])
+    print(length(selection2))
+    ## plot position of marker on chromosome v. "Fst.Fct" calculated in sla ##
+    if( export == TRUE ){
+      plotname = paste(name, ijk, sep="_")
+      png(paste(plotname, "png", sep="."), width=960, height=720)
+    }
+    ## make the first plot
+    par(mfrow=c(2,1), mar=c(0,4,5,2) + 0.1)
+    plot(Data1.part$position, Data1.part$`Fst/Fct`,type="l",ylim=c(0,max_y_lim), xlim=c(0,max_x_lim), lwd=3, col="red", ylab='',xaxt = "n", xlab='',cex.lab=1, cex.axis=1)
+    # bootstrapping lines to plot
+    lines(Data1.part$position, Data1.part$lower_95, col=rgb(0.193,0.205,0.205,0.25))
+    lines(Data1.part$position, Data1.part$upper_95, col=rgb(0.193,0.205,0.205,0.25))
+    if(length(where.NA.data1)!=0) polygon(c(Data1.part$position[-where.NA.data1], rev(Data1.part$position[-where.NA.data1])), c(Data1.part$lower_95[-where.NA.data1], rev(Data1.part$upper_95[-where.NA.data1])), col=rgb(0.5,0.205,0.205,0.25))
+    if(length(where.NA.data1)==0) polygon(c(Data1.part$position, rev(Data1.part$position)), c(Data1.part$lower_95, rev(Data1.part$upper_95)), col=rgb(0.5,0.205,0.205,0.25))
+    abline(h=0)
+    abline(v=selection2, col="blue", lty = 3)
+    ## make the second plot
+    par(mar=c(5,4,0,2) + 0.1)
+    plot(Data2.part$position, Data2.part$`Fst/Fct`,type="l",ylim=c(0,max_y_lim), xlim=c(0,max_x_lim), lwd=3, col="blue", ylab='',xlab='',cex.lab=1, cex.axis=1)
+    # add title, lines to plot
+    lines(Data2.part$position, Data2.part$lower_95, col=rgb(0.193,0.205,0.205,0.25))
+    lines(Data2.part$position, Data2.part$upper_95, col=rgb(0.193,0.205,0.205,0.25))
+    if(length(where.NA.data2)!=0) polygon(c(Data2.part$position[-where.NA.data2], rev(Data2.part$position[-where.NA.data2])), c(Data2.part$lower_95[-where.NA.data2], rev(Data2.part$upper_95[-where.NA.data2])), col=rgb(0.193,0.205,0.5,0.25))
+    if(length(where.NA.data2)==0) polygon(c(Data2.part$position, rev(Data2.part$position)), c(Data2.part$lower_95, rev(Data2.part$upper_95)), col=rgb(0.193,0.205,0.5,0.25))
+    abline(h=0)
+    abline(v=selection1, col="red", lty = 3)
+    # add axes labels
+    mtext("Map Position (bp)",outer=TRUE,side=1,line=-2,cex=2,at=0.525)
+    mtext(expression(paste("F"[ST])),outer=TRUE,side=2,line=-2,cex=2,at=0.525)
+    mtext(paste(ijk),outer=TRUE,line=-4,cex=2,at=0.515)
+    if( export == TRUE ){
+      dev.off()
+    }
+  }
+}
+
+
+
 # Plot Heterozygosity Sliding Window --------------------------------------------------
 ## THIS PLOTTING FUNCTION MUST BE RUN WITHIN SCRIPT `SLIDINGWINDOW_HO_EAST/WEST_MF.R`
 

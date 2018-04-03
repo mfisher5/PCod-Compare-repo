@@ -16,69 +16,59 @@ install.packages("ggplot2")
 library(readr)
 library(ggplot2)
 library(dplyr)
-source("SlidingWindow_FindMarkers_Function.R")
-source("Plot_SlidingWindowAnalysis_Functions.R")
 
 
 
 # Load Data -------------------------------------------------------------
 setwd("D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/SlidingWindow")
+source("SlidingWindow_FindMarkers_Function.R")
+source("Plot_SlidingWindowAnalysis_Functions.R")
 
-eastwest <- read_delim("EastvWest/batch_8_SWA_eastwest_output_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150.txt", "\t", escape_double = FALSE, trim_ws = TRUE)
-head(eastwest)
+east <- read_delim("East/batch_8_final_filtered_east_globalFST_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt", "\t", escape_double = FALSE, trim_ws = TRUE)
+head(east)
 
-west <- read_delim("West/batch_8_final_filtered_west_2reg_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150.txt", "\t", escape_double = FALSE, trim_ws = TRUE)
+west <- read_delim("West/batch_8_final_filtered_west_2reg_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt", "\t", escape_double = FALSE, trim_ws = TRUE)
 head(west)
 
 
 
 # Add columns for selection -------------------------------------------------------------
-eastwest_selection <- eastwest %>%
-  mutate(positive = ifelse(`Fst/Fct` > upper_95, "1", "0")) %>%
-  mutate(negative = ifelse(`Fst/Fct` < lower_95, "1", "0")) %>%
-  mutate(selection = ifelse(positive == 1 | negative == 1, "Yes", "No"))
-head(eastwest_selection)
+east_selection <- east %>%
+  mutate(positive = ifelse(`Fst.Fct` > upper_95, "1", "0")) %>%
+  mutate(negative = ifelse(`Fst.Fct` < lower_95, "1", "0")) %>%
+  mutate(selection = ifelse(positive == 1, "Yes", "No"))
+head(east_selection)
 
 west_selection <- west %>%
-  mutate(positive = ifelse(`Fst/Fct` > upper_95, "1", "0")) %>%
-  mutate(negative = ifelse(`Fst/Fct` < lower_95, "1", "0")) %>%
-  mutate(selection = ifelse(positive == 1 | negative == 1, "Yes", "No"))
+  mutate(positive = ifelse(`Fst.Fct` > upper_95, "1", "0")) %>%
+  mutate(negative = ifelse(`Fst.Fct` < lower_95, "1", "0")) %>%
+  mutate(selection = ifelse(positive == 1, "Yes", "No"))
 head(west_selection)
-
-#write.table(west_selection, "West/West_SWA_All_Regions_SelectionID.txt", sep = "\t", 
-            row.names=FALSE, quote=FALSE)
-
-#write.table(eastwest_selection, "EastvWest/EastWest_SWA_All_Regions_SelectionID.txt", sep = "\t", 
-            row.names=FALSE, quote=FALSE)
 
 
 
 
 # Visualize Fst v. Bootstrap CI ----------------------------------------------
 ## positive selection: Fst above upper 95% confidence interval
-ggplot(data=eastwest_selection, aes(x = `Fst/Fct`, y = upper_95)) +
+ggplot(data=east_selection, aes(x = `Fst.Fct`, y = upper_95)) +
   geom_point(aes(color=positive)) +
-  ylim(-0.1,1) +
-  xlim(-0.1,1) +
-  labs(title="East v. West Sliding Window\nPositive Selection")
+  labs(title="East Sliding Window\nPositive Selection")
 
 ## negative selection: Fst below lower 95% confidence interval
-ggplot(data=eastwest_selection, aes(x = `Fst/Fct`, y = lower_95)) +
+ggplot(data=east_selection, aes(x = `Fst.Fct`, y = lower_95)) +
   geom_point(aes(color=negative)) +
-  ylim(-0.1,0.1) +
-  xlim(-0.1,1) +
-  labs(title="East v. West Sliding Window\nNegative Selection")
+  labs(title="East Sliding Window\nNegative Selection")
 
 
 ## positive selection: Fst above upper 95% confidence interval
-ggplot(data=west_selection, aes(x = `Fst/Fct`, y = upper_95)) +
+ggplot(data=west_selection, aes(x = `Fst.Fct`, y = upper_95)) +
   geom_point(aes(color=positive)) +
   ylim(-0.1,0.5) +
   xlim(-0.1,0.5) +
   labs(title="West Sliding Window\nPositive Selection")
 
 ## negative selection: Fst below lower 95% confidence interval
-ggplot(data=west_selection, aes(x = `Fst/Fct`, y = lower_95)) +
+ggplot(data=west_selection, aes(x = `Fst.Fct`, y = lower_95)) +
   geom_point(aes(color=negative)) +
   ylim(-0.1,0.1) +
   xlim(-0.1,0.5) +
@@ -92,13 +82,13 @@ ggplot(data=west_selection, aes(x = `Fst/Fct`, y = lower_95)) +
 
 
 # Visualize P values ------------------------------------------------------
-ggplot(data=eastwest_selection, aes(x = `Fst/Fct`, y = pvalue)) +
+ggplot(data=east_selection, aes(x = `Fst.Fct`, y = pvalue)) +
   geom_point(aes(color=selection)) +
   ylim(-0.1,1) +
   xlim(-0.1,1) +
-  labs(title="East v. West Sliding Window\nP values")
+  labs(title="East Sliding Window\nP values")
 
-ggplot(data=west_selection, aes(x = `Fst/Fct`, y = pvalue)) +
+ggplot(data=west_selection, aes(x = `Fst.Fct`, y = pvalue)) +
   geom_point(aes(color=selection)) +
   ylim(-0.1,1) +
   xlim(-0.1,0.5) +
@@ -111,7 +101,10 @@ ggplot(data=west_selection, aes(x = `Fst/Fct`, y = pvalue)) +
 
 # Match Data sets on Plot ---------------------------------------------------------
 ## plot all chromosomes using overlay function
-just_plot_overlay(data1 = eastwest_selection, data2 = west_selection, Nb_divisions = 150, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="plots/SWA_EastWest_West_Overlay")
+colnames(east_selection) <- c("chromosome","position","Fst/Fct","Mean_boostrap","lower_95","upper_95","pvalue","positive","negative","selection")
+colnames(west_selection) <- c("chromosome","position","Fst/Fct","Mean_boostrap","lower_95","upper_95","pvalue","positive","negative","selection")
+
+just_plot_overlay_diverge(data1 = east_selection, data2 = west_selection, Nb_divisions = 150, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="plots/SWA_East_West_Divergence_Overlay")
 
 
 
@@ -120,9 +113,9 @@ just_plot_overlay(data1 = eastwest_selection, data2 = west_selection, Nb_divisio
 
 
 # Filter Data and Write to File --------------------------------------------
-eastwest_filter <- eastwest_selection %>%
+east_filter <- east_selection %>%
   filter(selection == "Yes")
-dim(eastwest_filter)
+dim(east_filter)
 
 west_filter <- west_selection %>%
   filter(selection == "Yes")
@@ -132,11 +125,11 @@ dim(west_filter)
 
 # Find Loci Within Windows ------------------------------------------------
 ## read in SWA input file, sorted
-eastwest_marker_data = read.table("batch_8_final_filtered_aligned_SWA_input_eastwest_sorted.txt", header = TRUE, sep = "\t")
+east_marker_data = read.table("batch_8_SWA_input_east_sorted.txt", header = TRUE, sep = "\t")
 west_marker_data = read.table("batch_8_SWA_input_west_sorted.txt", header = TRUE, sep = "\t")
 
 ## function
-find_markers_in_window(marker_data = eastwest_marker_data, window_size= 250000, divisions = 150, output = "EastWest_SWA_Num_Name_Loci_Per_Window.txt")
+find_markers_in_window(marker_data = east_marker_data, window_size= 250000, divisions = 150, output = "east_SWA_Num_Name_Loci_Per_Window.txt")
 
 find_markers_in_window(marker_data = west_marker_data, window_size= 250000, divisions = 150, output = "West_SWA_Num_Name_Loci_Per_Window.txt")
 
@@ -144,17 +137,17 @@ find_markers_in_window(marker_data = west_marker_data, window_size= 250000, divi
 
 
 # Filter Loci within Windows by Selection Region --------------------------
-## east west data
-ew_find_markers_output <- read.delim("EastWest_SWA_Num_Name_Loci_Per_Window.txt", sep = "\t", header= FALSE, colClasses = c("character", "numeric", "numeric", "character"))
-colnames(ew_find_markers_output) <- c("chromosome", "position", "num_markers", "loci_names")
-View(ew_find_markers_output)
+## east data
+e_find_markers_output <- read.delim("East_Num_Name_Loci_Per_Window.txt", sep = "\t", header= FALSE, colClasses = c("character", "numeric", "numeric", "character"))
+colnames(e_find_markers_output) <- c("chromosome", "position", "num_markers", "loci_names")
+View(e_find_markers_output)
 
-ew_find_markers_filtered <- filter(ew_find_markers_output, position %in% eastwest_filter$position)
-dim(ew_find_markers_filtered)
-View(ew_find_markers_filtered)
-dim(eastwest_filter)
+e_find_markers_filtered <- filter(e_find_markers_output, position %in% east_filter$position)
+dim(e_find_markers_filtered)
+View(e_find_markers_filtered)
+dim(east_filter)
 
-write.table(ew_find_markers_filtered, "EastWest_SWA_SelectionRegions_Markers.txt", sep = "\t", 
+write.table(e_find_markers_filtered, "East_SWA_SelectionRegions_Markers.txt", sep = "\t", 
             row.names=FALSE, quote=FALSE)
 
 ## west data
