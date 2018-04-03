@@ -57,6 +57,8 @@ stacks_b8_wgenome_r05/batch_8_filteredMAF_filteredIndivids_filteredLoci30_genepo
 stacks_b8_wgenome_r05/batch_8_filteredMAF_filteredIndivids_filteredLoci30_filteredHWE_BAD.txt
 stacks_b8_wgenome_r05/*.DIV
 stacks_b8_wgenome_r05/*.INF
+stacks_b8_wgenome_r05/populations_vcf_KOR/*
+stacks_b8_wgenome_r05/populations_vcf_AK/*
 stacks_b4_wgenome/*.fa
 stacks_b4_wgenome/*.genepop
 stacks_b4_wgenome/*_genepop.txt

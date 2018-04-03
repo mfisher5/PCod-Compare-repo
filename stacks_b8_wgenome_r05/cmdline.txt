@@ -1,6 +1,0 @@
-Genepop
-GenepopInputFile=batch_8_final_filtered_aligned_genepop.txt
-MenuOptions=5:1
-RandomSeed=67144630
-Mode=Batch
-
