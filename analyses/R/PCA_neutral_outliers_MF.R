@@ -96,6 +96,9 @@ s.class(pca_outliers$li, fac=pop(my_data_outliers),
 legend (x=10,y=25, legend = c("West - Southern Coast", "West - Western Coast", "East"), col = col_leg, border = FALSE, bty = "n", cex = 0.9, pt.cex=1.5, title = "Population",pch=points_leg)
 # add eigenvalues plot as inset
 add.scatter.eig(pca_outliers$eig[1:50],posi="bottomright", 3,2,1,ratio=.3)
+# percent variation explained
+eig.perc <- 100*pca_outliers$eig/sum(pca_outliers$eig)
+head(eig.perc)
 
 
 
@@ -113,6 +116,9 @@ s.class(pca_2outliers$li, fac=pop(my_data_2outliers),
 legend (x=-16,y=14, legend = c("West-Southern Coast", "West-Western Coast", "East"), col = col_leg, border = FALSE, bty = "n", cex = 0.9, pt.cex=1.5, title = "Population",pch=points_leg)
 # add eigenvalues plot as inset
 add.scatter.eig(pca_2outliers$eig[1:50],posi="bottom", 3,2,1,ratio=.3)
+# percent variation explained
+eig.perc <- 100*pca_2outliers$eig/sum(pca_2outliers$eig)
+head(eig.perc)
 
 
 
@@ -139,7 +145,9 @@ s.class(pca_neutral$li, fac=pop(my_data_neutral),
 legend (x=-2.8,y=25, legend = c("West - Southern Coast", "West - Western Coast", "East"), col = col_leg, border = FALSE, bty = "n", cex = 0.9, pt.cex=1.5, title = "Population",pch=points_leg)
 # add eigenvalues plot as inset
 add.scatter.eig(pca_neutral$eig[1:50],posi="topright", 3,2,1,ratio=.3)
-
+# percent variation explained
+eig.perc <- 100*pca_neutral$eig/sum(pca_neutral$eig)
+head(eig.perc)
 
 
 
