@@ -1,0 +1,297 @@
+populations -b 8 -P stacks_b8_wgenome_r05 -M scripts/PopMap_EastWest_bypop.txt -W scripts/batch_8_final_filtered_aligned_loci_snps.txt -t 36 -r 0.5 -p 3 -m 3 --genepop --fasta --vcf
+populations version 1.44 executed 2018-04-03 16:56:23
+
+# Distribution of population loci.
+# Distribution of valid loci matched to catalog locus.
+# Valid samples at locus	Count
+342	1
+343	1
+344	1
+346	1
+354	1
+355	1
+357	2
+362	1
+365	1
+367	2
+370	2
+373	1
+377	3
+378	3
+379	2
+380	2
+381	2
+383	3
+384	4
+385	4
+386	5
+387	1
+388	3
+389	2
+391	1
+392	2
+393	5
+394	4
+395	1
+396	3
+397	3
+399	4
+400	4
+401	3
+402	6
+403	6
+404	8
+405	7
+406	3
+407	3
+408	2
+409	7
+410	3
+411	5
+412	6
+413	4
+414	6
+415	8
+416	14
+417	9
+418	7
+419	7
+420	7
+421	11
+422	11
+423	8
+424	8
+425	7
+426	7
+427	11
+428	15
+429	10
+430	9
+431	16
+432	12
+433	11
+434	16
+435	25
+436	8
+437	18
+438	16
+439	18
+440	23
+441	20
+442	27
+443	22
+444	20
+445	23
+446	28
+447	28
+448	19
+449	27
+450	24
+451	27
+452	36
+453	25
+454	37
+455	33
+456	44
+457	46
+458	49
+459	51
+460	59
+461	59
+462	60
+463	68
+464	85
+465	76
+466	84
+467	95
+468	110
+469	132
+470	144
+471	169
+472	187
+473	227
+474	246
+475	309
+476	299
+477	362
+478	306
+479	166
+# Distribution of confounded loci at catalog locus.
+# Confounded samples at locus	Count
+0	4285
+1	1
+# Distribution of missing loci at catalog loci.
+# Absent samples at locus	Count
+0	4285
+1	1
+# Distribution of population loci after applying locus constraints.
+# Distribution of valid loci matched to catalog locus.
+# Valid samples at locus	Count
+303	1
+314	1
+321	1
+325	1
+340	1
+342	1
+343	1
+348	1
+354	1
+357	1
+364	2
+365	1
+368	1
+370	2
+371	1
+373	1
+375	1
+377	4
+378	2
+379	4
+380	1
+381	2
+382	1
+383	2
+384	5
+385	6
+386	2
+388	4
+389	2
+390	1
+391	1
+392	4
+393	4
+394	3
+395	1
+396	3
+397	1
+399	5
+400	6
+401	4
+402	4
+403	4
+404	9
+405	6
+406	1
+407	5
+408	2
+409	8
+410	3
+411	5
+412	6
+413	6
+414	10
+415	12
+416	14
+417	8
+418	8
+419	11
+420	6
+421	10
+422	8
+423	10
+424	11
+425	4
+426	7
+427	9
+428	12
+429	9
+430	9
+431	17
+432	10
+433	11
+434	13
+435	23
+436	7
+437	17
+438	17
+439	18
+440	23
+441	22
+442	26
+443	20
+444	21
+445	21
+446	30
+447	25
+448	19
+449	29
+450	23
+451	29
+452	33
+453	26
+454	37
+455	32
+456	45
+457	45
+458	51
+459	51
+460	59
+461	59
+462	60
+463	69
+464	84
+465	80
+466	81
+467	97
+468	105
+469	135
+470	146
+471	170
+472	184
+473	227
+474	246
+475	306
+476	300
+477	361
+478	306
+479	166
+# Distribution of confounded loci at catalog locus.
+# Confounded samples at locus	Count
+0	4285
+1	1
+# Distribution of missing loci at catalog loci.
+# Absent samples at locus	Count
+0	4122
+1	92
+2	29
+3	5
+4	3
+5	2
+11	1
+13	2
+15	11
+16	2
+17	4
+18	4
+19	2
+20	1
+21	1
+22	1
+23	1
+30	1
+39	1
+41	1
+Population Pohang contained 12 incompatible loci -- more than two alleles present.
+Population Geoje contained 13 incompatible loci -- more than two alleles present.
+Population Namhae contained 7 incompatible loci -- more than two alleles present.
+Population Jinhae Bay contained 17 incompatible loci -- more than two alleles present.
+Population YSBlock contained 8 incompatible loci -- more than two alleles present.
+Population Boryeong contained 10 incompatible loci -- more than two alleles present.
+Population Kodiak contained 21 incompatible loci -- more than two alleles present.
+Population Adak contained 23 incompatible loci -- more than two alleles present.
+Population WashCoast contained 18 incompatible loci -- more than two alleles present.
+Population HecateStrait contained 20 incompatible loci -- more than two alleles present.
+Population PWSound contained 23 incompatible loci -- more than two alleles present.
+Population UnimakPass contained 24 incompatible loci -- more than two alleles present.
+Population Pohang contained 0 incompatible loci -- more than two alleles present.
+Population Geoje contained 0 incompatible loci -- more than two alleles present.
+Population Namhae contained 0 incompatible loci -- more than two alleles present.
+Population Jinhae Bay contained 0 incompatible loci -- more than two alleles present.
+Population YSBlock contained 0 incompatible loci -- more than two alleles present.
+Population Boryeong contained 0 incompatible loci -- more than two alleles present.
+Population Kodiak contained 0 incompatible loci -- more than two alleles present.
+Population Adak contained 0 incompatible loci -- more than two alleles present.
+Population WashCoast contained 0 incompatible loci -- more than two alleles present.
+Population HecateStrait contained 0 incompatible loci -- more than two alleles present.
+Population PWSound contained 0 incompatible loci -- more than two alleles present.
+Population UnimakPass contained 0 incompatible loci -- more than two alleles present.
