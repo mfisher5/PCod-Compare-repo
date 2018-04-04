@@ -165,3 +165,21 @@ write.table(w_find_markers_filtered, "West_SWA_SelectionRegions_Markers.txt", se
 
 
 
+
+# Output for Genome Island Width ------------------------------------------
+east_filter <- east_selection %>%
+  filter(selection == "Yes")
+dim(east_filter)
+
+west_filter <- west_selection %>%
+  filter(selection == "Yes")
+dim(west_filter)
+
+
+write.table(west_filter, "West_SWA_SelectionRegions_Width.txt", sep = "\t", 
+            quote=FALSE)
+write.table(east_filter, "East_SWA_SelectionRegions_Width.txt", sep = "\t", 
+            quote=FALSE)
+
+View(west_selection)
+
