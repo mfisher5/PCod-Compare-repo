@@ -103,19 +103,19 @@ plotting_reg_interval = function(Dat=mydata, Sigma_sliding_window=3, Nb_bootstra
     CI_all_chromosomes=rbind(CI_all_chromosomes,CI_all)
     Bootstrap_sd=c(Bootstrap_sd,Sd_boot)
     
-    min_lower95=min(CI_all,na.rm=TRUE)
-    max_upper95=max(CI_all,na.rm=TRUE)
-    min_MA=min(MAs_exp,na.rm=TRUE)
-    max_MA=max(MAs_exp,na.rm=TRUE)
-    min_lim=min(c(min_lower95,max_upper95,min_MA,max_MA),na.rm=TRUE)-0.02
-    max_lim=max(c(min_lower95,max_upper95,min_MA,max_MA),na.rm=TRUE)+0.02
-    where.NA = which(is.na(CI_all[,2]))
-    plot(Positions_LG, MAs_exp, type="l", ylim=c(min_lim,max_lim), lwd=3, col="red", main = paste(ijk))
-    lines(Positions_LG, CI_all[,1], col=1, lwd=2)
-    lines(Positions_LG, CI_all[,2], col=rgb(0.3,0.1,0.4, 0.5))
-    lines(Positions_LG, CI_all[,3], col=rgb(0.3,0.1,0.4, 0.5))
-    if(length(where.NA)!=0) polygon(c(Positions_LG[-where.NA], rev(Positions_LG[-where.NA])), c(CI_all[,2][-where.NA], rev(CI_all[,3][-where.NA])), col=rgb(0.3,0.1,0.4, 0.5))
-    if(length(where.NA)==0) polygon(c(Positions_LG, rev(Positions_LG)), c(CI_all[,2], rev(CI_all[,3])), col=rgb(0.3,0.1,0.4, 0.5))
+    #min_lower95=min(CI_all,na.rm=TRUE)
+    #max_upper95=max(CI_all,na.rm=TRUE)
+    #min_MA=min(MAs_exp,na.rm=TRUE)
+    #max_MA=max(MAs_exp,na.rm=TRUE)
+    #min_lim=min(c(min_lower95,max_upper95,min_MA,max_MA),na.rm=TRUE)-0.02
+    #max_lim=max(c(min_lower95,max_upper95,min_MA,max_MA),na.rm=TRUE)+0.02
+    #where.NA = which(is.na(CI_all[,2]))
+    #plot(Positions_LG, MAs_exp, type="l", ylim=c(min_lim,max_lim), lwd=3, col="red", main = paste(ijk))
+    #lines(Positions_LG, CI_all[,1], col=1, lwd=2)
+    #lines(Positions_LG, CI_all[,2], col=rgb(0.3,0.1,0.4, 0.5))
+    #lines(Positions_LG, CI_all[,3], col=rgb(0.3,0.1,0.4, 0.5))
+    #if(length(where.NA)!=0) polygon(c(Positions_LG[-where.NA], rev(Positions_LG[-where.NA])), c(CI_all[,2][-where.NA], rev(CI_all[,3][-where.NA])), col=rgb(0.3,0.1,0.4, 0.5))
+    #if(length(where.NA)==0) polygon(c(Positions_LG, rev(Positions_LG)), c(CI_all[,2], rev(CI_all[,3])), col=rgb(0.3,0.1,0.4, 0.5))
     positions_to_add=Positions_LG
     chromosome=matrix(ijk,length(positions_to_add),1)
     to_export_temp=cbind(chromosome,positions_to_add,MAs_exp,CI_all)
