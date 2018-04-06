@@ -50,7 +50,7 @@ write.table(align_data_filtered, "batch_8_SWA_input_eastwest_globalFst_filtered.
 ## sort data by chromosome number and locus position; write out to new file (NOT OPTIONAL!!)
 align_data_sorted = align_data_filtered[order(align_data_filtered$chromosome, align_data_filtered$position),]
 head(align_data_sorted)
-write.table(align_data_sorted, "  ", quote=FALSE, sep="\t", row.names=FALSE)
+write.table(align_data_sorted, "batch_8_SWA_input_eastwest_globalFst_filtered_sorted.txt", quote=FALSE, sep="\t", row.names=FALSE)
 
 ## make sure that fst is a number
 str(align_data_sorted)

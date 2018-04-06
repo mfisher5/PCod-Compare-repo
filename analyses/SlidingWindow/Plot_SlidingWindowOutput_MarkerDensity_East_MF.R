@@ -48,7 +48,7 @@ markers_per_window <- marker_data$num_markers
 # Explore Number Markers per Window ------------------------------------------
 
 ## find average number of markers per window
-mean(markers_per_window) ## 10.97 / 8.11 / 7.17
+mean(markers_per_window) ## 10.83 / 8.11 / 7.17
 
 
 ## plot number markers per window
@@ -57,7 +57,8 @@ qplot(markers_per_window, geom="histogram",
       main = "Markers per Sliding Window, East\nAcross All Linkage Groups",
       xlab = "# Markers", 
       ylab = "# Windows") +
-  annotate("text", x = 15, y = 300, label="Mean:\n7.17")
+  annotate("text", x = 15, y = 300, label="Mean:\n7.17", size=8) +
+  theme(axis.text=element_text(size=16), axis.title=element_text(size=16))
 
 
 
