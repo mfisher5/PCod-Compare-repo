@@ -20,20 +20,20 @@ library(dplyr)
 setwd("D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/SlidingWindow")
 
 ## input data is the same as for sliding window analysis (the sorted alignment table output as a file in previous script)
-swa_input = read.table("batch_8_final_filtered_aligned_SWA_input_eastwest_sorted.txt", header = TRUE, sep = "\t")
+swa_input = read.table("EastvWest/batch_8_final_filtered_aligned_SWA_input_eastwest_globalFst_sorted.txt", header = TRUE, sep = "\t")
 head(swa_input)
 
 
 
 # Run Function to find Marker Density ----------------------------------------------------------
 source("SlidingWindow_FindMarkers_Function.R")
-find_markers_in_window(marker_data = swa_input, window_size= 250000, divisions = 150, output = "EastWest_Num_Name_Loci_Per_Window.txt")
+find_markers_in_window(marker_data = swa_input, window_size= 250000, divisions = 150, output = "EastWest_GlobalFst_Num_Name_Loci_Per_Window.txt")
 
 
 
 # Load Marker Density Data from Function Output ---------------------------
 ## load and subset data file to include only number of markers per window
-all_marker_data <- read.table("EastWest_SWA_Num_Name_Loci_Per_Window.txt", header=FALSE, sep="\t")
+all_marker_data <- read.table("EastWest_GlobalFst_Num_Name_Loci_Per_Window.txt", header=FALSE, sep="\t")
 head(all_marker_data)
 marker_data <- select(all_marker_data, c("V1", "V2", "V3"))
 colnames(marker_data) <- c("chrom", "position", "num_markers")
@@ -54,7 +54,7 @@ mean(markers_per_window) ## 10.97 / 8.11
 ## plot number markers per window
 qplot(markers_per_window, geom="histogram",
       binwidth = 1,
-      main = "Markers per Sliding Window, West\nAcross All Linkage Groups",
+      main = "Markers per Sliding Window, East v. West\nAcross All Linkage Groups",
       xlab = "# Markers", 
       ylab = "# Windows") +
   annotate("text", x = 25, y = 300, label="Mean:\n8.11")
@@ -81,7 +81,7 @@ if(length(swa_output$position) != length(markers_per_window)){
 } else{print("continue to plotting function.")}
 
 ##-- plot
-just_plot_md(data = swa_output, marker_density = marker_data, Nb_bootstrap=100000, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="plots/batch_8_eastwest_SWA_filtered")
+just_plot_md(data = swa_output, marker_density = marker_data, Nb_bootstrap=100000, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="plots/EastWest/batch_8_eastwest_SWA_filtered")
 
 
 

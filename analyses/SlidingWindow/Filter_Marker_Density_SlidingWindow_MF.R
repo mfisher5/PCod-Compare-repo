@@ -73,6 +73,12 @@ swa_output = read.table("EastvWest/batch_8_SWA_eastwest_output_kernel_smoothing_
 swa_input = read.table("batch_8_final_filtered_aligned_SWA_input_eastwest_sorted.txt", header = TRUE, sep = "\t")
 
 
+
+swa_output_global = read.table("batch_8_SWA_eastwest_globalFst_output_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150.txt", header = TRUE, sep = "\t")
+swa_input_global = read.table("batch_8_final_filtered_aligned_SWA_input_eastwest_globalFst_sorted.txt", header = TRUE, sep = "\t")
+
+
+
 swa_output_west = read.table("West/batch_8_final_filtered_west_2reg_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150.txt", header = TRUE, sep = "\t")
 swa_input_west = read.table("batch_8_SWA_input_west_sorted.txt", header = TRUE, sep = "\t")
 
@@ -84,6 +90,8 @@ swa_input_east = read.table("batch_8_SWA_input_east_sorted.txt", header = TRUE, 
 
 # Run Function ------------------------------------------------------------
 filter_marker_density(swa_output = swa_output, swa_input = swa_input, window_size = 250000, divisions = 150, cutoff = 2, outfile = "EastvWest/batch_8_SWA_eastwest_output_kernel_smoothing_1e+5_bootstraps_sigma_250000_div15_FILTERED.txt")
+
+filter_marker_density(swa_output = swa_output_global, swa_input = swa_input_global, window_size = 250000, divisions = 150, cutoff = 2, outfile = "EastvWest/batch_8_SWA_eastwest_globalFst_output_kernel_smoothing_1e+5_bootstraps_sigma_250000_div15_FILTERED.txt")
 
 
 filter_marker_density(swa_output = swa_output_west, swa_input = swa_input_west, window_size = 250000, divisions = 150, cutoff = 2, outfile = "West/batch_8_final_filtered_west_2reg_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt")

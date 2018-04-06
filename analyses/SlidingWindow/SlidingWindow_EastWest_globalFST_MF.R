@@ -27,7 +27,9 @@ setwd("D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/SlidingWindow")
 infile <- read.delim("batch_8_final_filtered_alignments_summary.txt",header=TRUE)
 head(infile)
 
-fstfile <- read.delim("EastvWest/batch_8_final_filtered_aligned_genepop_eastwest_globalFst_parsed.txt",sep="\t", header=TRUE)
+fstfile <- read.delim("EastvWest/batch_8_final_filtered_aligned_genepop_eastwest_globalFst_parsed.txt",sep="\t", header=TRUE, colClasses = c("integer", "character"))
+head(fstfile)
+fstfile$Fst <- as.numeric(fstfile$Fst)
 head(fstfile)
 
 ## join data files into a single frame. left join to fst b/c some aligned loci didn't have fst values
@@ -38,14 +40,20 @@ head(align_data)
 ## rename columns for R script function calls (order doesn't matter, just names)
 colnames(align_data) <- c("Locus", "fst","chromosome", "position")
 
+
+align_data_filtered <- filter(align_data, fst != "-")
+dim(align_data_filtered)
+
 ## write out to file to save unsorted dataframe (OPTIONAL)
-write.table(align_data, "batch_8_final_filtered_aligned_SWA_input_eastwest_globalFst.txt", quote=FALSE, sep="\t")
+write.table(align_data_filtered, "batch_8_SWA_input_eastwest_globalFst_filtered.txt", quote=FALSE, sep="\t")
 
 ## sort data by chromosome number and locus position; write out to new file (NOT OPTIONAL!!)
-align_data_sorted = align_data[order(align_data$chromosome, align_data$position),]
+align_data_sorted = align_data_filtered[order(align_data_filtered$chromosome, align_data_filtered$position),]
 head(align_data_sorted)
-write.table(align_data_sorted, "batch_8_final_filtered_aligned_SWA_input_eastwest_globalFst_sorted.txt", quote=FALSE, sep="\t", row.names=FALSE)
+write.table(align_data_sorted, "  ", quote=FALSE, sep="\t", row.names=FALSE)
 
+## make sure that fst is a number
+str(align_data_sorted)
 
 
 # Create SLA Function -----------------------------------------------------
@@ -123,6 +131,7 @@ plotting_reg_interval = function(Dat=mydata, Sigma_sliding_window=3, Nb_bootstra
     to_export=rbind(to_export,to_export_temp)
     print("Done with chromosome")
     print(ijk)
+    print(tail(to_export))
   }  
   
   (P_value = pnorm(Expected_MA, CI_all_chromosomes[,1], Bootstrap_sd))
@@ -143,10 +152,10 @@ plotting_reg_interval = function(Dat=mydata, Sigma_sliding_window=3, Nb_bootstra
 
 # Run on All Linkage Groups -----------------------------------------------
 ## note that this code will output a separate graph for each linkage group
-plotting_reg_interval(Dat = align_data_sorted, Sigma_sliding_window=250000, Nb_bootstrap=100000, which.chromosome.analysis="all",which.chromosome.plot="all",division=150,name_output="EastvWest/batch_8_SWA_eastwest_gobalFst_output",path_output=".")
+plotting_reg_interval(Dat = align_data_sorted, Sigma_sliding_window=250000, Nb_bootstrap=100000, which.chromosome.analysis="all",which.chromosome.plot="all",division=150,name_output="EastvWest/batch_8_SWA_eastwest_gobalFst_filtered_output",path_output=".")
 
 
-  
+
 # Run across Linkage Groups  
 ## import new dataset with cumulative positions; "chromosome" should all = 1
 cpos_data <- read.delim("EastvWest/batch_8_final_filtered_aligned_SWA_input_eastwest_sorted_cpos.txt",header=TRUE)

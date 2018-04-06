@@ -54,7 +54,7 @@ align_data_binned <- align_data %>%
   mutate(bin = newbinlist)
 View(align_data_binned)
 
-
+length(align_data_binned$Locus)
 
 
 # Plot binned Manhattan Plot ----------------------------------------------
@@ -64,8 +64,8 @@ ggplot(align_data_binned, aes(x=bin, y=fst)) +
   xlab("Atlantic cod Linkage Group") +
   ylab(expression("F"[st])) +
   theme(plot.title=element_text(hjust=0.5, size = 20)) + 
-  theme(axis.title=element_text(size = 16)) +
-  theme(axis.text.x = element_blank()) +
+  theme(axis.title=element_text(size = 20)) +
+  theme(axis.text.x = element_blank(), axis.text.y=element_text(size=16)) +
   theme(panel.grid.major.x = element_blank(), panel.grid.minor.x = element_blank(), panel.background = element_blank()) +
   scale_y_continuous(limits=(c(-0.02,1)), expand=c(0,0)) +
   scale_x_continuous(limits=c(0,598315121), expand=c(0,0)) +

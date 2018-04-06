@@ -42,7 +42,7 @@ plot_het_overlay(data1 = swa_het_output_east, data2 = swa_het_output_west, legen
 # Plot Het under East v. West FST -----------------------------------------
 source("Plot_SlidingWindowAnalysis_FstHet_Function.R")
 
-swa_output = read.table("EastvWest/batch_8_SWA_eastwest_output_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt", header = TRUE, sep = "\t")
+swa_output = read.table("EastvWest/batch_8_SWA_eastwest_globalFst_output_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150.txt", header = TRUE, sep = "\t")
 
 plot_fst_het(data = swa_output,
              het1 = swa_het_output_east,
@@ -51,7 +51,7 @@ plot_fst_het(data = swa_output,
              Nb_bootstrap_fst=100000, Nb_divisions_fst = 150, 
              Nb_bootstrap_het=100000, Nb_divisions_het = 150,
              which.chromosome.analysis="all", which.chromosome.plot="all",
-             export = TRUE, name="plots/EastWest/EastvWest_Het")
+             export = TRUE, name="plots/EastWest/EastvWest_Het_unfiltered")
 
 
 
