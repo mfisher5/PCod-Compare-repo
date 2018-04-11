@@ -44,16 +44,28 @@ head(east_islands)
 ## count number of islands / markers per chromosome
 mydata_islands_perlg <- mydata_islands %>%
   group_by(chromosome) %>%
-  summarise(island_count = length(windows_per_island))
-head(mydata_islands_perlg)
+  summarise(island_count = length(windows_per_island)) %>%
+  rbind(c("LG03", 0)) %>%
+  rbind(c("LG05", 0)) %>%
+  rbind(c("LG12", 0)) %>%
+  rbind(c("LG22", 0))
+tail(mydata_islands_perlg)
+
 
 
 
 ## west
 west_islands_perlg <- west_islands %>%
   group_by(chromosome) %>%
-  summarise(island_count = length(windows_per_island))
-head(west_islands_perlg)
+  summarise(island_count = length(windows_per_island)) %>%
+  rbind(c("LG05", 0)) %>%
+  rbind(c("LG06", 0)) %>%
+  rbind(c("LG07", 0)) %>%
+  rbind(c("LG18", 0)) %>%
+  rbind(c("LG23", 0))
+tail(west_islands_perlg)
+
+unique(west_islands_perlg$chromosome)
 
 
 
@@ -61,8 +73,15 @@ head(west_islands_perlg)
 ## east
 east_islands_perlg <- east_islands %>%
   group_by(chromosome) %>%
-  summarise(island_count = length(windows_per_island))
-head(east_islands_perlg)
+  summarise(island_count = length(windows_per_island)) %>%
+  rbind(c("LG01", 0)) %>%
+  rbind(c("LG08", 0)) %>%
+  rbind(c("LG11", 0)) %>%
+  rbind(c("LG18", 0)) %>%
+  rbind(c("LG20", 0))
+tail(east_islands_perlg)
+
+unique(east_islands_perlg$chromosome)
 
 
 

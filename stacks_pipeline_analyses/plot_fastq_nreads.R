@@ -42,27 +42,38 @@ ggplot(mydata,aes(x=n_reads, fill = group)) +
 
 ######## produce the same plot, separated by population
 
-mydata_kor <- filter(mydata, group == "Korea")
-mydata_kor <- mutate(mydata_kor, th_reads = n_reads/100000)
-head(mydata_kor)
+coast <- c(rep("South", 90), rep("West", 30), rep("South", 108), rep("West", 23), rep("South", 35))
+coast <- c("South", "South","South","West", "South", "South", "West", "South")
+
+mydata_kor <- mydata %>%
+  filter(group == "Korea") %>%
+  filter(population != "Jukbyeon07") %>%
+  mutate(Coast = ifelse(population == "YellowSea16" | population == "Boryeong07", "West", "South")) %>%
+  mutate(th_reads = n_reads/100000)
+mydata_ak <- filter(mydata, group == "Alaska")
+View(mydata_kor)
+
+
+
 mydata_ak <- mydata %>%
   filter(group == "Alaska") %>%
   mutate(th_reads = n_reads/100000)
 head(mydata_ak)
 
 
-
-ggplot(mydata_kor,aes(x=th_reads, fill = group)) + 
-  geom_histogram(data = mydata_kor, bins= 20, fill = "skyblue") +
+ggplot(mydata_kor,aes(x=th_reads, fill = Coast)) + 
+  geom_histogram(data = mydata_kor, bins= 20) +
   facet_wrap(~population) +
-  xlab("Number of Raw Reads (x 100,000)") + 
+  xlab("Number of Raw Reads x 100,000") + 
   ylab("Number of Individuals") +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  scale_fill_manual(values=c("deepskyblue4", "forestgreen")) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) + 
   theme(axis.text=element_text(size=12), axis.title = element_text(size=12)) +
   xlim(0,200)
 
-ggplot(mydata_ak,aes(x=th_reads, fill = group)) + 
-  geom_histogram(data = mydata_ak, bins= 20) +
+
+ggplot(mydata_ak,aes(x=th_reads)) + 
+  geom_histogram(data = mydata_ak, bins= 20, fill = "mediumorchid2") +
   facet_wrap(~population) +
   xlab("Number of Raw Reads (x 100,000)") + 
   ylab("Number of Individuals") +

@@ -219,7 +219,7 @@ plot_all = function(data = swa_output, marker_density = output, Nb_bootstrap=100
 
 # Plot with Outlier Loci --------------------------------------------------
 
-plot_outliers = function(data = swa_output, outlier_data = outliers, Nb_bootstrap=100000, Nb_divisions = 150, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="SWA_output_outliers_plot")
+plot_outliers = function(data = swa_output, outlier_data = outliers, Nb_bootstrap=100000, Nb_divisions = 150, color="red", which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="SWA_output_outliers_plot")
 {
   # subset the data if not looking at all chromosomes; otherwise, load in all data
   if(which.chromosome.analysis!="all") data = subset(data, subset=chromosome %in% which.chromosome.analysis)
@@ -262,7 +262,7 @@ plot_outliers = function(data = swa_output, outlier_data = outliers, Nb_bootstra
     }
     ## use min/max_lim above to define the y axis
     par(mar=c(5,4,4,2) + 0.1)
-    plot(Data.part[,2], Data.part[,3],type="l",ylim=c(min_lim,max_lim), xlim=c(0,max_x_lim), lwd=3, col="red", ylab='',xlab='',cex.lab=1, cex.axis=1)
+    plot(Data.part[,2], Data.part[,3],type="l",ylim=c(min_lim,max_lim), xlim=c(0,max_x_lim), lwd=3, col=color, ylab='',xlab='',cex.lab=1, cex.axis=1)
     # add title, lines to plot
     lines(Data.part[,2], Data.part[,5], col=rgb(0.193,0.205,0.205,0.25))
     lines(Data.part[,2], Data.part[,6], col=rgb(0.193,0.205,0.205,0.25))
@@ -275,7 +275,7 @@ plot_outliers = function(data = swa_output, outlier_data = outliers, Nb_bootstra
     # plot over the existing sliding window analysis if there are outliers
     if(length(outliers.part$position) > 1){
       par(new=TRUE)
-      plot(outliers.part$position, outliers.part$fst, col="black", pch = 19, ylim=c(min_lim,max_lim), 
+      plot(outliers.part$position, outliers.part$fst, col="black", pch = 15, ylim=c(min_lim,max_lim), 
            xlim=c(0,max_x_lim),xaxt = "n", yaxt = "n", xlab = "", ylab= "")
     }
     if( export == TRUE ){

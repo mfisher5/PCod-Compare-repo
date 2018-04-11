@@ -91,6 +91,38 @@ plot_outliers(data = swa_output_east, outlier_data = outdata_east, Nb_bootstrap=
 
 
 # Outliers per Linkage Group ----------------------------------------------
+## isolate locus names and chromosome, add group name
+outliers_perlg <- outdata %>%
+  select(c(Locus, chromosome)) %>%
+  group_by(chromosome) %>%
+  summarise(num_outliers = length(Locus)) %>%
+  mutate(group="All Data")
+outliers_perlg_west <- outdata_west %>%
+  select(c(Locus, chromosome)) %>%
+  group_by(chromosome) %>%
+  summarise(num_outliers = length(Locus)) %>%
+  mutate(group="West")
+outliers_per_lg_east <- outdata_east %>%
+  select(c(Locus, chromosome)) %>%
+  group_by(chromosome) %>%
+  summarise(num_outliers = length(Locus)) %>%
+  mutate(group="East")
+
+head(outliers_perlg)
+
+## combine each data frame
+all_outliers_perlg <- rbind(outliers_perlg, outliers_perlg_west, outliers_per_lg_east)
+head(all_outliers_perlg)
+tail(all_outliers_perlg)
+
+
+## ggplot
+ggplot(all_outliers_perlg, aes(x=chromosome, y=num_outliers, fill=group)) +
+  geom_col() +
+  ylab("Number of Outlier Loci") +
+  xlab("Linkage Group") +
+  theme(axis.text.x = element_blank(), axis.text.y = element_text(size=16), axis.title.y=element_text(size=16), axis.title.x = element_text(size=16), legend.text=element_text(size=16), legend.title = element_text(size=16)) +
+  scale_fill_manual(values=c("grey48", "deepskyblue4", "mediumorchid2"), labels=c("All Data", "West", "East"), name="Analysis")
 
 
 
