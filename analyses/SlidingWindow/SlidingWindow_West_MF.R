@@ -5,6 +5,8 @@
 #
 # MF edited for Pacific cod 3/14/2018
 #
+# Used with global Fst in west population 4/17/2018
+#
 ###############################################
 
 
@@ -25,10 +27,12 @@ library(dplyr)
 setwd("D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/SlidingWindow")
 
 ## read in files with loci positions and fst
-infile <- read.delim("batch_8_final_filtered_alignments_summary.txt",header=TRUE)
+infile <- read.delim("batch_8_final_filtered_alignments_summary.txt",header=TRUE,
+                     colClasses = c("character", "character", "numeric"))
 head(infile)
 
-fstfile <- read.delim("batch_8_final_filtered_aligned_genepop_west_parsed.txt",sep="\t", header=TRUE)
+fstfile <- read.delim("West/batch_8_final_filtered_aligned_genepop_west_parsed_globalFst.txt",sep="\t", header=TRUE,
+                      colClasses = c("character", "numeric"))
 head(fstfile)
 head(fstfile)
 
@@ -41,12 +45,12 @@ head(align_data)
 colnames(align_data) <- c("Locus", "fst","chromosome", "position")
 
 ## write out to file to save unsorted dataframe (OPTIONAL)
-write.table(align_data, "batch_8_SWA_input_west.txt", quote=FALSE, sep="\t")
+write.table(align_data, "batch_8_SWA_input_west_globalFst.txt", quote=FALSE, sep="\t")
 
 ## sort data by chromosome number and locus position; write out to new file (NOT OPTIONAL!!)
 align_data_sorted = align_data[order(align_data$chromosome, align_data$position),]
 head(align_data_sorted)
-write.table(align_data_sorted, "batch_8_SWA_input_west_sorted.txt", quote=FALSE, sep="\t", row.names=FALSE)
+write.table(align_data_sorted, "batch_8_SWA_input_west_sorted_globalFst.txt", quote=FALSE, sep="\t", row.names=FALSE)
 
 
 # Create SLA Function (no plotting) -----------------------------------------------------
@@ -122,6 +126,8 @@ plotting_reg_interval = function(Dat=mydata, Sigma_sliding_window=3, Nb_bootstra
     to_export_temp=cbind(chromosome,positions_to_add,MAs_exp,CI_all)
     to_export_temp=as.data.frame(to_export_temp)
     to_export=rbind(to_export,to_export_temp)
+    print("completed calculations for chromosome:")
+    print(ijk)
   }  
   
   
@@ -137,7 +143,7 @@ plotting_reg_interval = function(Dat=mydata, Sigma_sliding_window=3, Nb_bootstra
 
 # Run on All Linkage Groups -----------------------------------------------
 ## note that this code will output a separate graph for each linkage group
-plotting_reg_interval(Dat = align_data_sorted, Sigma_sliding_window=250000, Nb_bootstrap=100000, which.chromosome.analysis="all",which.chromosome.plot="all",division=150,name_output="batch_8_final_filtered_west_2reg",path_output=".")
+plotting_reg_interval(Dat = align_data_sorted, Sigma_sliding_window=250000, Nb_bootstrap=100000, which.chromosome.analysis="all",which.chromosome.plot="all",division=150,name_output="batch_8_final_filtered_west_globalFst",path_output=".")
 
 
 
