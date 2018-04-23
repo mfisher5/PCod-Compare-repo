@@ -155,7 +155,7 @@ head(eig.perc)
 install.packages("factoextra")
 library(factoextra)
 
-pca_neutral_coords <- get_pca_ind(pca_neutral)
+pca_neutral_coords <- get_pca_ind(pca_neutral3)
 pca_neutral_coords$coord
 
 my_data_neutral2 <- read.genepop("batch_8_final_filtered_aligned_genepop_east_coastal_neutral_noUP45.gen")
@@ -178,3 +178,51 @@ add.scatter.eig(pca_neutral2$eig[1:50],posi="bottomleft", 3,2,1,ratio=.3)
 # percent variation explained
 eig.perc <- 100*pca_neutral2$eig/sum(pca_neutral2$eig)
 head(eig.perc)
+
+
+
+
+my_data_neutral3 <- read.genepop("batch_8_final_filtered_aligned_genepop_east_coastal_neutral_no3UP.gen")
+X.n3 <- scaleGen(my_data_neutral3, NA.method="mean")
+pca_neutral3 <- dudi.pca(X.n3,cent=FALSE,scale=FALSE,scannf=FALSE,nf=2) #nf = number to retain
+
+#to graph with lines between samples
+s.class(pca_neutral3$li, fac=pop(my_data_neutral3), 
+        col=col, #color of points. will retain lines between points
+        clabel=0, #remove population labels
+        cellipse=0, #remove ellipses; to add back in, make >=1
+        cpoint=1,
+        grid=FALSE, #otherwise will have light gray grid markers
+        pch=19, #change point shapes
+        axesell=TRUE)
+# add legend
+legend(x=-70,y=75, legend = names_leg, col = col_leg, border = FALSE, bty = "n", cex = 0.9, pt.cex=1.5, title = "Sampling Site",pch=19)
+# add eigenvalues plot as inset
+add.scatter.eig(pca_neutral2$eig[1:50],posi="bottomleft", 3,2,1,ratio=.3)
+# percent variation explained
+eig.perc <- 100*pca_neutral3$eig/sum(pca_neutral3$eig)
+head(eig.perc)
+
+
+my_data_neutral4 <- read.genepop("batch_8_final_filtered_aligned_genepop_east_coastal_neutral_no5UP.gen")
+X.n4 <- scaleGen(my_data_neutral4, NA.method="mean")
+pca_neutral4 <- dudi.pca(X.n4,cent=FALSE,scale=FALSE,scannf=FALSE,nf=2) #nf = number to retain
+
+#to graph with lines between samples
+s.class(pca_neutral4$li, fac=pop(my_data_neutral4), 
+        col=col, #color of points. will retain lines between points
+        clabel=0, #remove population labels
+        cellipse=0, #remove ellipses; to add back in, make >=1
+        cpoint=1,
+        grid=FALSE, #otherwise will have light gray grid markers
+        pch=19, #change point shapes
+        axesell=TRUE)
+# add legend
+legend(x=16, y=23.5, legend = names_leg, col = col_leg, border = FALSE, bty = "n", cex = 0.9, pt.cex=1.5, title = "Sampling Site",pch=19)
+# add eigenvalues plot as inset
+add.scatter.eig(pca_neutral2$eig[1:50],posi="bottomleft", 3,2,1,ratio=.3)
+# percent variation explained
+eig.perc <- 100*pca_neutral4$eig/sum(pca_neutral4$eig)
+head(eig.perc)
+## 1.0081
+## 0.6966
