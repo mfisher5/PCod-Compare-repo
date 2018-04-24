@@ -1,0 +1,10 @@
+Population	Fis	Ho
+Pohang	0.0727	0.1509
+Geoje2015	0.1011	0.1492
+Namhae	0.0823	0.1579
+YSBlock	0.1842	0.1427
+Jukbyeon	0.1652	0.158
+JinhaeBay_Dec	0.1053	0.1395
+JinhaeBay_Feb	0.057	0.1545
+Boryeong	0.0226	0.1692
+Geoje2014	0.1697	0.1355

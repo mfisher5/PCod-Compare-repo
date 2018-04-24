@@ -35,6 +35,9 @@ analyses/ManhattanPlots/Charlie/*
 analyses/SlidingWindow/SlidingWindowWorkspace.RData
 stacks_pipeline_analyses/analyses_AK_LowGenotypeRate/*.sam
 stacks_pipeline_analyses/analyses_AK_LowGenotypeRate/batch4/*.sam
+stacks_pipeline_analyses/analyses_AK_LowGenotypeRate/batch4/LowStackDepthSim/*.sam
+stacks_pipeline_analyses/analyses_AK_LowGenotypeRate/batch4/LowStackDepthSim_revised/batch_2_matched_genepop.txt.DIV
+stacks_pipeline_analyses/analyses_AK_LowGenotypeRate/batch4/LowStackDepthSim_revised/batch_1_matched_genepop.txt.DIV
 ACod_reference_old.7z
 stacks_b8_wgenome_r05/*.tsv
 stacks_b8_wgenome_r05/*.sam

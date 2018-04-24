@@ -1,0 +1,2 @@
+sample	genotyped.b1	genotyped.b2	same.genos.wmissing	same.genos	diff.genos	diff.het_hom	diff.hom_het	diff.het_het	diff.hom_hom	diff.miss_het	diff.miss_hom	diff.het_miss	diff.hom_miss
+PO010715_07_rep	
