@@ -1,0 +1,4637 @@
+BLASTN 2.2.31+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: ../stacks_b8_wgenome_r05/final_populations_randomSNP/batch_8.fa
+           15,733,767 sequences; 1,447,506,564 total letters
+
+
+
+Query= ENSGMOE00000163646
+
+Length=75
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 52708119450
+
+
+Query= ENSGMOE00000163650
+
+Length=27
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4342519692
+
+
+Query= ENSGMOE00000163653
+
+Length=327
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 301081365312
+
+
+Query= ENSGMOE00000163657
+
+Length=119
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 96573861846
+
+
+Query= ENSGMOE00000163679-2
+
+Length=104
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CLocus_852_Sample_803_Locus_755_Allele_0  [PWS12_133; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_802_Locus_758_Allele_0  [PWS12_132; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_801_Locus_768_Allele_0  [PWS12_131; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_800_Locus_763_Allele_0  [PWS12_097; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_798_Locus_763_Allele_0  [PWS12_095; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_793_Locus_760_Allele_0  [PWS12_076; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_792_Locus_793_Allele_0  [PWS12_075; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_789_Locus_759_Allele_0  [PWS12_064; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_788_Locus_770_Allele_0  [PWS12_063; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_787_Locus_770_Allele_0  [PWS12_057; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_786_Locus_729_Allele_0  [PWS12_056; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_785_Locus_752_Allele_0  [PWS12_055; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_784_Locus_786_Allele_0  [PWS12_054; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_783_Locus_770_Allele_0  [PWS12_041; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_782_Locus_777_Allele_0  [PWS12_033; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_780_Locus_775_Allele_0  [PWS12_025; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_779_Locus_762_Allele_0  [PWS12_023; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_778_Locus_772_Allele_0  [PWS12_022; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_777_Locus_768_Allele_0  [PWS12_021; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_776_Locus_774_Allele_0  [PWS12_020; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_770_Locus_789_Allele_0  [PWS12_014; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_769_Locus_772_Allele_0  [PWS12_013; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_768_Locus_758_Allele_0  [PWS12_012; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_766_Locus_789_Allele_0  [PWS12_010; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_764_Locus_780_Allele_0  [PWS12_008; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_762_Locus_784_Allele_0  [PWS12_006; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_761_Locus_787_Allele_0  [PWS12_005; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_760_Locus_772_Allele_0  [PWS12_004; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_758_Locus_799_Allele_0  [PWS12_002; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_757_Locus_789_Allele_0  [PWS12_001; 11270, 1, +]    161     2e-38
+CLocus_852_Sample_739_Locus_767_Allele_0  [PS12_048; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_738_Locus_779_Allele_0  [PS12_047; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_737_Locus_773_Allele_0  [PS12_046; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_736_Locus_760_Allele_0  [PS12_045; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_735_Locus_758_Allele_0  [PS12_044; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_734_Locus_708_Allele_0  [PS12_043; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_733_Locus_729_Allele_0  [PS12_042; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_732_Locus_782_Allele_0  [PS12_041; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_731_Locus_790_Allele_0  [PS12_040; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_730_Locus_720_Allele_0  [PS12_039; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_729_Locus_749_Allele_0  [PS12_038; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_728_Locus_772_Allele_0  [PS12_037; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_727_Locus_771_Allele_0  [PS12_036; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_726_Locus_769_Allele_0  [PS12_035; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_725_Locus_764_Allele_0  [PS12_034; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_724_Locus_768_Allele_0  [PS12_033; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_723_Locus_787_Allele_0  [PS12_032; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_722_Locus_768_Allele_0  [PS12_031; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_721_Locus_763_Allele_0  [PS12_030; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_720_Locus_780_Allele_0  [PS12_029; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_719_Locus_767_Allele_0  [PS12_028; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_718_Locus_779_Allele_0  [PS12_027; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_717_Locus_770_Allele_0  [PS12_026; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_716_Locus_771_Allele_0  [PS12_025; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_715_Locus_773_Allele_0  [PS12_024; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_714_Locus_724_Allele_0  [PS12_023; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_713_Locus_775_Allele_0  [PS12_022; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_712_Locus_761_Allele_0  [PS12_021; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_711_Locus_779_Allele_0  [PS12_020; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_710_Locus_747_Allele_0  [PS12_019; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_709_Locus_791_Allele_0  [PS12_018; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_708_Locus_795_Allele_0  [PS12_017; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_707_Locus_785_Allele_0  [PS12_016; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_706_Locus_790_Allele_0  [PS12_015; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_705_Locus_787_Allele_0  [PS12_014; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_704_Locus_759_Allele_0  [PS12_013; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_703_Locus_779_Allele_0  [PS12_012; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_702_Locus_758_Allele_0  [PS12_011; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_701_Locus_743_Allele_0  [PS12_010; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_700_Locus_770_Allele_0  [PS12_009; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_699_Locus_788_Allele_0  [PS12_008; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_697_Locus_788_Allele_0  [PS12_006; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_696_Locus_780_Allele_0  [PS12_005; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_695_Locus_709_Allele_0  [PS12_004; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_694_Locus_770_Allele_0  [PS12_003; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_693_Locus_759_Allele_0  [PS12_002; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_692_Locus_771_Allele_0  [PS12_001; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_756_Locus_774_Allele_0  [GS13_017; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_755_Locus_775_Allele_0  [GS13_016; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_754_Locus_750_Allele_0  [GS13_015; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_753_Locus_764_Allele_0  [GS13_014; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_752_Locus_763_Allele_0  [GS13_013; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_751_Locus_782_Allele_0  [GS13_012; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_750_Locus_765_Allele_0  [GS13_011; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_749_Locus_739_Allele_0  [GS13_010; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_748_Locus_728_Allele_0  [GS13_009; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_747_Locus_771_Allele_0  [GS13_008; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_746_Locus_754_Allele_0  [GS13_007; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_745_Locus_770_Allele_0  [GS13_006; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_744_Locus_764_Allele_0  [GS13_005; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_742_Locus_760_Allele_0  [GS13_003; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_741_Locus_740_Allele_0  [GS13_002; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_740_Locus_782_Allele_0  [GS13_001; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_691_Locus_766_Allele_0  [HS04_048; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_690_Locus_777_Allele_0  [HS04_047; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_689_Locus_763_Allele_0  [HS04_046; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_688_Locus_760_Allele_0  [HS04_045; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_687_Locus_771_Allele_0  [HS04_044; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_686_Locus_741_Allele_0  [HS04_043; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_685_Locus_751_Allele_0  [HS04_042; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_684_Locus_772_Allele_0  [HS04_041; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_683_Locus_792_Allele_0  [HS04_040; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_682_Locus_714_Allele_0  [HS04_039; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_681_Locus_733_Allele_0  [HS04_038; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_680_Locus_769_Allele_0  [HS04_037; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_679_Locus_764_Allele_0  [HS04_036; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_678_Locus_775_Allele_0  [HS04_035; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_677_Locus_760_Allele_0  [HS04_034; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_676_Locus_778_Allele_0  [HS04_033; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_675_Locus_786_Allele_0  [HS04_032; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_674_Locus_776_Allele_0  [HS04_031; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_673_Locus_755_Allele_0  [HS04_030; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_672_Locus_778_Allele_0  [HS04_029; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_671_Locus_765_Allele_0  [HS04_028; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_670_Locus_782_Allele_0  [HS04_027; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_668_Locus_772_Allele_0  [HS04_025; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_667_Locus_768_Allele_0  [HS04_024; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_666_Locus_767_Allele_0  [HS04_023; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_665_Locus_784_Allele_0  [HS04_022; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_664_Locus_761_Allele_0  [HS04_021; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_663_Locus_779_Allele_0  [HS04_020; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_662_Locus_759_Allele_0  [HS04_019; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_661_Locus_791_Allele_0  [HS04_018; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_660_Locus_790_Allele_0  [HS04_017; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_659_Locus_788_Allele_0  [HS04_016; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_658_Locus_792_Allele_0  [HS04_015; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_657_Locus_788_Allele_0  [HS04_014; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_656_Locus_760_Allele_0  [HS04_013; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_655_Locus_783_Allele_0  [HS04_012; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_653_Locus_722_Allele_0  [HS04_010; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_652_Locus_767_Allele_0  [HS04_009; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_651_Locus_792_Allele_0  [HS04_008; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_650_Locus_771_Allele_0  [HS04_007; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_649_Locus_789_Allele_0  [HS04_006; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_648_Locus_779_Allele_0  [HS04_005; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_647_Locus_762_Allele_0  [HS04_004; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_645_Locus_772_Allele_0  [HS04_002; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_644_Locus_779_Allele_0  [HS04_001; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_643_Locus_769_Allele_0  [WC05_048; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_642_Locus_765_Allele_0  [WC05_047; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_640_Locus_739_Allele_0  [WC05_045; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_639_Locus_755_Allele_0  [WC05_044; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_638_Locus_679_Allele_0  [WC05_043; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_637_Locus_674_Allele_0  [WC05_042; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_636_Locus_769_Allele_0  [WC05_041; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_635_Locus_789_Allele_0  [WC05_040; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_634_Locus_701_Allele_0  [WC05_039; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_633_Locus_609_Allele_0  [WC05_038; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_632_Locus_765_Allele_0  [WC05_037; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_631_Locus_763_Allele_0  [WC05_036; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_630_Locus_777_Allele_0  [WC05_035; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_629_Locus_747_Allele_0  [WC05_034; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_628_Locus_769_Allele_0  [WC05_033; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_627_Locus_784_Allele_0  [WC05_032; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_626_Locus_767_Allele_0  [WC05_031; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_625_Locus_744_Allele_0  [WC05_030; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_624_Locus_782_Allele_0  [WC05_029; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_623_Locus_699_Allele_0  [WC05_028; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_622_Locus_745_Allele_0  [WC05_027; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_621_Locus_746_Allele_0  [WC05_026; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_620_Locus_780_Allele_0  [WC05_025; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_619_Locus_748_Allele_0  [WC05_024; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_618_Locus_771_Allele_0  [WC05_023; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_617_Locus_774_Allele_0  [WC05_022; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_616_Locus_755_Allele_0  [WC05_021; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_615_Locus_702_Allele_0  [WC05_020; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_613_Locus_788_Allele_0  [WC05_018; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_612_Locus_790_Allele_0  [WC05_017; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_611_Locus_779_Allele_0  [WC05_016; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_610_Locus_791_Allele_0  [WC05_015; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_609_Locus_779_Allele_0  [WC05_014; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_607_Locus_781_Allele_0  [WC05_012; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_606_Locus_748_Allele_0  [WC05_011; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_605_Locus_756_Allele_0  [WC05_010; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_604_Locus_766_Allele_0  [WC05_009; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_603_Locus_794_Allele_0  [WC05_008; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_602_Locus_747_Allele_0  [WC05_007; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_601_Locus_781_Allele_0  [WC05_006; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_600_Locus_776_Allele_0  [WC05_005; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_599_Locus_745_Allele_0  [WC05_004; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_598_Locus_774_Allele_0  [WC05_003; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_597_Locus_770_Allele_0  [WC05_002; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_596_Locus_781_Allele_0  [WC05_001; 11270, 1, +]     161     2e-38
+CLocus_852_Sample_322_Locus_834_Allele_0  [GEO020414_9_92bp; 1127...  161     2e-38
+CLocus_852_Sample_323_Locus_832_Allele_0  [GEO020414_9_300_92bp; ...  161     2e-38
+CLocus_852_Sample_320_Locus_836_Allele_0  [GEO020414_8_92bp; 1127...  161     2e-38
+CLocus_852_Sample_321_Locus_836_Allele_0  [GEO020414_8_300_92bp; ...  161     2e-38
+CLocus_852_Sample_319_Locus_839_Allele_0  [GEO020414_7_92bp; 1127...  161     2e-38
+CLocus_852_Sample_318_Locus_824_Allele_0  [GEO020414_6_92bp; 1127...  161     2e-38
+CLocus_852_Sample_317_Locus_830_Allele_0  [GEO020414_5_92bp; 1127...  161     2e-38
+CLocus_852_Sample_316_Locus_828_Allele_0  [GEO020414_4_92bp; 1127...  161     2e-38
+CLocus_852_Sample_314_Locus_827_Allele_0  [GEO020414_3_92bp; 1127...  161     2e-38
+CLocus_852_Sample_315_Locus_786_Allele_0  [GEO020414_30_92bp; 112...  161     2e-38
+CLocus_852_Sample_325_Locus_835_Allele_0  [GEO020414_30_2_92bp; 1...  161     2e-38
+CLocus_852_Sample_304_Locus_830_Allele_0  [GEO020414_2_92bp; 1127...  161     2e-38
+CLocus_852_Sample_313_Locus_816_Allele_0  [GEO020414_29_92bp; 112...  161     2e-38
+CLocus_852_Sample_312_Locus_830_Allele_0  [GEO020414_27_92bp; 112...  161     2e-38
+CLocus_852_Sample_311_Locus_822_Allele_0  [GEO020414_26_92bp; 112...  161     2e-38
+CLocus_852_Sample_309_Locus_837_Allele_0  [GEO020414_25_92bp; 112...  161     2e-38
+CLocus_852_Sample_310_Locus_831_Allele_0  [GEO020414_25_300_92bp;...  161     2e-38
+CLocus_852_Sample_307_Locus_832_Allele_0  [GEO020414_24_92bp; 112...  161     2e-38
+CLocus_852_Sample_308_Locus_830_Allele_0  [GEO020414_24_300_92bp;...  161     2e-38
+CLocus_852_Sample_305_Locus_837_Allele_0  [GEO020414_23_92bp; 112...  161     2e-38
+CLocus_852_Sample_306_Locus_836_Allele_0  [GEO020414_23_300_92bp;...  161     2e-38
+CLocus_852_Sample_302_Locus_841_Allele_0  [GEO020414_17_92bp; 112...  161     2e-38
+CLocus_852_Sample_303_Locus_835_Allele_0  [GEO020414_17_300_92bp;...  161     2e-38
+CLocus_852_Sample_300_Locus_838_Allele_0  [GEO020414_16_92bp; 112...  161     2e-38
+CLocus_852_Sample_301_Locus_839_Allele_0  [GEO020414_16_300_92bp;...  161     2e-38
+CLocus_852_Sample_298_Locus_832_Allele_0  [GEO020414_15_92bp; 112...  161     2e-38
+CLocus_852_Sample_299_Locus_823_Allele_0  [GEO020414_15_300_92bp;...  161     2e-38
+CLocus_852_Sample_296_Locus_829_Allele_0  [GEO020414_14_92bp; 112...  161     2e-38
+CLocus_852_Sample_297_Locus_830_Allele_0  [GEO020414_14_300_92bp;...  161     2e-38
+CLocus_852_Sample_295_Locus_827_Allele_0  [GEO020414_13_300_92bp;...  161     2e-38
+CLocus_852_Sample_326_Locus_827_Allele_0  [GEO020414_13_2_92bp; 1...  161     2e-38
+CLocus_852_Sample_292_Locus_840_Allele_0  [GEO020414_11_92bp; 112...  161     2e-38
+CLocus_852_Sample_293_Locus_838_Allele_0  [GEO020414_11_300_92bp;...  161     2e-38
+CLocus_852_Sample_291_Locus_813_Allele_0  [GEO020414_10_92bp; 112...  161     2e-38
+CLocus_852_Sample_324_Locus_838_Allele_0  [GEO020414_10_2_92bp; 1...  161     2e-38
+CLocus_852_Sample_288_Locus_834_Allele_0  [BOR07_22_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_290_Locus_837_Allele_0  [BOR07_21_2_92bp; 11270...  161     2e-38
+CLocus_852_Sample_287_Locus_769_Allele_0  [BOR07_21.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_286_Locus_831_Allele_0  [BOR07_20.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_285_Locus_837_Allele_0  [BOR07_19.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_284_Locus_828_Allele_0  [BOR07_18_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_283_Locus_840_Allele_0  [BOR07_17.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_282_Locus_836_Allele_0  [BOR07_16_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_281_Locus_844_Allele_0  [BOR07_15_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_280_Locus_835_Allele_0  [BOR07_14_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_279_Locus_839_Allele_0  [BOR07_13.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_278_Locus_831_Allele_0  [BOR07_12.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_277_Locus_833_Allele_0  [BOR07_11.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_276_Locus_847_Allele_0  [BOR07_10.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_275_Locus_828_Allele_0  [BOR07_09_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_274_Locus_829_Allele_0  [BOR07_08.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_273_Locus_835_Allele_0  [BOR07_07.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_272_Locus_843_Allele_0  [BOR07_06.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_271_Locus_834_Allele_0  [BOR07_05.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_270_Locus_840_Allele_0  [BOR07_04_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_269_Locus_826_Allele_0  [BOR07_03_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_268_Locus_835_Allele_0  [BOR07_02.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_267_Locus_758_Allele_0  [BOR07_01_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_289_Locus_838_Allele_0  [BOR07_01_2_92bp; 11270...  161     2e-38
+CLocus_852_Sample_254_Locus_831_Allele_0  [JB021108_48.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_253_Locus_836_Allele_0  [JB021108_47.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_252_Locus_841_Allele_0  [JB021108_46_rep.1_92bp...  161     2e-38
+CLocus_852_Sample_251_Locus_841_Allele_0  [JB021108_46.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_250_Locus_836_Allele_0  [JB021108_45_92bp; 1127...  161     2e-38
+CLocus_852_Sample_249_Locus_834_Allele_0  [JB021108_44.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_248_Locus_812_Allele_0  [JB021108_41.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_261_Locus_834_Allele_0  [JB021108_40_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_246_Locus_804_Allele_0  [JB021108_39_92bp; 1127...  161     2e-38
+CLocus_852_Sample_245_Locus_748_Allele_0  [JB021108_38.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_244_Locus_833_Allele_0  [JB021108_37_rep.1_92bp...  161     2e-38
+CLocus_852_Sample_243_Locus_834_Allele_0  [JB021108_37.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_242_Locus_838_Allele_0  [JB021108_36_rep.1_92bp...  161     2e-38
+CLocus_852_Sample_241_Locus_837_Allele_0  [JB021108_36.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_240_Locus_831_Allele_0  [JB021108_35_rep_92bp; ...  161     2e-38
+CLocus_852_Sample_239_Locus_832_Allele_0  [JB021108_35_92bp; 1127...  161     2e-38
+CLocus_852_Sample_238_Locus_826_Allele_0  [JB021108_34_92bp; 1127...  161     2e-38
+CLocus_852_Sample_258_Locus_833_Allele_0  [JB021108_33_rep_92bp; ...  161     2e-38
+CLocus_852_Sample_237_Locus_534_Allele_0  [JB021108_33_92bp; 1127...  161     2e-38
+CLocus_852_Sample_236_Locus_838_Allele_0  [JB021108_32_92bp; 1127...  161     2e-38
+CLocus_852_Sample_264_Locus_827_Allele_0  [JB021108_31_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_235_Locus_616_Allele_0  [JB021108_31.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_234_Locus_835_Allele_0  [JB021108_30_92bp; 1127...  161     2e-38
+CLocus_852_Sample_233_Locus_814_Allele_0  [JB021108_29_92bp; 1127...  161     2e-38
+CLocus_852_Sample_232_Locus_644_Allele_0  [JB021108_28_92bp; 1127...  161     2e-38
+CLocus_852_Sample_260_Locus_826_Allele_0  [JB021108_28_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_256_Locus_92_Allele_0  [JB021108_27_c_92bp; 112...  161     2e-38
+CLocus_852_Sample_231_Locus_823_Allele_0  [JB021108_26.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_263_Locus_796_Allele_0  [JB021108_25_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_230_Locus_738_Allele_0  [JB021108_25.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_257_Locus_778_Allele_0  [JB021108_24_c_92bp; 11...  161     2e-38
+CLocus_852_Sample_265_Locus_829_Allele_0  [JB021108_23_92bp; 1127...  161     2e-38
+CLocus_852_Sample_229_Locus_786_Allele_0  [JB021108_22.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_255_Locus_532_Allele_0  [JB021108_21_c_92bp; 11...  161     2e-38
+CLocus_852_Sample_228_Locus_826_Allele_0  [JB021108_20_92bp; 1127...  161     2e-38
+CLocus_852_Sample_227_Locus_827_Allele_0  [JB021108_19.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_226_Locus_842_Allele_0  [JB021108_17.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_225_Locus_845_Allele_0  [JB021108_16_92bp; 1127...  161     2e-38
+CLocus_852_Sample_224_Locus_616_Allele_0  [JB021108_14_92bp; 1127...  161     2e-38
+CLocus_852_Sample_262_Locus_819_Allele_0  [JB021108_14_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_223_Locus_829_Allele_0  [JB021108_13.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_222_Locus_841_Allele_0  [JB021108_12.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_266_Locus_823_Allele_0  [JB021108_11_rep_92bp; ...  161     2e-38
+CLocus_852_Sample_221_Locus_277_Allele_0  [JB021108_11_92bp; 1127...  161     2e-38
+CLocus_852_Sample_259_Locus_839_Allele_0  [JB021108_11_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_220_Locus_631_Allele_0  [JB021108_10.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_219_Locus_817_Allele_0  [JB021108_09.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_218_Locus_802_Allele_0  [JB021108_08.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_217_Locus_837_Allele_0  [JB021108_07.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_216_Locus_836_Allele_0  [JB021108_06_92bp; 1127...  161     2e-38
+CLocus_852_Sample_215_Locus_834_Allele_0  [JB021108_05_rep_92bp; ...  161     2e-38
+CLocus_852_Sample_214_Locus_834_Allele_0  [JB021108_05_92bp; 1127...  161     2e-38
+CLocus_852_Sample_213_Locus_795_Allele_0  [JB021108_04.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_212_Locus_826_Allele_0  [JB021108_02.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_193_Locus_725_Allele_0  [JB121807_48.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_203_Locus_814_Allele_0  [JB121807_47_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_191_Locus_798_Allele_0  [JB121807_46_92bp; 1127...  161     2e-38
+CLocus_852_Sample_190_Locus_645_Allele_0  [JB121807_45.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_189_Locus_829_Allele_0  [JB121807_44_92bp; 1127...  161     2e-38
+CLocus_852_Sample_209_Locus_832_Allele_0  [JB121807_43_92bp; 1127...  161     2e-38
+CLocus_852_Sample_188_Locus_775_Allele_0  [JB121807_42_92bp; 1127...  161     2e-38
+CLocus_852_Sample_187_Locus_721_Allele_0  [JB121807_41.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_199_Locus_835_Allele_0  [JB121807_39_92bp; 1127...  161     2e-38
+CLocus_852_Sample_186_Locus_818_Allele_0  [JB121807_38.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_185_Locus_835_Allele_0  [JB121807_37_92bp; 1127...  161     2e-38
+CLocus_852_Sample_198_Locus_412_Allele_0  [JB121807_36_c_92bp; 11...  161     2e-38
+CLocus_852_Sample_184_Locus_540_Allele_0  [JB121807_35_92bp; 1127...  161     2e-38
+CLocus_852_Sample_202_Locus_828_Allele_0  [JB121807_35_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_183_Locus_833_Allele_0  [JB121807_34.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_182_Locus_822_Allele_0  [JB121807_33.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_181_Locus_827_Allele_0  [JB121807_32.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_180_Locus_832_Allele_0  [JB121807_31.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_179_Locus_751_Allele_0  [JB121807_30_92bp; 1127...  161     2e-38
+CLocus_852_Sample_206_Locus_836_Allele_0  [JB121807_30_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_210_Locus_836_Allele_0  [JB121807_29_92bp; 1127...  161     2e-38
+CLocus_852_Sample_178_Locus_831_Allele_0  [JB121807_28.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_177_Locus_720_Allele_0  [JB121807_27_92bp; 1127...  161     2e-38
+CLocus_852_Sample_205_Locus_828_Allele_0  [JB121807_27_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_197_Locus_792_Allele_0  [JB121807_26_c_92bp; 11...  161     2e-38
+CLocus_852_Sample_176_Locus_805_Allele_0  [JB121807_25_92bp; 1127...  161     2e-38
+CLocus_852_Sample_175_Locus_830_Allele_0  [JB121807_24.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_174_Locus_659_Allele_0  [JB121807_23_92bp; 1127...  161     2e-38
+CLocus_852_Sample_204_Locus_827_Allele_0  [JB121807_23_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_196_Locus_719_Allele_0  [JB121807_22_c_92bp; 11...  161     2e-38
+CLocus_852_Sample_173_Locus_803_Allele_0  [JB121807_21.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_172_Locus_836_Allele_0  [JB121807_20.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_171_Locus_837_Allele_0  [JB121807_19.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_208_Locus_831_Allele_0  [JB121807_18_92bp; 1127...  161     2e-38
+CLocus_852_Sample_207_Locus_836_Allele_0  [JB121807_16_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_170_Locus_714_Allele_0  [JB121807_16.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_169_Locus_828_Allele_0  [JB121807_14.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_195_Locus_577_Allele_0  [JB121807_13_c_92bp; 11...  161     2e-38
+CLocus_852_Sample_168_Locus_767_Allele_0  [JB121807_12.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_167_Locus_836_Allele_0  [JB121807_11.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_194_Locus_223_Allele_0  [JB121807_10_c_92bp; 11...  161     2e-38
+CLocus_852_Sample_166_Locus_681_Allele_0  [JB121807_09.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_165_Locus_825_Allele_0  [JB121807_08_rep_92bp; ...  161     2e-38
+CLocus_852_Sample_164_Locus_823_Allele_0  [JB121807_08_92bp; 1127...  161     2e-38
+CLocus_852_Sample_162_Locus_837_Allele_0  [JB121807_06.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_161_Locus_747_Allele_0  [JB121807_05_92bp; 1127...  161     2e-38
+CLocus_852_Sample_201_Locus_838_Allele_0  [JB121807_05_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_160_Locus_741_Allele_0  [JB121807_04.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_200_Locus_837_Allele_0  [JB121807_03_rep_92bp; ...  161     2e-38
+CLocus_852_Sample_159_Locus_838_Allele_0  [JB121807_03.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_158_Locus_842_Allele_0  [JB121807_01_92bp; 1127...  161     2e-38
+CLocus_852_Sample_145_Locus_828_Allele_0  [JUK07_37.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_144_Locus_838_Allele_0  [JUK07_36.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_150_Locus_833_Allele_0  [JUK07_34_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_157_Locus_835_Allele_0  [JUK07_33_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_143_Locus_831_Allele_0  [JUK07_32_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_153_Locus_839_Allele_0  [JUK07_31_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_142_Locus_832_Allele_0  [JUK07_30_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_141_Locus_832_Allele_0  [JUK07_29.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_140_Locus_783_Allele_0  [JUK07_28_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_139_Locus_823_Allele_0  [JUK07_27_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_138_Locus_821_Allele_1  [JUK07_26_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_137_Locus_773_Allele_0  [JUK07_25_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_149_Locus_838_Allele_0  [JUK07_23_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_136_Locus_806_Allele_0  [JUK07_22_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_148_Locus_825_Allele_0  [JUK07_21_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_135_Locus_810_Allele_0  [JUK07_20_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_134_Locus_825_Allele_0  [JUK07_19_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_133_Locus_819_Allele_0  [JUK07_18_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_132_Locus_798_Allele_0  [JUK07_17_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_131_Locus_822_Allele_0  [JUK07_16_rep.1_92bp; 1...  161     2e-38
+CLocus_852_Sample_130_Locus_826_Allele_0  [JUK07_16.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_129_Locus_831_Allele_0  [JUK07_15_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_128_Locus_820_Allele_0  [JUK07_14_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_147_Locus_829_Allele_0  [JUK07_13_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_152_Locus_819_Allele_0  [JUK07_12_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_154_Locus_828_Allele_0  [JUK07_11_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_146_Locus_817_Allele_0  [JUK07_10_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_127_Locus_832_Allele_0  [JUK07_09_rep.1_92bp; 1...  161     2e-38
+CLocus_852_Sample_126_Locus_832_Allele_0  [JUK07_09.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_156_Locus_831_Allele_0  [JUK07_08_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_155_Locus_832_Allele_0  [JUK07_06_2_92bp; 11270...  161     2e-38
+CLocus_852_Sample_125_Locus_835_Allele_0  [JUK07_06.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_124_Locus_822_Allele_0  [JUK07_03_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_123_Locus_833_Allele_0  [JUK07_02_rep.1_92bp; 1...  161     2e-38
+CLocus_852_Sample_122_Locus_835_Allele_0  [JUK07_02.1_92bp; 11270...  161     2e-38
+CLocus_852_Sample_121_Locus_810_Allele_0  [JUK07_01_92bp; 11270, ...  161     2e-38
+CLocus_852_Sample_106_Locus_802_Allele_0  [YS_121316_29_92bp; 112...  161     2e-38
+CLocus_852_Sample_105_Locus_817_Allele_0  [YS_121316_28_92bp; 112...  161     2e-38
+CLocus_852_Sample_104_Locus_828_Allele_0  [YS_121316_27_92bp; 112...  161     2e-38
+CLocus_852_Sample_103_Locus_839_Allele_0  [YS_121316_26_92bp; 112...  161     2e-38
+CLocus_852_Sample_102_Locus_830_Allele_0  [YS_121316_25_92bp; 112...  161     2e-38
+CLocus_852_Sample_101_Locus_840_Allele_0  [YS_121316_24_92bp; 112...  161     2e-38
+CLocus_852_Sample_100_Locus_838_Allele_0  [YS_121316_23_92bp; 112...  161     2e-38
+CLocus_852_Sample_99_Locus_833_Allele_0  [YS_121316_22_92bp; 1127...  161     2e-38
+CLocus_852_Sample_98_Locus_839_Allele_0  [YS_121316_21_92bp; 1127...  161     2e-38
+CLocus_852_Sample_117_Locus_836_Allele_0  [YS_121316_21_2_92bp; 1...  161     2e-38
+CLocus_852_Sample_118_Locus_839_Allele_0  [YS_121316_20_2_92bp; 1...  161     2e-38
+CLocus_852_Sample_97_Locus_845_Allele_0  [YS_121316_20.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_116_Locus_830_Allele_0  [YS_121316_19_92bp; 112...  161     2e-38
+CLocus_852_Sample_96_Locus_828_Allele_0  [YS_121316_18_92bp; 1127...  161     2e-38
+CLocus_852_Sample_95_Locus_840_Allele_0  [YS_121316_17_92bp; 1127...  161     2e-38
+CLocus_852_Sample_94_Locus_842_Allele_0  [YS_121316_13_92bp; 1127...  161     2e-38
+CLocus_852_Sample_120_Locus_835_Allele_0  [YS_121316_07_92bp; 112...  161     2e-38
+CLocus_852_Sample_93_Locus_835_Allele_0  [YS_121316_05_92bp; 1127...  161     2e-38
+CLocus_852_Sample_115_Locus_824_Allele_0  [YS_121316_04_92bp; 112...  161     2e-38
+CLocus_852_Sample_92_Locus_839_Allele_0  [YS_121316_03_92bp; 1127...  161     2e-38
+CLocus_852_Sample_91_Locus_834_Allele_0  [YS_121316_01_92bp; 1127...  161     2e-38
+CLocus_852_Sample_114_Locus_838_Allele_0  [YS121316_30_92bp; 1127...  161     2e-38
+CLocus_852_Sample_113_Locus_831_Allele_0  [YS121315_16_92bp; 1127...  161     2e-38
+CLocus_852_Sample_112_Locus_833_Allele_0  [YS121315_15_92bp; 1127...  161     2e-38
+CLocus_852_Sample_119_Locus_845_Allele_0  [YS121315_14_2_92bp; 11...  161     2e-38
+CLocus_852_Sample_111_Locus_842_Allele_0  [YS121315_14.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_109_Locus_838_Allele_0  [YS121315_12_92bp; 1127...  161     2e-38
+CLocus_852_Sample_110_Locus_835_Allele_0  [YS121315_12_300_92bp; ...  161     2e-38
+CLocus_852_Sample_108_Locus_823_Allele_0  [YS121315_10.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_107_Locus_834_Allele_0  [YS121315_08.1_92bp; 11...  161     2e-38
+CLocus_852_Sample_87_Locus_832_Allele_0  [NA021015_30_92bp; 11270...  161     2e-38
+CLocus_852_Sample_86_Locus_838_Allele_0  [NA021015_26_92bp; 11270...  161     2e-38
+CLocus_852_Sample_85_Locus_837_Allele_0  [NA021015_25_92bp; 11270...  161     2e-38
+CLocus_852_Sample_84_Locus_837_Allele_0  [NA021015_23_92bp; 11270...  161     2e-38
+CLocus_852_Sample_83_Locus_832_Allele_0  [NA021015_22.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_82_Locus_828_Allele_0  [NA021015_21.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_81_Locus_830_Allele_0  [NA021015_17.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_80_Locus_836_Allele_0  [NA021015_16.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_79_Locus_843_Allele_0  [NA021015_14.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_78_Locus_842_Allele_0  [NA021015_13.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_90_Locus_845_Allele_0  [NA021015_10_2_92bp; 112...  161     2e-38
+CLocus_852_Sample_77_Locus_842_Allele_0  [NA021015_10.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_89_Locus_849_Allele_0  [NA021015_09_2_92bp; 112...  161     2e-38
+CLocus_852_Sample_76_Locus_842_Allele_0  [NA021015_09.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_75_Locus_829_Allele_0  [NA021015_08.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_88_Locus_850_Allele_0  [NA021015_06_2_92bp; 112...  161     2e-38
+CLocus_852_Sample_74_Locus_842_Allele_0  [NA021015_06.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_73_Locus_842_Allele_0  [NA021015_03.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_72_Locus_823_Allele_0  [NA021015_02.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_67_Locus_828_Allele_0  [GEO012315_21_92bp; 1127...  161     2e-38
+CLocus_852_Sample_66_Locus_828_Allele_0  [GEO012315_18_92bp; 1127...  161     2e-38
+CLocus_852_Sample_65_Locus_839_Allele_0  [GEO012315_12_92bp; 1127...  161     2e-38
+CLocus_852_Sample_64_Locus_832_Allele_0  [GEO012315_02_92bp; 1127...  161     2e-38
+CLocus_852_Sample_63_Locus_830_Allele_0  [GE012315_22.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_62_Locus_841_Allele_0  [GE012315_20.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_61_Locus_835_Allele_0  [GE012315_17.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_68_Locus_848_Allele_0  [GE012315_11_2_92bp; 112...  161     2e-38
+CLocus_852_Sample_60_Locus_849_Allele_0  [GE012315_11.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_59_Locus_847_Allele_0  [GE012315_10.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_69_Locus_850_Allele_0  [GE012315_09_2_92bp; 112...  161     2e-38
+CLocus_852_Sample_58_Locus_847_Allele_0  [GE012315_09.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_57_Locus_843_Allele_0  [GE012315_08.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_56_Locus_832_Allele_0  [GE012315_06.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_55_Locus_829_Allele_0  [GE012315_05.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_54_Locus_845_Allele_0  [GE012315_04.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_53_Locus_836_Allele_0  [GE012315_03.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_52_Locus_838_Allele_0  [GE012315_01.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_51_Locus_848_Allele_0  [GE011215_30.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_50_Locus_832_Allele_0  [GE011215_29.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_49_Locus_835_Allele_0  [GE011215_28_92bp; 11270...  161     2e-38
+CLocus_852_Sample_48_Locus_836_Allele_0  [GE011215_24.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_47_Locus_832_Allele_0  [GE011215_22_92bp; 11270...  161     2e-38
+CLocus_852_Sample_46_Locus_838_Allele_0  [GE011215_21.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_45_Locus_834_Allele_0  [GE011215_20.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_44_Locus_839_Allele_0  [GE011215_19_92bp; 11270...  161     2e-38
+CLocus_852_Sample_43_Locus_831_Allele_0  [GE011215_18_92bp; 11270...  161     2e-38
+CLocus_852_Sample_42_Locus_838_Allele_0  [GE011215_16.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_41_Locus_841_Allele_0  [GE011215_15.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_40_Locus_842_Allele_0  [GE011215_14.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_71_Locus_836_Allele_0  [GE011215_11_rep_92bp; 1...  161     2e-38
+CLocus_852_Sample_70_Locus_838_Allele_0  [GE011215_11_92bp; 11270...  161     2e-38
+CLocus_852_Sample_39_Locus_834_Allele_0  [GE011215_10.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_38_Locus_843_Allele_0  [GE011215_09.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_37_Locus_841_Allele_0  [GE011215_08.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_36_Locus_835_Allele_0  [GE011215_07.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_35_Locus_844_Allele_0  [GE011215_01.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_31_Locus_834_Allele_0  [PO031715_24_92bp; 11270...  161     2e-38
+CLocus_852_Sample_30_Locus_834_Allele_0  [PO031715_23_92bp; 11270...  161     2e-38
+CLocus_852_Sample_29_Locus_840_Allele_0  [PO031715_20.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_28_Locus_842_Allele_0  [PO031715_13.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_27_Locus_838_Allele_0  [PO031715_04_92bp; 11270...  161     2e-38
+CLocus_852_Sample_26_Locus_837_Allele_0  [PO031715_03_92bp; 11270...  161     2e-38
+CLocus_852_Sample_25_Locus_834_Allele_0  [PO020515_17.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_24_Locus_838_Allele_0  [PO020515_16.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_23_Locus_831_Allele_0  [PO020515_15.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_22_Locus_837_Allele_0  [PO020515_14.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_21_Locus_839_Allele_0  [PO020515_10.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_20_Locus_832_Allele_0  [PO020515_09.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_19_Locus_835_Allele_0  [PO020515_08.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_18_Locus_836_Allele_0  [PO020515_06_92bp; 11270...  161     2e-38
+CLocus_852_Sample_17_Locus_832_Allele_0  [PO020515_05.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_16_Locus_832_Allele_0  [PO020515_03.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_15_Locus_838_Allele_0  [PO020515_01_92bp; 11270...  161     2e-38
+CLocus_852_Sample_14_Locus_838_Allele_0  [PO010715_29.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_13_Locus_853_Allele_0  [PO010715_28.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_12_Locus_833_Allele_0  [PO010715_27.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_11_Locus_849_Allele_0  [PO010715_26_92bp; 11270...  161     2e-38
+CLocus_852_Sample_32_Locus_842_Allele_0  [PO010715_26_2_92bp; 112...  161     2e-38
+CLocus_852_Sample_10_Locus_836_Allele_0  [PO010715_19.1_92bp; 112...  161     2e-38
+CLocus_852_Sample_9_Locus_839_Allele_0  [PO010715_17.1_92bp; 1127...  161     2e-38
+CLocus_852_Sample_8_Locus_839_Allele_0  [PO010715_12_92bp; 11270,...  161     2e-38
+CLocus_852_Sample_7_Locus_835_Allele_0  [PO010715_11.1_92bp; 1127...  161     2e-38
+CLocus_852_Sample_6_Locus_831_Allele_0  [PO010715_10.1_92bp; 1127...  161     2e-38
+CLocus_852_Sample_5_Locus_832_Allele_0  [PO010715_08.1_92bp; 1127...  161     2e-38
+CLocus_852_Sample_34_Locus_844_Allele_0  [PO010715_07_rep_92bp; 1...  161     2e-38
+CLocus_852_Sample_33_Locus_842_Allele_0  [PO010715_07_92bp; 11270...  161     2e-38
+CLocus_852_Sample_4_Locus_834_Allele_0  [PO010715_06.1_92bp; 1127...  161     2e-38
+
+
+>CLocus_852_Sample_803_Locus_755_Allele_0 [PWS12_133; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_802_Locus_758_Allele_0 [PWS12_132; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_801_Locus_768_Allele_0 [PWS12_131; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_800_Locus_763_Allele_0 [PWS12_097; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_798_Locus_763_Allele_0 [PWS12_095; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_793_Locus_760_Allele_0 [PWS12_076; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_792_Locus_793_Allele_0 [PWS12_075; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_789_Locus_759_Allele_0 [PWS12_064; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_788_Locus_770_Allele_0 [PWS12_063; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_787_Locus_770_Allele_0 [PWS12_057; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_786_Locus_729_Allele_0 [PWS12_056; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_785_Locus_752_Allele_0 [PWS12_055; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_784_Locus_786_Allele_0 [PWS12_054; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_783_Locus_770_Allele_0 [PWS12_041; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_782_Locus_777_Allele_0 [PWS12_033; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_780_Locus_775_Allele_0 [PWS12_025; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_779_Locus_762_Allele_0 [PWS12_023; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_778_Locus_772_Allele_0 [PWS12_022; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_777_Locus_768_Allele_0 [PWS12_021; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_776_Locus_774_Allele_0 [PWS12_020; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_770_Locus_789_Allele_0 [PWS12_014; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_769_Locus_772_Allele_0 [PWS12_013; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_768_Locus_758_Allele_0 [PWS12_012; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_766_Locus_789_Allele_0 [PWS12_010; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_764_Locus_780_Allele_0 [PWS12_008; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_762_Locus_784_Allele_0 [PWS12_006; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_761_Locus_787_Allele_0 [PWS12_005; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_760_Locus_772_Allele_0 [PWS12_004; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_758_Locus_799_Allele_0 [PWS12_002; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_757_Locus_789_Allele_0 [PWS12_001; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_739_Locus_767_Allele_0 [PS12_048; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_738_Locus_779_Allele_0 [PS12_047; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_737_Locus_773_Allele_0 [PS12_046; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_736_Locus_760_Allele_0 [PS12_045; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_735_Locus_758_Allele_0 [PS12_044; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_734_Locus_708_Allele_0 [PS12_043; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_733_Locus_729_Allele_0 [PS12_042; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_732_Locus_782_Allele_0 [PS12_041; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_731_Locus_790_Allele_0 [PS12_040; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_730_Locus_720_Allele_0 [PS12_039; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_729_Locus_749_Allele_0 [PS12_038; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_728_Locus_772_Allele_0 [PS12_037; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_727_Locus_771_Allele_0 [PS12_036; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_726_Locus_769_Allele_0 [PS12_035; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_725_Locus_764_Allele_0 [PS12_034; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_724_Locus_768_Allele_0 [PS12_033; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_723_Locus_787_Allele_0 [PS12_032; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_722_Locus_768_Allele_0 [PS12_031; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_721_Locus_763_Allele_0 [PS12_030; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_720_Locus_780_Allele_0 [PS12_029; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_719_Locus_767_Allele_0 [PS12_028; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_718_Locus_779_Allele_0 [PS12_027; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_717_Locus_770_Allele_0 [PS12_026; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_716_Locus_771_Allele_0 [PS12_025; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_715_Locus_773_Allele_0 [PS12_024; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_714_Locus_724_Allele_0 [PS12_023; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_713_Locus_775_Allele_0 [PS12_022; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_712_Locus_761_Allele_0 [PS12_021; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_711_Locus_779_Allele_0 [PS12_020; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_710_Locus_747_Allele_0 [PS12_019; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_709_Locus_791_Allele_0 [PS12_018; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_708_Locus_795_Allele_0 [PS12_017; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_707_Locus_785_Allele_0 [PS12_016; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_706_Locus_790_Allele_0 [PS12_015; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_705_Locus_787_Allele_0 [PS12_014; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_704_Locus_759_Allele_0 [PS12_013; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_703_Locus_779_Allele_0 [PS12_012; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_702_Locus_758_Allele_0 [PS12_011; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_701_Locus_743_Allele_0 [PS12_010; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_700_Locus_770_Allele_0 [PS12_009; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_699_Locus_788_Allele_0 [PS12_008; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_697_Locus_788_Allele_0 [PS12_006; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_696_Locus_780_Allele_0 [PS12_005; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_695_Locus_709_Allele_0 [PS12_004; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_694_Locus_770_Allele_0 [PS12_003; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_693_Locus_759_Allele_0 [PS12_002; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_692_Locus_771_Allele_0 [PS12_001; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_756_Locus_774_Allele_0 [GS13_017; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_755_Locus_775_Allele_0 [GS13_016; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_754_Locus_750_Allele_0 [GS13_015; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_753_Locus_764_Allele_0 [GS13_014; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_752_Locus_763_Allele_0 [GS13_013; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_751_Locus_782_Allele_0 [GS13_012; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_750_Locus_765_Allele_0 [GS13_011; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_749_Locus_739_Allele_0 [GS13_010; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_748_Locus_728_Allele_0 [GS13_009; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_747_Locus_771_Allele_0 [GS13_008; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_746_Locus_754_Allele_0 [GS13_007; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_745_Locus_770_Allele_0 [GS13_006; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_744_Locus_764_Allele_0 [GS13_005; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_742_Locus_760_Allele_0 [GS13_003; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_741_Locus_740_Allele_0 [GS13_002; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_740_Locus_782_Allele_0 [GS13_001; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_691_Locus_766_Allele_0 [HS04_048; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_690_Locus_777_Allele_0 [HS04_047; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_689_Locus_763_Allele_0 [HS04_046; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_688_Locus_760_Allele_0 [HS04_045; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_687_Locus_771_Allele_0 [HS04_044; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_686_Locus_741_Allele_0 [HS04_043; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_685_Locus_751_Allele_0 [HS04_042; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_684_Locus_772_Allele_0 [HS04_041; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_683_Locus_792_Allele_0 [HS04_040; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_682_Locus_714_Allele_0 [HS04_039; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_681_Locus_733_Allele_0 [HS04_038; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_680_Locus_769_Allele_0 [HS04_037; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_679_Locus_764_Allele_0 [HS04_036; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_678_Locus_775_Allele_0 [HS04_035; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_677_Locus_760_Allele_0 [HS04_034; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_676_Locus_778_Allele_0 [HS04_033; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_675_Locus_786_Allele_0 [HS04_032; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_674_Locus_776_Allele_0 [HS04_031; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_673_Locus_755_Allele_0 [HS04_030; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_672_Locus_778_Allele_0 [HS04_029; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_671_Locus_765_Allele_0 [HS04_028; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_670_Locus_782_Allele_0 [HS04_027; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_668_Locus_772_Allele_0 [HS04_025; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_667_Locus_768_Allele_0 [HS04_024; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_666_Locus_767_Allele_0 [HS04_023; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_665_Locus_784_Allele_0 [HS04_022; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_664_Locus_761_Allele_0 [HS04_021; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_663_Locus_779_Allele_0 [HS04_020; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_662_Locus_759_Allele_0 [HS04_019; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_661_Locus_791_Allele_0 [HS04_018; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_660_Locus_790_Allele_0 [HS04_017; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_659_Locus_788_Allele_0 [HS04_016; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_658_Locus_792_Allele_0 [HS04_015; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_657_Locus_788_Allele_0 [HS04_014; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_656_Locus_760_Allele_0 [HS04_013; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_655_Locus_783_Allele_0 [HS04_012; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_653_Locus_722_Allele_0 [HS04_010; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_652_Locus_767_Allele_0 [HS04_009; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_651_Locus_792_Allele_0 [HS04_008; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_650_Locus_771_Allele_0 [HS04_007; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_649_Locus_789_Allele_0 [HS04_006; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_648_Locus_779_Allele_0 [HS04_005; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_647_Locus_762_Allele_0 [HS04_004; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_645_Locus_772_Allele_0 [HS04_002; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_644_Locus_779_Allele_0 [HS04_001; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_643_Locus_769_Allele_0 [WC05_048; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_642_Locus_765_Allele_0 [WC05_047; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_640_Locus_739_Allele_0 [WC05_045; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_639_Locus_755_Allele_0 [WC05_044; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_638_Locus_679_Allele_0 [WC05_043; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_637_Locus_674_Allele_0 [WC05_042; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_636_Locus_769_Allele_0 [WC05_041; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_635_Locus_789_Allele_0 [WC05_040; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_634_Locus_701_Allele_0 [WC05_039; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_633_Locus_609_Allele_0 [WC05_038; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_632_Locus_765_Allele_0 [WC05_037; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_631_Locus_763_Allele_0 [WC05_036; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_630_Locus_777_Allele_0 [WC05_035; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_629_Locus_747_Allele_0 [WC05_034; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_628_Locus_769_Allele_0 [WC05_033; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_627_Locus_784_Allele_0 [WC05_032; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_626_Locus_767_Allele_0 [WC05_031; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_625_Locus_744_Allele_0 [WC05_030; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_624_Locus_782_Allele_0 [WC05_029; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_623_Locus_699_Allele_0 [WC05_028; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_622_Locus_745_Allele_0 [WC05_027; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_621_Locus_746_Allele_0 [WC05_026; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_620_Locus_780_Allele_0 [WC05_025; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_619_Locus_748_Allele_0 [WC05_024; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_618_Locus_771_Allele_0 [WC05_023; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_617_Locus_774_Allele_0 [WC05_022; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_616_Locus_755_Allele_0 [WC05_021; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_615_Locus_702_Allele_0 [WC05_020; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_613_Locus_788_Allele_0 [WC05_018; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_612_Locus_790_Allele_0 [WC05_017; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_611_Locus_779_Allele_0 [WC05_016; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_610_Locus_791_Allele_0 [WC05_015; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_609_Locus_779_Allele_0 [WC05_014; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_607_Locus_781_Allele_0 [WC05_012; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_606_Locus_748_Allele_0 [WC05_011; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_605_Locus_756_Allele_0 [WC05_010; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_604_Locus_766_Allele_0 [WC05_009; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_603_Locus_794_Allele_0 [WC05_008; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_602_Locus_747_Allele_0 [WC05_007; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_601_Locus_781_Allele_0 [WC05_006; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_600_Locus_776_Allele_0 [WC05_005; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_599_Locus_745_Allele_0 [WC05_004; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_598_Locus_774_Allele_0 [WC05_003; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_597_Locus_770_Allele_0 [WC05_002; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_596_Locus_781_Allele_0 [WC05_001; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_322_Locus_834_Allele_0 [GEO020414_9_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_323_Locus_832_Allele_0 [GEO020414_9_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_320_Locus_836_Allele_0 [GEO020414_8_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_321_Locus_836_Allele_0 [GEO020414_8_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_319_Locus_839_Allele_0 [GEO020414_7_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_318_Locus_824_Allele_0 [GEO020414_6_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_317_Locus_830_Allele_0 [GEO020414_5_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_316_Locus_828_Allele_0 [GEO020414_4_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_314_Locus_827_Allele_0 [GEO020414_3_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_315_Locus_786_Allele_0 [GEO020414_30_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_325_Locus_835_Allele_0 [GEO020414_30_2_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_304_Locus_830_Allele_0 [GEO020414_2_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_313_Locus_816_Allele_0 [GEO020414_29_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_312_Locus_830_Allele_0 [GEO020414_27_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_311_Locus_822_Allele_0 [GEO020414_26_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_309_Locus_837_Allele_0 [GEO020414_25_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_310_Locus_831_Allele_0 [GEO020414_25_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_307_Locus_832_Allele_0 [GEO020414_24_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_308_Locus_830_Allele_0 [GEO020414_24_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_305_Locus_837_Allele_0 [GEO020414_23_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_306_Locus_836_Allele_0 [GEO020414_23_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_302_Locus_841_Allele_0 [GEO020414_17_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_303_Locus_835_Allele_0 [GEO020414_17_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_300_Locus_838_Allele_0 [GEO020414_16_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_301_Locus_839_Allele_0 [GEO020414_16_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_298_Locus_832_Allele_0 [GEO020414_15_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_299_Locus_823_Allele_0 [GEO020414_15_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_296_Locus_829_Allele_0 [GEO020414_14_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_297_Locus_830_Allele_0 [GEO020414_14_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_295_Locus_827_Allele_0 [GEO020414_13_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_326_Locus_827_Allele_0 [GEO020414_13_2_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_292_Locus_840_Allele_0 [GEO020414_11_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_293_Locus_838_Allele_0 [GEO020414_11_300_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_291_Locus_813_Allele_0 [GEO020414_10_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_324_Locus_838_Allele_0 [GEO020414_10_2_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_288_Locus_834_Allele_0 [BOR07_22_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_290_Locus_837_Allele_0 [BOR07_21_2_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_287_Locus_769_Allele_0 [BOR07_21.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_286_Locus_831_Allele_0 [BOR07_20.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_285_Locus_837_Allele_0 [BOR07_19.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_284_Locus_828_Allele_0 [BOR07_18_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_283_Locus_840_Allele_0 [BOR07_17.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_282_Locus_836_Allele_0 [BOR07_16_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_281_Locus_844_Allele_0 [BOR07_15_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_280_Locus_835_Allele_0 [BOR07_14_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_279_Locus_839_Allele_0 [BOR07_13.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_278_Locus_831_Allele_0 [BOR07_12.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_277_Locus_833_Allele_0 [BOR07_11.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_276_Locus_847_Allele_0 [BOR07_10.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_275_Locus_828_Allele_0 [BOR07_09_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_274_Locus_829_Allele_0 [BOR07_08.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_273_Locus_835_Allele_0 [BOR07_07.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_272_Locus_843_Allele_0 [BOR07_06.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_271_Locus_834_Allele_0 [BOR07_05.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_270_Locus_840_Allele_0 [BOR07_04_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_269_Locus_826_Allele_0 [BOR07_03_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_268_Locus_835_Allele_0 [BOR07_02.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_267_Locus_758_Allele_0 [BOR07_01_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_289_Locus_838_Allele_0 [BOR07_01_2_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_254_Locus_831_Allele_0 [JB021108_48.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_253_Locus_836_Allele_0 [JB021108_47.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_252_Locus_841_Allele_0 [JB021108_46_rep.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_251_Locus_841_Allele_0 [JB021108_46.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_250_Locus_836_Allele_0 [JB021108_45_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_249_Locus_834_Allele_0 [JB021108_44.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_248_Locus_812_Allele_0 [JB021108_41.1_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+>CLocus_852_Sample_261_Locus_834_Allele_0 [JB021108_40_2_92bp; 11270, 1, +]
+Length=92
+
+ Score = 161 bits (87),  Expect = 2e-38
+ Identities = 87/87 (100%), Gaps = 0/87 (0%)
+ Strand=Plus/Plus
+
+Query  1   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6   GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+
+Query  61  AGTGTCCGAGGAGCTTTTGCACTTCAG  87
+           |||||||||||||||||||||||||||
+Sbjct  66  AGTGTCCGAGGAGCTTTTGCACTTCAG  92
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 80997432516
+
+
+Query= ENSGMOE00000163684-3
+
+Length=172
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 148290753975
+
+
+  Database: ../stacks_b8_wgenome_r05/final_populations_randomSNP/batch_8.fa
+    Posted date:  Apr 25, 2018  6:00 PM
+  Number of letters in database: 1,447,506,564
+  Number of sequences in database:  15,733,767
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

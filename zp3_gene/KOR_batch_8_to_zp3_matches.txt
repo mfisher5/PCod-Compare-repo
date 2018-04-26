@@ -1,0 +1,5388 @@
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  187     3e-52
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 187 bits (101),  Expect = 3e-52
+ Identities = 103/104 (99%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCAGTTCTCGGCCATCAA  65
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+
+--
+Sequences producing significant alignments:                          (Bits)  Value
+
+ENSGMOE00000163679-2                                                  193     7e-54
+
+
+>ENSGMOE00000163679-2 
+Length=104
+
+ Score = 193 bits (104),  Expect = 7e-54
+ Identities = 104/104 (100%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  6    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  65
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGGCATAACGTGAGCAGTCTGGCCCTGGACCCGATCTTCACCCCGTTCTCGGCCATCAA  60
+

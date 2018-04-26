@@ -1,5 +1,5 @@
-populations -b 8 -P stacks_b8_wgenome_r05 -M scripts/PopMap_combo_b4.txt -t 36 -r 0.5 -p 3 -m 3 --genepop --fasta
-populations version 1.44 executed 2018-04-26 09:30:36
+populations -b 8 -P ../stacks_b8_wgenome_r05 -M PopMap_combo_b4.txt -t 36 -r 0.5 -p 3 -m 3 --write_random_snp --genepop --fasta
+populations version 1.44 executed 2018-01-25 16:09:31
 
 # Distribution of population loci.
 # Distribution of valid loci matched to catalog locus.

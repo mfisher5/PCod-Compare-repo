@@ -43,6 +43,8 @@ stacks_b8_wgenome_r05/*.tsv
 stacks_b8_wgenome_r05/*.sam
 stacks_b8_wgenome_r05/*.fa
 stacks_b8_wgenome_r05/*.genepop
+stacks_b8_wgenome_r05/*.haplotypes
+stacks_b8_wgenome_r05/*.sumstats
 stacks_b8_wgenome_r05/populations_m10/*.tsv
 stacks_b8_wgenome_r05/populations_m10/*.fa
 stacks_b8_wgenome_r05/populations_m10/*.csv
@@ -66,6 +68,11 @@ stacks_b8_wgenome_r05/populations_vcf_AK/*.fa
 stacks_b8_wgenome_r05/populations_vcf_AK/*.vcf
 stacks_b8_wgenome_r05/populations_vcf_all/*.vcf
 stacks_b8_wgenome_r05/populations_vcf_all/*.fa
+stacks_b8_wgenome_r05/final_populations_randomSNP/*.fa
+stacks_b8_wgenome_r05/final_populations_randomSNP/*.genepop
+stacks_b8_wgenome_r05/final_populations_randomSNP/*.haplotypes.tsv
+stacks_b8_wgenome_r05/final_populations_randomSNP/*.hapstats.tsv
+stacks_b8_wgenome_r05/final_populations_randomSNP/*.sumstats.tsv
 stacks_b4_wgenome/*.fa
 stacks_b4_wgenome/*.genepop
 stacks_b4_wgenome/*_genepop.txt
@@ -98,3 +105,10 @@ analyses/outliers/*.vcf
 analyses/outliers/*.sam
 analyses/outliers/Bayescan/batch_8_final_eastwest_reruns/*.sel
 analyses/outliers/PCAdapt/*.vcf
+zp3_gene/*.nog
+zp3_gene/*.nsd
+zp3_gene/*.nsi
+zp3_gene/*.nhr
+zp3_gene/*.nin
+zp3_gene/*.nsq
+KOR_batch_8_to_zp3
