@@ -1,0 +1,189 @@
+---
+title: "AMOVAs"
+output:
+  word_document: default
+  html_notebook: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This notebook contains results of AMOVA testing. 
+All code and comment is from Eleni Petrou's Evernote *012a: AMOVA: filtered haplotypes & SNP - BC all populations*
+
+
+First, install / load packages
+```{r}
+install.packages("poppr", repos = "http://cran.us.r-project.org")
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+library(pegas, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+```
+
+
+
+The implementation of AMOVA in poppr requires two very basic components: 
+ (1) A distance matrix derived from the data and 
+ (2) a separate table used to partition the data into different stratifications.
+The distance matrix can be calculated using any distance as long as it is euclidean.
+
+```{r}
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+library(pegas, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+
+#read in genetic data and hierarchical strata files. 
+setwd("D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/R")
+
+data_all_loci <-read.genepop("../../stacks_b8_wgenome_r05/batch_8_final_filtered_aligned_genepop_eastwest.gen")
+levels(pop(data_all_loci))
+
+# Read in a dataframe containing information about the hierarchial levels
+my_strata<- read.delim("../AMOVA/EastWest_Strata_for_AMOVA.txt")
+head(my_strata)
+
+# assign those levels as strata to the genind object
+strata(data_all_loci) <- my_strata
+
+# Change the format of your data from a genind to a genclone object
+my_data <- as.genclone(data_all_loci)
+my_data
+
+# View some hierarchical levels in the data set
+table(strata(my_data, ~population))
+table(strata(my_data, ~region, combine = FALSE))
+table(strata(my_data, ~site))
+```
+
+
+This implementation accepts any number of hierarchical levels.
+
+The formula must be of the form d, ~ A/B/... where d is a genclone or genind object, and A, B, etc, 
+ are the hierarchical levels from the highest to the lowest one. 
+
+Any number of levels is accepted, so specifying d ~ A will simply test for population differentiation.
+
+The poppr.amova function is a wrapper script for amova. It calculates a pairwise distance matrix by default.
+
+
+--------
+
+### PEGAS AMOVAS
+
+```{r}
+#AMOVA considering regions
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+
+amova1 <- poppr.amova(my_data, ~region, within = FALSE, method = "pegas", nperm = 1000)
+amova1
+```
+
+
+
+```{r}
+#AMOVA considering regions and populations
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+
+amova2<- poppr.amova(my_data, ~region/population, within = FALSE, method = "pegas", 
+                            nperm = 1000, quiet = TRUE)
+
+amova2
+```
+
+```{r}
+#AMOVA considering regions and populations -- switch terms for different SSD??
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+
+amova2.5<- poppr.amova(my_data, ~population/region, within = FALSE, method = "pegas", 
+                            nperm = 1000, quiet = TRUE)
+
+amova2.5
+```
+
+
+
+
+
+-------------
+
+### ADE4 AMOVAS
+
+```{r, echo=TRUE}
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+
+#AMOVA considering regions
+amova3 <- poppr.amova(my_data, ~region, within = FALSE, 
+                      nperm = 10000, quiet = TRUE)
+
+amova3
+
+# To test if populations are significantly different, we perform a randomization test using the function randtest() from the ade4 package. 
+#This will randomly permute the sample matrices as described in (Excoffier et al., 1992).
+
+set.seed(1999)
+amova3.test <- randtest(amova3, nrepet = 9999)
+amova3.test
+
+```
+
+```{r}
+plot(amova3.test)
+```
+
+
+
+
+
+```{r}
+#AMOVA considering management units
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+
+amova4<- poppr.amova(my_data, ~region/population, within = FALSE, 
+                     nperm = 10000, quiet = TRUE)
+
+amova4
+
+
+set.seed(1999)
+amova4.test   <- randtest(amova4, nrepet = 9999)
+amova4.test
+```
+
+```{r}
+plot(amova4.test)
+```
+
+
+
+```{r}
+#AMOVA considering management units
+library(poppr, lib.loc="~/R/win-library/3.4", warn.conflicts = FALSE, quietly=TRUE)
+
+amova5<- poppr.amova(my_data, ~region/site, within = FALSE, 
+                     nperm = 10000, quiet = TRUE)
+
+amova5
+
+
+set.seed(1999)
+amova5.test   <- randtest(amova5, nrepet = 9999)
+amova5.test
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
