@@ -18,18 +18,18 @@ library(dplyr)
 setwd("D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/SlidingWindow")
 
 ## sliding window analysis output file. Use filtered version
-swa_output = read.table("East/batch_8_final_filtered_east_globalFST_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt", header = TRUE, sep = "\t")
+swa_output = read.table("West/batch_8_final_filtered_west_2reg_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt", header = TRUE, sep = "\t")
 dim(swa_output)
 head(swa_output) ## heading should be:  chromosome,position,Fst.Fct,Mean_boostrap,lower_95,upper_95,pvalue
 
 
 ## sliding window analysis input file (will provide FST per locus)
-swa_input <- read.table("East/batch_8_SWA_input_east_sorted.txt", header = TRUE, sep="\t", colClasses = c("character", "numeric", "character", "numeric"))
+swa_input <- read.table("West/batch_8_SWA_input_west_sorted.txt", header = TRUE, sep="\t", colClasses = c("character", "numeric", "character", "numeric"))
 head(swa_input) ## heading should be:  Locus,fst,chromosome,position
 
 
 ## list of outlier loci to highlight. should have locus names in first column; adjust "colClasses" per your input file
-outlierfile = read.table("../outliers/batch_8_final_filtered_aligned_EAST_outliers.txt", header = TRUE, colClasses = c("character", "character"))
+outlierfile = read.table("../outliers/batch_8_final_filtered_aligned_WEST_outliers_2progs_forSWA.txt", header = TRUE, colClasses = c("character"))
 head(outlierfile)
 
 
@@ -117,7 +117,7 @@ plot_loci_overlay = function(data = swa_output, loci_data = swa_input, outlier_d
     if(length(outliers.part$position) > 0){
       par(new=TRUE)
       print(outliers.part)
-      plot(outliers.part$position, outliers.part$fst, col="darkorchid2", pch = 15, ylim=c(min_lim,max_lim), 
+      plot(outliers.part$position, outliers.part$fst, col=color, pch = 15, ylim=c(min_lim,max_lim), 
            xlim=c(0,max_x_lim),xaxt = "n", yaxt = "n", xlab = "", ylab= "")
     }
     if( export == TRUE ){
