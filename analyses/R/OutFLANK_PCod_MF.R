@@ -28,9 +28,9 @@ source("https://raw.githubusercontent.com/whitlock/OutFLANK/master/R/Fst%20Diplo
 
 # To convert a genepop file to the input SNPmat, see python script here:https://github.com/mfisher5/PCod-Korea-repo/blob/master/analyses/Outliers/convert_genepop_to_SNPmat.py
 
-loci <- read.table("batch_8_east_SNPmat_locusnames.txt", header=F)
-pops <- read.table("batch_8_east_SNPmat_popnames.txt", header=F)
-data = read.csv("batch_8_east_SNPmat.txt", header = FALSE, sep = "\t")
+loci <- read.table("batch_8_eastwest_SNPmat_locusnames.txt", header=F)
+pops <- read.table("batch_8_eastwest_SNPmat_popnames.txt", header=F)
+data = read.csv("batch_8_eastwest_SNPmat.txt", header = FALSE, sep = "\t")
 datamat = as.matrix(data)
 
 FstDataFrame <- MakeDiploidFSTMat(SNPmat = data, locusNames = loci, popNames = pops)
@@ -42,7 +42,7 @@ FstDataFrame <- MakeDiploidFSTMat(SNPmat = data, locusNames = loci, popNames = p
 ####### Identify Outliers #######
 
 
-mydata.outflank <- OutFLANK(FstDataFrame, LeftTrimFraction=0.05, RightTrimFraction=0.05, Hmin=0.1, NumberOfSamples=6, qthreshold=0.05)
+mydata.outflank <- OutFLANK(FstDataFrame, LeftTrimFraction=0.05, RightTrimFraction=0.05, Hmin=0.1, NumberOfSamples=12, qthreshold=0.05)
 
 # take a look at the output! 
 typeof(mydata.outflank) # spoiler: it's a list.
@@ -86,9 +86,10 @@ write.csv(dataframe, file="batch_8_east_bypop_outflank_outliers.csv", row.names 
 ###### Plotting results #########
 
 # plots the actual (yellow) and theoretical (smoothed blue curve) distribution of Fst
-OutFLANKResultsPlotter(mydata.outflank)
+OutFLANKResultsPlotter(mydata.outflank, titletext = "Western Population")
+?OutFLANKResultsPlotter
 
 # plots Fst against expected Heterozygosity
-plot(mydata.outflank$results$FST, mydata.outflank$results$He, xlab = "Per Locus FST", ylab = "Per Locus He")
+plot(mydata.outflank$results$FST, mydata.outflank$results$He, xlab = "Per Locus Fst", ylab = "Per Locus He", main = "Western Population")
 
-
+?plot

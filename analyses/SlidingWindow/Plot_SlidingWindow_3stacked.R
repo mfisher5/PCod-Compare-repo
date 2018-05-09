@@ -31,7 +31,7 @@ all <- read.table("EastvWest/batch_8_SWA_eastwest_globalFst_filtered_output_kern
 
 # Plot just Three Lines ---------------------------------------------------
 
-plot_lines_overlay(data1 = all, data2 = east, data3 = west, Nb_divisions = 150, legend.text=c("All Data", "East Population", "West Population"), which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="SWA_lines_overlay_test")
+plot_lines_overlay(data1 = all, data2 = east, data3 = west, Nb_divisions = 150, legend.text=c("All Data", "East Population", "West Population"), which.chromosome.analysis="all", which.chromosome.plot="all",export = FALSE, name="SWA_lines_overlay_test")
 
 
 
@@ -60,7 +60,7 @@ head(all_selection)
 
 # Plot All Lines with Divergence regions ----------------------------------
 
-plot_lines_overlay_divergence(data1 = all_selection, data2 = east_selection, data3 = west_selection, Nb_divisions = 150, legend.text=c("All Data", "East Population", "West Population"), which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="plots/SWA_lines_overlay_divergence_test")
+plot_lines_overlay_divergence(data1 = all_selection, data2 = east_selection, data3 = west_selection, Nb_divisions = 150, legend.text=c("All Data", "East Population", "West Population"), which.chromosome.analysis="all", which.chromosome.plot="all",export = FALSE, name="plots/SWA_lines_overlay_divergence_test")
 
 
 
