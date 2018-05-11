@@ -10,13 +10,13 @@
 ######## arguments #########
 import argparse 
 
-parser = argparse.ArgumentParser(description="subset and plot a netCDF file from the MIMOC database.")
+parser = argparse.ArgumentParser(description="subset a netCDF file from the MIMOC database, and print out data. THIS SHOULD ONLY BE RUN FOR LAT/LONG GRIDS WITH DATA COVERAGE. Use plotting script to ID grids to extract.")
 
 parser.add_argument("-i", "--input", help="input file; should be a .nc.gz file from MIMOC")
-parser.add_argument("-p", "--plot", help="output plot file; should be a .jpg")
+parser.add_argument("-o", "--output", help="output text file for data frame; do not include `.txt`")
 parser.add_argument("-lat", "--latitude", help="start, end latitude. 120,135 Korean peninsula [start,end]")
 parser.add_argument("-long", "--longitude", help="start, end longitude. 30,40 Korean peninsula [start,end]")
-parser.add_argument("-d", "--depth", help="depth to retrieve data from. Coded by seq(0,x,by=5) so d1 = 0m, d2 = 5m, d2 = 10m, etc.")
+parser.add_argument("-d", "--depth", help="depth to retrieve data from. Coded by seq(0,x,by=5) so d1 = 0m, d2 = 5m, d2 = 10m, etc. enter as the start and end of list ['0,3'] = '0,1,2,3")
 parser.add_argument("-var", "--variable", help="Variable to plot [CONSERVATIVE_TEMPERATURE / ABSOLUTE_SALINITY]")
 
 args = parser.parse_args()
@@ -63,7 +63,15 @@ def lat_lon_indices(latitudes,longitudes,latlonrange):
                             
     return index
 
+# define function that creates a range using floats
+def frange(x, y, jump):
+	while x < y:
+	    yield x
+	    x += jump
+
+
 ############ subset data ###############
+print "subsetting data..."
 #MIMOC VARIABLES: ['LATITUDE', 'PRESSURE', 'POTENTIAL_TEMPERATURE', 'LONGITUDE', 'SALINITY']
 #OR:
     #MIMOC VARIABLES: ['LATITUDE', 'PRESSURE', 'CONSERVATIVE_TEMPERATURE', 'LONGITUDE', 'ABSOLUTE_SALINITY']
@@ -76,33 +84,56 @@ data=import_data(filename)
 
 
 #define the latitude-longitude range you want to look at. example: [120,135,30,40] captures the Korean Peninsula area
-lon_start = int(args.longitude.split(",")[0])
-lon_end = int(args.longitude.split(",")[1])
-lat_start = int(args.latitude.split(",")[0])
-lat_end = int(args.latitude.split(",")[1])
+lon_start = float(args.longitude.split(",")[0])
+lon_end = float(args.longitude.split(",")[1])
+lat_start = float(args.latitude.split(",")[0])
+lat_end = float(args.latitude.split(",")[1])
 llrange=[lat_start,lat_end,lon_start,lon_end]  
 print llrange
 
 #find the relevant section of the data to look at based on your latitude/longitude range
 ll_index=lat_lon_indices(data['LATITUDE'],data['LONGITUDE'],llrange)
 
-############### plot data ##################
-fig=plt.figure()
-m = Basemap(llcrnrlon=data['LONGITUDE'][ll_index[0]],llcrnrlat=data['LATITUDE'][ll_index[2]],
-            urcrnrlon=data['LONGITUDE'][ll_index[1]],urcrnrlat=data['LATITUDE'][ll_index[3]],projection='mill')
-x,y=np.meshgrid(data['LONGITUDE'][ll_index[0]:ll_index[1]],data['LATITUDE'][ll_index[2]:ll_index[3]])
 
-#make a contour plot of the data you want to look at; you'll need to give it an index for the pressure, 
-#which I think is spaced out by 5 meters near the surface. Therefore, if you pick 0 for plevel, you'll get 0m,
-#1 for plevel is 5m, 2 for plevel is 10m, and so on. 
-plevel=int(args.depth)
-print('You are looking at a depth of ', data['PRESSURE'][plevel])
-m.contourf(x,y,data[args.variable][plevel,ll_index[2]:ll_index[3],ll_index[0]:ll_index[1]],10,latlon='True')
-m.drawrivers()
-m.bluemarble()
-#add lat/long lines
-m.drawmeridians(np.arange(lat_start, lat_end, 2), labels = [True] *len(np.arange(lat_start, lat_end, 4)))
-m.drawparallels(np.arange(lon_start, lon_end, 2), labels = [True]*len(np.arange(lon_start, lon_end, 4)))
-plt.colorbar()
-plt.savefig(args.plot)
+# subset data frame and save as new object "mydata"; you'll need to give it an index for the pressure, which I think is spaced out by 5 meters near the surface. 
+#     Therefore, if you pick 0 for plevel, you'll get 0m,
+#     1 for plevel is 5m, 2 for plevel is 10m, and so on. 
+depth_start = int(args.depth.split(",")[0])
+depth_stop = int(args.depth.split(",")[1])
+depth_list = range(depth_start, depth_stop, 1)
+outfile = open(args.output, "w")
 
+# create and write file header (longitudes)
+header_list = list(frange(lat_start, lat_end, 0.5))
+header = "\t".join([str(i) for i in header_list])
+outfile.write("lat\t" + header + "\tdepth\n")
+
+for depth in depth_list:
+	plevel=int(depth)
+	print('You are looking at a depth of ', data['PRESSURE'][plevel])
+	mydata = data[args.variable][plevel,ll_index[2]:ll_index[3],ll_index[0]:ll_index[1]]
+
+	############ write data out to file ###########
+	print "writing subset to file for depth ", depth, "..."
+
+	# create list of latitudes
+	row_list = list(frange(lon_start, lon_end, 0.5))
+
+	# if-else to make sure row names match dimensions of data frame; 
+	#     then write out data (one row per 0.5 degrees of latitude)
+	if len(row_list) != len(mydata):
+		print "Data and Lat/Long coordinates do not match!"
+		print len(row_list)
+		print row_list
+		print len(mydata)
+		print mydata
+	else:
+	    for i in range(0, len(row_list)):
+	        outfile.write(str(row_list[i]) + "\t" + "\t".join([str(i) for i in mydata[i]]) + "\t" + str(data['PRESSURE'][plevel]) + "\n")
+
+
+# close output file
+outfile.close()
+
+
+print "done."
