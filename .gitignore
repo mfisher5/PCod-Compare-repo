@@ -112,3 +112,5 @@ zp3_gene/*.nhr
 zp3_gene/*.nin
 zp3_gene/*.nsq
 KOR_batch_8_to_zp3
+analyses/environmental/*.nc.gz
+analyses/environmental/doc/*
