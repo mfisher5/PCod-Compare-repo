@@ -23,7 +23,7 @@ setwd("D:/Pacific cod/DataAnalysis/PCod-Compare-repo/analyses/SlidingWindow")
 source("SlidingWindow_FindMarkers_Function.R")
 source("Plot_SlidingWindowAnalysis_Functions.R")
 
-mydata <- read_delim("EastvWest/batch_8_SWA_mydatawest_globalFST_filtered_output_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt", "\t", escape_double = FALSE, trim_ws = TRUE)
+mydata <- read_delim("EastvWest/batch_8_SWA_eastwest_globalFST_filtered_output_kernel_smoothing_1e+05_bootstraps_sigma_250000_div150_FILTERED.txt", "\t", escape_double = FALSE, trim_ws = TRUE)
 head(mydata)
 
 
@@ -79,7 +79,9 @@ ggplot(data=mydata_selection, aes(x = `Fst.Fct`, y = pvalue)) +
 ## plot all chromosomes using overlay function
 colnames(mydata_selection) <- c("chromosome","position","Fst/Fct","Mean_boostrap","lower_95","upper_95","pvalue","positive","negative","selection")
 
-just_plot_diverge(data1 = mydata_selection, Nb_divisions = 150, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="plots/Eastwest/SWA_EastWest_Divergence")
+
+
+just_plot_diverge(data1 = mydata_selection, Nb_divisions = 150, which.chromosome.analysis="all", which.chromosome.plot="all",export = TRUE, name="plots/Eastwest/SWA_EastWest_Divergence_filtered")
 
 
 

@@ -77,9 +77,9 @@ barplot(pca_neutral$eig[1:50],main="PCA eigenvalues", col=heat.colors(50))
 # Plot Outlier PCAs ----------------------------------------------------------------
 
 #Color of points (order in genepop)
-col <- c("tomato1","#bd0026","gold", "#feb24c", "sienna", "orangered2")
+col <- c("#f03b20", "firebrick4", #ffffb2, "#feb24c", "#fd8d3c", "#bd0026")
 names_leg <- c("Wash. Coast", "Hecate Strait", "PW Sound", "Kodiak", "Unimak Pass", "Adak")
-col_leg <- c("gold", "#feb24c", "sienna", "tomato1", "orangered2", "#bd0026")
+col_leg <- c(#ffffb2, "#feb24c", "#fd8d3c", "#f03b20", "#bd0026","firebrick4")
 
 #to graph with lines between samples
 s.class(pca_outliers$li, fac=pop(my_data_outliers), 
@@ -89,6 +89,7 @@ s.class(pca_outliers$li, fac=pop(my_data_outliers),
         cpoint=1,
         grid=FALSE, #otherwise will have light gray grid markers
         pch=19, #change point shapes
+        
         axesell=TRUE)
 # add legend
 legend(x=-13,y=7.5, legend = names_leg, col = col_leg, border = FALSE, bty = "n", cex = 0.9, pt.cex=1.5, title = "Sampling Site",pch=19)

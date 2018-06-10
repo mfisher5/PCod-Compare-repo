@@ -32,6 +32,7 @@ import cmocean
 
 
 ########### functions ##############
+
 def import_data(file_name):
     '''This function works regardless of the file called as long as a list of 
     variables can be identified easily in the file.'''
@@ -62,6 +63,7 @@ def lat_lon_indices(latitudes,longitudes,latlonrange):
     index[3] = int(next(i for i,j in enumerate(latitudes) if j == latlonrange[3]))
                             
     return index
+
 
 ############ subset data ###############
 #MIMOC VARIABLES: ['LATITUDE', 'PRESSURE', 'POTENTIAL_TEMPERATURE', 'LONGITUDE', 'SALINITY']
@@ -101,7 +103,7 @@ m.contourf(x,y,data[args.variable][plevel,ll_index[2]:ll_index[3],ll_index[0]:ll
 m.drawrivers()
 m.bluemarble()
 #add lat/long lines
-m.drawmeridians(np.arange(lat_start, lat_end, 2), labels = [True] *len(np.arange(lat_start, lat_end, 4)))
+m.drawmeridians(np.arange(lat_start, lat_end, 5), labels = [True] *len(np.arange(lat_start, lat_end, 4)))
 m.drawparallels(np.arange(lon_start, lon_end, 2), labels = [True]*len(np.arange(lon_start, lon_end, 4)))
 plt.colorbar()
 plt.savefig(args.plot)
